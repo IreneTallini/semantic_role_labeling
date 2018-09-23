@@ -1,0 +1,147 @@
+1	TOLERATE	Agent (person | social_group )	 patient (abstract | human)								
+3	CARRY TRANSPORT	agent (person | social_group | animal)	 patient (physical_object)	 source ()	 destination ()						
+4	ABSORB	agent (physical_object)	 patient (liquid | light | gas)								
+5	LEARN	Agent (person)	 topic (knowledge | activity)								
+9	SPEAK	Agent (person | social_group)	 topic (speech act)	 [recipient (person | social_group)]							
+10	TAKE	Agent (person)	 patient (physical_object)	 [source ()	 instrument (physical_object)]						
+11	AUTHORIZE ADMIT	1) Agent (person | social_group)	 patient (person | artefact)	 destination (place | social_group)	 2) Agent (person | social_group | abstract)	 patient (person | abstract)					
+14	PERFORM	1) agent (person | social_group)	 patient (musical_instrument)	 2) agent (person | social_group | musical_instrument)	 patient (music | play | performance)						
+17	BEHAVE	Agent (person)	 [attribute (abstract)]								
+18	INCITE INDUCE	1) agent (person | social_group)	 experiencer (person | animal)	 2) agent (abstract)	 experiencer (person | animal)						
+21	SUBJECTIVE JUDGING	1) agent (person | social_group )	 theme (person | object)	 [attribute (abstract)]	 2)  agent (person | social_group )	 theme (abstraction)					
+22	FOLLOW SUPPORT SPONSOR FUND	agent (person | social_group)	 theme (person | social_group | belief)								
+24	PROVE	1) Agent (person | research)	 topic (communication | knowledge)	 2) Agent (person | research)	 attribute (abstract)						
+25	AGREE	Agent (person)	 theme (abstract)								
+28	RISE GO UP	agent (person | social_group | vehicle)	 destination (physical_object)								
+29	STOP	1) Agent (person | social_group)	 patient (object)	 [instrument (physical_object)]	 2)Agent (person | social_group)	 patient (abstract)	[instrument ()]				
+30	MOVE ONESELF	Agent (person)	 [location (physical_object | physical_entity)]								
+31	SUCCEED	1) agent(person)	 2) agent (abstract)								
+32	REQUIRE NEED WANT HOPE	1) Agent (person)	 patient (abstraction | object)	 2) agent (abstraction)	 patient (abstraction)						
+33	FIND	1) Agent (person | social_group)	 patient (object)	 [location ()]	 2) Agent (person | social_group)	 patient (abstract)	 [location ()]				
+39	CONTAIN	agent (physical_object)	 theme (physical_object)								
+40	POSSESS	1) Agent (person | social_group)	 theme (physical_object)	 2) Agent (person | social_group)	 theme (abstract)						
+45	BELIEVE	Agent (person | social_group)	 theme (person)	 2) Agent (person | social_group)	 theme (communication | belief)						
+46	BEGIN	1) Agent (person | social_group)	 theme (object | abstract)	 2) agent (abstract)	 [attribute ()]						
+48	DRINK	Agent (person | animal)	 patient (liquid)								
+50	OBLIGE FORCE	1) Agent (person | social_group)	 patient (person | social_group)	 result (abstract)	 [instrument ()]	 2) Agent (abstract)	 patient (person | social_group)	 result (abstract)	 [instrument ()]		
+51	EAT BITE	1) Agent (person | animal)	 patient (food)	 2) Agent (person | animal)	 patient (object)						
+53	DISAPPEAR	1) Patient (physical_object)	 [location ()]	 2) Patient (physical_object)	 [location ()]						
+58	BREAK DETERIORATE	Agent (person)	 patient (physical_object)	 [instrument (physical_object)	 result ()]						
+60	BRING	1) Agent (person | animal)	 patient (physical_object)	 destination ()	 2) Agent (person | animal)	 patient (abstract)	 destination ()				
+62	KILL	Agent (person | social_group | disease)	 [instrument (physical_object)]	 patient (living_thing)							
+63	DIE	Patient (person | animal | plant)	 [cause ()]								
+64	CALCULATE ESTIMATE	1) Agent (person | social_group | device)	 theme (physical_object)	 [value (magnitude | value | number)]	 2) Agent (person | social_group | device)	 theme (abstract)	 [value (magnitude | value | number)]				
+66	COMMUNICATE CONTACT	Agent (person | social_ group | facility)	 patient (person | social_ group | facility)	 [instrument (artifact)]							
+69	READ	Agent (person)	 theme (information | communication)								
+72	ORDER	Agent (person | social_group)	 patient (person | social_group | animal)	 attribute (abstract)							
+76	REMEMBER	1) Agent (person | social_group)	 theme (physical_object)	 2) Agent (person | social_group)	 theme (abstract)						
+79	CATCH	Agent (person | animal)	 patient (physical_object)								
+83	SEND	Agent (person | social_group)	 recipient (physical_object)	 patient (physical_object | communication)	 [instrument ()]						
+86	PERSUADE	1) Agent (person | social_group)	 patient (person | social_group)	 result (abstract)	 [instrument ()]	 2) Agent (abstract)	 patient (person | social_group)	 result (abstract)	 [instrument ()]		
+90	FEED	Agent (person | social_group | animal)	 patient (food)	 beneficiary (person | social_group | animal)							
+91	ADJUST CORRECT 	1) Agent (person)	 patient (physical_object)	 [instrument (physical_object)]	 2) Agent (person)	 patient (abstract)	 [instrument (physical_object)]				
+92	HIT	Agent (physical_object)	 [instrument (physical_object)]	 patient (physical_object)							
+93	UNDERSTAND	1) Agent (person | social_group)	 theme (communication | idea | human)	 2) Agent (person | social_group)	 attribute (abstract)						
+94	HEAR LISTEN	Agent (person | social_group | animal)	 patient ()								
+96	THINK	Agent (person | social_group)	 theme ()								
+99	CHOOSE	1) Agent (person | social_group)	 theme (physical_object)	 [goal (abstract)]	 2) Agent (person | social_group)	 theme (abstract)	 [goal (abstract)]				
+119	LEAVE DEPART RUN AWAY	Agent (person | social_group | animal | means_of_transportation)	 source ()	 destination ()							
+125	LEAD GOVERN	1) Agent (person | social_group)	 theme (person | social_group | artifact)	 2) Agent (person | social_group)	 theme (abstract)						
+132	LOOK	1) Experiencer (person | social_group | animal)	 stimulus (physical_object)	 2) Experiencer (person | social_group | animal)	 stimulus (abstract)						
+134	DESTROY	1) Agent (physical_entity | social_group)	 patient (physical_object)	 [instrument (physical_object)]	 2)Agent (abstract)	 patient (abstract)	 [instrument (abstract)]				
+142	WET	agent (person | social_group)	 patient (physical_object)	 [instrument (liquid)]							
+150	ENJOY	experiencer (person | animal| social_group)	 stimulus ()								
+152	SPILL POUR	Agent (person)	 patient (liquid)	 source (container)	 destination (container | surface)						
+153	MOVE SOMETHING	Agent (person | animal | social_group)	 patient (physical_object)	 source ()	 destination()						
+154	REPLACE	Agent (person)	 Patient (person | object)	 co-patient (person | object)							
+155	WASH CLEAN	Agent (person | animal)	 patient(object | body | body_part)	 [instrument (physical_object)]							
+159	CELEBRATE PARTY	1) Agent (person | social_group)	 theme (person_ social_group)	 2) Agent (person | social_group)	 theme (abstract)						
+162	SHOW	1) Agent (physical_object | physical_entity)	 theme (physical_object | physical_entity)	 [recipient (person | social_group)]	 2) Agent (physical_object | physical_entity)	 theme (abstract)	 [recipient (person | social_group)]				
+175	TRAVEL	Agent (physical_entity)	 location (physical_entity)								
+176	ANALYZE	1) Agent (person | social_group)	 theme (physical_object | physical_entity)	 attribute ()	 [instrument ()]	 2) Agent (person | social_group)	 theme (abstract)	 attribute ()	 [instrument ()]		
+181	PRECLUDE FORBID EXPEL	1) Agent (person | social_group)	 theme (physical_object | physical_entity)	 2) Agent (person | social_group)	 theme (abstract)						
+185	BUY	Agent (person)	 patient (physical_object)	 [asset ()]							
+186	RECEIVE	1) Agent (person | social_group)	 patient (physical_object | physical_entity)	 [source ()]	 2) Agent (person | social_group)	 patient (abstract)	 [source ()]				
+188	ORGANIZE	Agent (person | social_group)	 theme (abstract)	 [result ()]							
+189	GIVE GIFT	1) Agent (person | social_group)	 recipient (person | social_group)	 patient (physical_object)	 2) Agent (person | social_group)	 recipient (person | social_group)	 patient (abstract)				
+197	SEARCH	1) Agent (person | social_group)	 theme (physical_object)	 location ()	 2)  Agent (person | social_group)	 theme (abstract)	 location (abstract)				
+198	HELP HEAL CARE CURE	Agent (person | social_group | medicine)	 patient (person | social_group | animal | plant | pathological_state | disorder | body_part)	 theme ()	 [instrument ()]						
+202	SHOOT LAUNCH PROPEL	Agent (person | social_group)	 theme (physical_object)	 initial_location ()	 destination ()	 instrument (physical_object)					
+204	ATTACK BOMB	Agent (person | social_group| animal)	 patient (physical_object)	 instrument (physical_object)							
+206	SECURE FASTEN TIE	Agent (person)	 patient (physical_object)	 instrument (artifact)	 [location ()]						
+207	STABILIZE SUPPORT PHYSICALLY	Agent (person | social_group )	 patient (physical_objec)	 instrument (physical_objec)							
+212	CLOSE	Agent (person | social_group | animal | artifact)	 patient (physical_object)	 instrument (physical_object)							
+216	RECORD	1) Agent (person | social_group)	 topic(physical_object | physical_entity)	 [theme ()]	 destination (physical_object)	 2) Agent (person | social_group)	 topic(abstract)	 [theme ()]	 destination (physical_object)		
+219	RAISE LIFT	Agent (person | social_group)	 patient (physical_object)	 instrument ()							
+220	STORE	1) Agent (person| animal | social_group )	 patient (object )	 location ()	 2) Agent (person| social_group )	 patient (value)	 location ()				
+225	STUDY	Agent (person | social_group)	 topic (abstract)	 goal (abstract)							
+227	PROPOSE	1) Agent (person | social_group)	 theme (physical_object | physical_entity)	 [recipient (person | social_group)]	 2) Agent (person | social_group)	 theme (physical_object | physical_entity)	 [recipient (person | social_group)]				
+228	TOUCH	Agent (physical_object)	 experiencer (physical_object)	 instrument (physical_object)							
+229	SELL	Agent (person | social_group)	 theme (physical_object)	 recipient ()	 asset (medium_of_exchange)	 2) Agent (person | social_group)	 theme (abstract)	 recipient (person | social_group)	 asset (medium_of_exchange)		
+234	THROW	Agent (person | social_group)	 theme (physical_object)	 initial_location ()	 destination (person | social_group | physical_object)						
+239	REMOVE TAKE AWAY KIDNAPP	Agent (person | social_group)	 patient (physical_object)	 [source ()]							
+241	REDUCE DIMINISH	Agent (physical_entity | physical_object)	 patient (physical_object)	 attribute ()							
+242	MOVE BY MEANS OF	Agent (person | social_group)	 instrument (vehicle | animal)	 source ()	 destination ()						
+244	VERIFY	1) Agent (person | social_group)	 theme (abstract)	 instrument ()	 2) Agent (person | social_group)	 theme (physical_object)	 instrument ()				
+249	COVER SPREAD SURMOUNT	Agent (person | social_group)	 theme (physical_object)	 co-theme (physical_object)							
+255	DISCARD	1) Agent (person | social_group)	 theme (physical_object)	 2)  Agent (person | social_group)	 theme (abstract)						
+260	ABSTAIN AVOID REFRAIN	1) Agent (person | social_group)	 theme (physical_object)	 2) Agent (person | social_group)	 theme (abstract)						
+276	HUNT	Agent (person | social_group | animal)	 theme (animal)	 instrument (physical_object)	 [location ()]						
+279	EARN	Agent (person | social_group)	 [asset ()]								
+283	COIL avvolgere	Agent (person | animal)	 patient (physical_object)	 [location ()]							
+285	WATCH LOOK OUT	1) Agent (person | social_group)	 theme (physical_object)	 2)  Agent (person | social_group)	 theme (abstract)						
+288	APPEAR	1) Theme (physical_object | physical_entity)	 location ()	 2) Theme (abstract)	 location ()						
+290	OBTAIN	1) Agent (person | social_group | animal)	 patient (physical_object | physical_entity)	 source (physical_object | physical_entity)	 2) Agent (person | social_group | animal)	 patient (abstract)	 source (abstract)				
+301	STEAL DEPRIVE	1) Agent (person | social_group)	 theme (physical_object)	 source (person | social_group)	 [beneficiary ()]	 2) Agent (person | social_group)	 theme (abstract)	 source (person | social_group)	 [beneficiary ()]		
+304	SHARE	1) Agent (person | social_group)	 [co-agent (person | social_group)]	 patient (physical_object)	 2) Agent (person | social_group)	 [co-agent (person | social_group)]	 patient (abstract)				
+306	PAY	Agent (person | social_group)	 [asset (medium_of_exchange)	 patient (person | social_group)]	 theme (abstract)						
+309	ACCEPT	Agent (person)	 patient (abstract)								
+314	EXPLAIN	agent (person | social_group)	 [recipient (person | social_group)]	 topic (abstract)							
+317	KNOW	1) Agent (person | social_group | animal)	 theme (physical_object). [attribute()]	 2) Agent (person | social_group | animal)	 theme (abstract). [attribute()]						
+321	GROUP	[agent (person | social_group)]	 theme (person | social_group)	 [result (social_group)]							
+324	ANSWER	Experiencer (physical_object)	 stimulus (abstract)								
+327	WRITE	Agent (person)	 result (written_communication)	 topic (abstract)	 instrument ()	 destination ()					
+330	ASK REQUEST	1) Agent (person | social_group)	 recipient (person | social_group)	 material (physical_object)	 2) Agent (person | social_group)	 recipient (person | social_group)	 topic (abstract)				
+337	PREPARE	1) Agent (person | social_gorup)	 patient (physical_ object | physical_entity)	 [goal (abstract)]	 2) Agent (person | social_gorup)	 patient abstract)	 [goal (abstract)]				
+341	REPRESENT	Agent (physical_object)	 theme (asbtract) [attribute (abstract)]								
+343	FOCUS	agent (person)	 topic (person | physical_object)	 2) agent (person)	 topic (knowledge)						
+344	LIKE	1) Experiencer (person | social_group | animal)	 stimulus (physical_object)	 2) Experiencer (person | social_group | animal)	 stimulus (abstract)						
+345	TEACH	Agent (person | social_group)	 recipient (person | social_group | animal)	 topic (abstract)	 [instrument  ()]						
+346	SIGNAL INDICATE	Agent (person | social_group | animal)	 recipient (person | social_group | animal)	 topic (abstract)	 instrument (physical_object)	 [patient (physical_object)]					
+354	PAINT	Agent (person | social_group)	 patient (physical_object)	 result ()	 instrument (physical_object)						
+355	LOWER	Agent (person | social_group)	 patient (physical_object)								
+358	BUILD	Agent (person | social_group)	 product (physical_object)	[material (physical_object)	 beneficiary (physical_object)]						
+372	DEBASE ADULTERATE	1) Agent (person | social_group)	 patient (physical_object)	 insturment (physical_object)	 2) Agent (person | social_group)	 patient (abstract)	 insturment (abstract)				
+379	COUNT	1) agent (person | social_group)	 theme (physical_object)	 2) agent (person | social_group)	 theme (abstract)						
+380	SORT CLASSIFY ARRANGE	1) Agent (person | social_group)	 theme (physical_object | physical_entity)	 [goal (abstract)]	 2) Agent (person | social_group)	 theme (abstract)	 [goal (abstract)]				
+382	CREATE MATERIALIZE 	1) Agent (person | social_group)	 result (physical_object)	 material (physical_object)	 beneficiary ()	 2) Agent (person | social_group)	 result (abstract)	 material (abstract)	 beneficiary ()		
+391	PULL	1) Agent (person | vehicle | animal)	 patient (physical_object)								
+407	OFFER	1) Agent (person | social_group)	 [asset (medium_of_exchange)]	 theme (physical_object)	 goal (person | social_group)	 2) Agent (person | social_group)	 [asset (medium_of_exchange)]	 theme (abstract)	 goal (person | social_group)		
+410	COMPETE	Agent (person | social_group | animal)	 [co-agent (person | social_group | animal)]	 theme (contest)	 goal (abstract)						
+413	DECIDE DETERMINE	agent (person | social_group)	 theme (abstract)								
+419	ATTACH	Agent (person | social_group)	 patient (physical_object)	 co-patient (physical_object)	 instrument (physical_object)						
+420	ENCLOSE WRAP	Agent (person | social_group)	 Theme (physical_object)	 co-theme (physical_object)							
+421	FILL	Agent (person | social_group)	 destination (physical_object)	 theme (physical_object)							
+422	INSERT	Agent (person | social_group)	 theme (physical_object)	 destination (physical_object)							
+428	DECREASE	1) Agent (physical_entity | physical_object)	 patient (physical_object)	 [attribute ()]	 2 )Agent (physical_entity | physical_object)	 patient (abstract)	 [attribute ()]				
+429	FINISH CONCLUDE END	1) Agent (person | social_group)	 patient (abstract)	 [instrument ()	 result ()]	2	 Agent (abstract)	 patient (abstract)	 [instrument ()	 result ()]	
+431	HURT HARM ACHE	Stimulus ()	 patient (person |social_group | animal | plant)	  [result ()]							
+432	WORSEN	1) Agent (abstract)	 patient (physical_object | physical_entity)	 2) Agent (abstract)	 patient (abstract)						
+434	COMBINE MIX UNITE	1) Agent (person | social_group)	 patient (physical_object)	 co-patient (physical_object)	 [location()]	 2) Agent (person | social_group)	 patient (abstract)	 co-patient (abstract)	 [attribute ()]		
+435	AROUSE WAKE ENLIVEN	1) Stimulus (physical_object | physical_entity | social_group)	 experiencer (person | social_group)	 [instrument (physical_object)]	 2) Stimulus (abstract)	 experiencer (abstract)	 [instrument (abstract)]				
+436	HEAT	Agent (physical_object | physical_entity)	 patient (physical_object | physical_entity)	 [instrument (physical_object | physical_entity)]							
+437	DIRTY	[Agent (person | social_group)]	 theme (physical_object)	 destination (physical_object)							
+445	WEAKEN	1) Agent (abstract)	 patient (physical_object)	 2) Agent (abstract)	 patient (abstract)						
+449	LIGHTEN	Agent (physical_object | physical_entity)	 patient (physical_object)								
+462	COOK	Agent (person | social_group)	 patient (food)	 instrument (physical_object)	 result (food)						
+476	ANNULL	agent (person | social_group)	 patient (abstract)								
+479	USE	1) agent (person | social_group)	 patient (pysical_object)	 2) agent (person | social_group)	 patient (abstract)						
+483	MOUNT ASSEMBLE PRODUCE	Agent (person | animal | social_group)	 product (artifact)	 material (physical_object)							
+491	CANCEL ELIMINATE	1) Agent (person)	 theme (abstract)	 source (physical_object)	 [instrument (physical_object)]	 2) Agent (person)	 theme (abstract)	 source (abstract)	 [instrument (physical_object)]		
+500	SPEED UP	1) [Agent (person | social_group)]	 patient (physical_object | physical_entity)	 2) [Agent (abstract)]	 patient (abstract)						
+504	ARRIVE	Agent (physical_object)	 [destination (physical_object)	 instrument (vehicle)]							
+521	SEE	1) experiencer (person | social_group | animal)	 stimulus (physical_object)	 2) experiencer (person | social_group | animal)	 stimulus (abstract)						
+545	PLAN SCHEDULE	1) Agent (person | social_group)	 theme (physical_object)	 beneficiary (person | social_group). [location (physical_object)	 time ()	 goal (abstract)]	 2) Agent (person | social_group)	 theme (abstract)	 beneficiary (person | social_group). [location (physical_object)	 time ()	 goal (abstract)]
+580	JOIN CONNECT	Agent (person | social_group)	 patient (physical_object)	 [co-patient (physical_object)	 instrument (physical_object)]						
+597	WORK	Agent (person | social_group)	 [theme (abstract)]								
+605	MOVE BACK	[Agent (person | social_group)]	 patient (physical_object)	 source ()							

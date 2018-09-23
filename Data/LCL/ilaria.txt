@@ -1,0 +1,1001 @@
+PB frameset,,Example,Gloss,Sensekey,Babel Synset,Cluster,N°,Syntactic deviation,Argument info,Prototypicality,Lemmas
+pb:amble.01, , NO EXAMPLE, Walk leisurely, amble%2:38:00, bn:00082569v, MOVE ONESELF,30, , , , amble  � mosey
+pb:surge.01, m, surging waves, Rise or move forward, surge%2:38:03, bn:00094622v, RISE GO UP,28, , , , surge  � tide
+pb:coat.01, , NO EXAMPLE, Cover or provide with a coat, coat%2:29:00, bn:00085235v, COVER SPREAD SURMOUNT,249, , , x, coat
+pb:reassign.01, , NO EXAMPLE, Transfer somebody to a different position or location of work, reassign%2:41:00, bn:00092460v, CARRY TRANSPORT,3, , , x, reassign  � transfer
+pb:fire.03, , They burned the house and his diaries, Destroy by fire, fire%2:30:01, bn:00084270v, DESTROY,134, , iInstrument (fire bn:00034628n),1, burn   � burn down  � fire
+pb:frost.01, m, ice crystals frosted the glass, Cover with frost, frost%2:35:04, bn:00088594v, COVER SPREAD SURMOUNT,249, , iCo-theme (frosting bn:00036669n), x, frost
+pb:stop.01, m, the car stopped, Come to a halt stop moving, stop%2:38:00, bn:00089154v, STOP,29, -patient -instrument, , , stop  � halt
+pb:die.01, , Their anger died, Disappear or come to an end, die%2:30:01, bn:00086789v, FINISH CONCLUDE END,429, -patient, , , die
+pb:glance.01, , She only glanced at the paper, Throw a glance at; take a brief look at, glance%2:39:00, bn:00088869v, LOOK,132, , ,1, peek   � glance   � glint
+pb:rattle.02, m, NO EXAMPLE, Shake and cause to make a rattling noise, rattle%2:38:00, bn:00092388v, MOVE ONESELF,30, , , , rattle
+pb:surmount.01, , The scarf surmounted the gown, Be on top of, surmount%2:42:00, bn:00094626v, COVER SPREAD SURMOUNT,249, , , x, surmount
+pb:frustrate.01, m, "What ultimately frustrated every challenger was Ruths amazing September surge", Hinder or prevent (the efforts plans or desires) of, frustrate%2:41:00, bn:00083024v, ABSTAIN AVOID REFRAIN,260, , ,2, frustrate  � foil  � thwart  � scotch  � baffle
+pb:commingle.01, m, His book commingles sarcasm and sadness, Mix or blend, commingle%2:35:00, bn:00085421v, COMBINE MIX UNITE,434, , ,2, commingle
+pb:forbid.01, , I forbid you to call me late at night, Command against, forbid%2:32:00, bn:00086877v, PRECLUDE FORBID EXPEL,181, +patient, , , prohibit  � forbid   � proscribe   � disallow   � interdict
+pb:break.12, , The wall collapsed, Break down literally or metaphorically, break%2:38:11, bn:00083932v, BREAK DETERIORATE,58, -agent -instrument, , , break   � cave in  � collapse  � fall in  � founder
+pb:depart.01, , NO EXAMPLE, Go away or leave, depart%2:38:00, bn:00086603v, LEAVE DEPART RUN AWAY,119, , , x, depart   � quit   � take leave  � exit   � go away
+pb:hurt.01, m, She hurt me when she did not include me among her guests, Hurt the feelings of, hurt%2:37:00, bn:00084149v, HURT HARM ACHE,431, , , , wound   � bruise   � hurt   � injure  � offend
+pb:starve.01, m, "Lets eat--Im starving!", Be hungry; go without food, starve%2:34:00, bn:00088028v, HURT HARM ACHE,431, , , , starve   � famish   � hunger
+pb:burn.01, m, The sun burned his face, Cause a sharp or stinging pain or discomfort, burn%2:39:00, bn:00083516v, HURT HARM ACHE,431, , , x, bite   � burn   � sting
+pb:muse.01, , I mulled over the events of the afternoon, Reflect deeply on a subject, muse%2:31:00, bn:00084889v, THINK,96, , , x, ponder  � mull over  � muse  � reflect  � chew over
+pb:lace.01, m, lace the shoelaces, Draw through eyes or holes, lace%2:35:00, bn:00090157v, SECURE FASTEN TIE,206, , , x, lace  � lace up
+pb:pool.01, m, NO EXAMPLE, Join or form a pool of people, pool%2:33:00, bn:00091839v, GROUP,321, , iresult (pool bn:00063535n), x, pool
+pb:scrub.01, , She scrubbed his back, Clean with hard rubbing, scrub%2:35:00, bn:00093360v, WASH CLEAN,155, , , x, scour  � scrub
+pb:drip.01, m, dribble oil into the mixture, Let or cause to fall in drops, drip%2:35:10, bn:00087306v, SPILL POUR,152, , , x, drip  � dribble  � drop
+pb:file.01, , File these bills please, Place in a container for keeping records, file%2:32:00, bn:00088167v, STORE,220, , iLocation (container bn:00022129n), , file   � file away
+pb:refrain.01, , He refrained from hitting him back, Resist doing something, refrain%2:42:00, bn:00088453v, ABSTAIN AVOID REFRAIN,260, , ,2, refrain   � forbear
+pb:parade.01, , the veterans paraded down the street, March in a procession, parade%2:38:00, bn:00091419v, TRAVEL,175, , , x, parade   � promenade   � troop
+pb:thrill.01, m, The men were thrilled by a loud whistle blow, Cause to be thrilled by some perceptual input, thrill%2:39:00, bn:00094929v, AROUSE WAKE ENLIVEN,435, , ,1, thrill
+pb:tick.05, c, Please check each name on the list, Put a check mark on or near or next to, tick%2:31:00, bn:00084852v, SIGNAL INDICATE,346, , iInstrument (check mark bn:00017986n), x, tick   � check   � check off  � mark   � mark off
+pb:flee.01, , He threw down his gun and fled, Run away quickly, flee%2:38:00, bn:00088291v, LEAVE DEPART RUN AWAY,119, -source -destination, , , flee  � fly   � take flight
+pb:mingle.02, , resourcefully he mingled music and dance, To bring or combine together or with something else, mingle%2:35:00, bn:00082565v, COMBINE MIX UNITE,434, , ,2,  amalgamate  � commix  � mingle   � mix   � unify
+pb:frame.03, , NO EXAMPLE, Enclose in a frame as of a picture, frame%2:42:00, bn:00088531v, ENCLOSE WRAP,420, , Ico-theme (frame bn:00036190n); theme (picture bn:00045772n), x, frame
+pb:end.01, , the bronchioles terminate in a capillary bed, Have an end in a temporal spatial or quantitative sense; either spatial or metaphorical, end%2:42:00, bn:00084711v, FINISH CONCLUDE END,429, , , , cease   � end   � finish   � stop   � terminate
+pb:bequeath.01, , My aunt bequeathed me all her jewelry, "Leave or give by will after ones death", bequeath%2:40:00, bn:00083420v, GIVE GIFT,189, , ,1, bequeath   � leave   � will
+pb:recede.01, , The enemy withdrew, Pull back or move away or backward, recede%2:38:01, bn:00087267v, MOVE BACK,605, , , x, draw back  � pull away  � retire   � withdraw   � move back
+pb:emerge.02, , Suddenly the proprietor emerged from his office, Come out into view as from concealment, emerge%2:30:00, bn:00087561v, APPEAR,288, , ,1, emerge
+pb:compile.01, , compile a list, Put together out of existing material, compile%2:36:00, bn:00085469v, MOUNT ASSEMBLE PRODUCE,483, , , x, compile   � compose
+pb:contract.01, m, The fabric shrank, Become smaller or draw together, contract%2:30:04, bn:00085728v, REDUCE DIMINISH,241, , iAttribute (size bn:00071887n), , shrink  � contract
+pb:bake.01, , bake a cake, Prepare with dry heat in an oven, bake%2:36:00, bn:00083042v, COOK,462, , iInstrument (oven bn:00059829n), x, bake
+pb:seduce.01, , She was seduced by the temptation of easy money and started to work in a massage parlor, Lure or entice away from duty principles or proper conduct, seduce%2:32:00, bn:00093429v, PERSUADE,86, , ,2, seduce
+pb:seize.01, m, The sales clerk quickly seized the money on the counter, Take hold of; grab, seize%2:35:00, bn:00085207v, CATCH,79, , , x, clutch   � prehend  � seize
+pb:skin.01, , pare apples, Strip the skin off, skin%2:35:00, bn:00091436v, REMOVE TAKE AWAY KIDNAPP,239, , IPatient (skin bn:00071978n), x, peel  � pare   � skin
+pb:examine.01, , The customs agent examined the baggage, Observe check out and look over carefully or inspect, examine%2:39:00, bn:00087787v, ANALYZE,176, , ,1, examine  � see
+pb:address.02, c, This book deals with incest, Act on verbally or in some form of artistic expression, address%2:32:04, bn:00082339v, SPEAK,9, , , , address   � cover   � deal   � handle   � plow
+pb:isolate.01, m, The chemist managed to isolate the compound, Obtain in pure form, isolate%2:30:01, bn:00089916v, OBTAIN,290, , ,1, isolate
+pb:decontaminate.01, , The soil around the housing development had to be decontaminated by the city, Rid of contamination, decontaminate%2:30:00, bn:00086406v, WASH CLEAN,155, , iMaterial (contamination bn:00022135n), , decontaminate
+pb:plunder.01, zc, During the earthquake people looted the stores that were deserted by their owners, Steal goods; take as spoils, strip%2:40:00, bn:00086690v, STEAL DEPRIVE,301, , iTheme (goods bn:00054416n),1, plunder  � loot  � pillage  � ransack  � rifle
+pb:capture.01, , "She captured all the mens hearts", Attract; cause to be enamored, capture%2:37:00, bn:00083288v, LIKE,344, , , , captivate  � becharm  � beguile  � catch  � fascinate
+pb:have.04, , The ads induced me to buy a VCR, Cause to do; cause to act in a specified manner, have%2:32:00, bn:00084700v, INCITE INDUCE,18, , ,2, stimulate  � induce   � make   � cause   � get
+pb:eat.01, m, "This dog doesnt eat certain kinds of meat", Take in food; used of animals only, eat%2:34:02, bn:00087462v, EAT BITE,51, , agent (animal bn:00004222n),1, feed   � eat
+pb:offer.01, , She offered us all a cold drink, Present for acceptance or rejection, offer%2:40:00, bn:00091136v, GIVE GIFT,189, , ,1, offer  � proffer
+pb:slam.01, m, He slammed the book on the table, Throw violently, slam%2:35:02, bn:00088274v, THROW,234, , , x, slam   � flap down
+pb:awake.01, , She woke up to the sound of the alarm clock, Stop sleeping, awake%2:29:00, bn:00082769v, AROUSE WAKE ENLIVEN,435, , , , awake   � awaken  � wake   � wake up  � arouse
+pb:port.01, , The small canoe could be ported easily, Carry bear convey or bring, port%2:35:07, bn:00091861v, CARRY TRANSPORT,3, , , , port
+pb:linger.01, m, Her perfume lingered on, Remain present although waning or gradually dying, linger%2:42:02, bn:00090382v, WEAKEN,445, -agent, , , linger
+pb:recite.01, m, she recited a poem, Repeat aloud from memory, recite%2:32:00, bn:00092502v, SPEAK,9, , , x, recite
+pb:titillate.01, , A titillating story appeared in the usually conservative magazine, Excite pleasurably or erotically, titillate%2:37:00, bn:00094995v, AROUSE WAKE ENLIVEN,435, , , , titillate
+pb:calibrate.01, , he calibrated the thermometer for the Celsius scale, Mark (the scale of a measuring instrument) so that it can be read in the desired units, calibrate%2:35:02, bn:00084379v, ADJUST CORRECT ,91, , patient (measuring instrument bn:00054025n),1, calibrate
+pb:float.01, m, The leaves were blowing in the wind, Be in motion due to some air or water current, float%2:38:00, bn:00083195v, TRAVEL,175, , , , drift   � blow   � float   � be adrift
+pb:blackmail.01, m, NO EXAMPLE, Obtain through threats, blackmail%2:40:00, bn:00083541v, STEAL DEPRIVE,301, , , , blackmail
+pb:abate.01, , NO EXAMPLE, Make less active or intense, abate%2:30:01, bn:00082125v, DECREASE,428, , , , slake   � abate   � slack
+pb:sunder.01, , NO EXAMPLE, Break apart or in two using violence, sunder%2:30:00, bn:00094591v, BREAK DETERIORATE,58, , , x, sunder
+pb:gas.02, , The despot gassed the rebellious tribes, Attack with gas; subject to gas fumes, gas%2:33:00, bn:00088686v, ATTACK BOMB,204, , , x, gas
+pb:return.04, , return a kickback, Make a return, return%2:35:01, bn:00092971v, HIT,92, , , , return
+pb:seize.01, , , "Seize and take control without authority and possibly with force; take as ones right or possession", seize%2:40:07, bn:00082793v, STEAL DEPRIVE,301, , ,2, take over  � arrogate  � assume  � seize  � usurp
+pb:cram.02, m, I had to bone up on my Latin verbs before the final exam, Study intensively as before an exam, cram%2:31:00, bn:00083767v, STUDY,225, , , x, bone   � cram  � mug up  � swot   � bone up
+pb:remunerate.01, , My efforts were not remunerated, Make payment to; compensate, remunerate%2:40:00, bn:00085466v, PAY,306, , , x, remunerate   � compensate   � recompense
+pb:certify.01, m, I am licensed to practice law in this state, Authorize officially, certify%2:41:02, bn:00084737v, AUTHORIZE ADMIT,11, , , , license   � certify  � licence
+pb:sequester.01, m, The FBI seized the drugs, Take temporary possession of as a security by legal authority, sequester%2:40:00, bn:00082897v, REMOVE TAKE AWAY KIDNAPP,239, , , x, confiscate  � impound  � seize  � sequester  � attach
+pb:shoot.02, , NO EXAMPLE, Kill by firing a missile, shoot%2:41:00, bn:00091652v, KILL,62, , iInstrument (missile bn:00055323n), x, pip   � shoot
+pb:classify.01, , How would you classify these pottery shards--are they prehistoric?, Arrange or order by classes or categories, classify%2:31:00, bn:00082871v, SORT CLASSIFY ARRANGE,380, , ,1, classify  � sort  � assort  � class  � sort out
+pb:carry.01, m, You must carry your camping gear, "Move while supporting either in a vehicle or in ones hands or on ones body", carry%2:35:02, bn:00084554v, CARRY TRANSPORT,3, , , x, carry  � transport
+pb:sigh.01, m, NO EXAMPLE, Utter with a sigh, sigh%2:32:01, bn:00093725v, SPEAK,9, , , x, sigh
+pb:exhibit.01, , "The Metropolitan Museum is exhibiting Goyas works this month", To show make visible or apparent, exhibit%2:39:01, bn:00087013v, SHOW,162, , ,1, display  � exhibit   � expose
+pb:abandon.01, , We abandoned the old car in the empty parking lot, Forsake leave behind, abandon%2:40:00, bn:00082118v, DISCARD,255, , ,1, abandon
+pb:trudge.01, , Mules plodded in a circle around a grindstone, Walk heavily and firmly as when weary or through mud, trudge%2:38:01, bn:00088447v, MOVE ONESELF,30, , , x, plod   � footslog  � pad   � slog  � tramp
+pb:patrol.01, , NO EXAMPLE, Maintain the security of by carrying out a patrol, patrol%2:41:00, bn:00091483v, WATCH LOOK OUT,285, , , , patrol   � police
+pb:ferry.01, m, NO EXAMPLE, Transport from one place to another, ferry%2:38:02, bn:00088129v, CARRY TRANSPORT,3, , , x, ferry
+pb:long.01, , NO EXAMPLE, Desire strongly or persistently, long%2:37:02, bn:00089198v, REQUIRE NEED WANT HOPE,32, , , , hanker  � yearn  � long
+pb:line.01, m, line the gloves, Cover the interior of, line%2:35:00, bn:00090373v, FILL,421, , , x, line
+pb:ensnare.01, , I was set up!, Take or catch as if in a snare or trap, ensnare%2:41:00, bn:00087669v, CATCH,79, , , x, ensnare  � entrap  � frame   � set up
+pb:snap.04, m, he clicked on the light, Move or strike with a noise, snap%2:38:00, bn:00085112v, HIT,92, , , , click   � snap
+pb:convey.01, m, Bring me the box from the other room, Take something or somebody with oneself somewhere, convey%2:38:00, bn:00084058v, BRING,60, , ,1, bring   � take   � convey
+pb:slam.02, , slam the ball, Strike violently, slam%2:35:00, bn:00083077v, HIT,92, , , x, bang   � slam
+pb:cure.01, , "The treatment cured the boys acne", Provide a cure for make healthy again, cure%2:29:00, bn:00084071v, HELP HEAL CARE CURE,198, , , x, heal  � bring around  � cure
+pb:carpet.01, , NO EXAMPLE, Form a carpet-like cover (over), carpet%2:42:00, bn:00084550v, COVER SPREAD SURMOUNT,249, , , x, carpet
+pb:hiss.01, m, NO EXAMPLE, Express or utter with a hiss, hiss%2:32:01, bn:00089345v, SPEAK,9, , , x, hiss   � sibilate  � siss  � sizz
+pb:brush.01, m, Her long skirt brushed the floor, Sweep across or over, brush%2:38:00, bn:00084157v, TRAVEL,175, , , x, brush   � sweep
+pb:hear.01, m, Listen to your father, Listen and pay attention, hear%2:39:05, bn:00089280v, FOCUS,343, , ,1, hear  � listen  � take heed  � mind   � heed
+pb:see.01, m, Now I see!, Perceive (an idea or situation) mentally, see%2:31:01, bn:00092443v, UNDERSTAND,93, , ,1, see   � realise  � realize  � understand
+pb:fade.01, , The scene begins to fade, Become less clearly visible or distinguishable; disappear gradually or seemingly, fade%2:30:02, bn:00087958v, DISAPPEAR,53, , ,2, fade   � melt
+pb:tag.01, , label these bottles, Attach a tag or label to, tag%2:35:00, bn:00090151v, ATTACH,419, , iInstrument (tag bn:00075885n) (label bn:00049560n ), x, tag   � label   � mark
+pb:lean.01, m, She tends to be nervous before her lectures, Have a tendency or disposition to do or be something; be inclined, lean%2:42:01, bn:00083202v, BEHAVE,17, -attribute, , x, tend  � be given  � incline   � lean   � run
+pb:desire.01, , I want to go home now, Feel or have a desire for; want strongly, desire%2:37:00, bn:00086682v, REQUIRE NEED WANT HOPE,32, , , , want   � desire
+pb:license.01, , I am licensed to practice law in this state, Authorize officially, license%2:41:00, bn:00084737v, AUTHORIZE ADMIT,11, , , , license   � certify  � licence
+pb:scan.01, m, She scanned the newspaper headlines while waiting for the taxi, Examine hastily, scan%2:39:00, bn:00088871v, ANALYZE,176, , ,1, scan   � skim   � glance over  � rake   � run down
+pb:nominate.01, m, NO EXAMPLE, Propose as a candidate for some honor, nominate%2:32:00, bn:00091078v, PROPOSE,227, , theme (person bn:00046516n),1, put forward  � nominate   � put up
+pb:abbreviate.01, , The manuscript must be shortened, Reduce in scope while retaining essential elements, abbreviate%2:30:01, bn:00082127v, DECREASE,428, , ,1, foreshorten  � abridge   � abbreviate   � contract   � cut
+pb:soften.01, m, The bread will soften if you pour some liquid on it, Become soft or softer, soften%2:30:00, bn:00094021v, REDUCE DIMINISH,241, , IAttribute (hardness bn:00042967n), , soften
+pb:demand.01, m, I demand an explanation, Ask to be informed of, demand%2:32:06, bn:00086550v, ASK REQUEST,330, , ,2, demand
+pb:break.01, m, I broke my foot while playing hockey, Fracture a bone of, break%2:29:04, bn:00083953v, BREAK DETERIORATE,58, , iPatient (bone bn:00011999n), x, break   � fracture
+pb:monitor.01, , we are monitoring the air quality, Keep tabs on; keep an eye on; keep under surveillance, monitor%2:39:00, bn:00090897v, WATCH LOOK OUT,285, , ,2, monitor  � supervise  � ride herd on
+pb:bite.01, m, Gunny invariably tried to bite her, To grip cut off or tear with or as if with the teeth or jaws, bite%2:35:00, bn:00083515v, EAT BITE,51, , ,2, bite   � seize with teeth
+pb:creep.01, , ivy crept over the walls of the university buildings, Grow or spread often in such a way as to cover (a surface), creep%2:38:06, bn:00086021v, COVER SPREAD SURMOUNT,249, , theme (surface bn:00075374n), x, creep
+pb:develop.01, zc, We have developed a new theory of evolution, Work out, germinate%2:36:00, bn:00086734v, CREATE MATERIALIZE ,382, , ,2, develop   � evolve  � germinate
+pb:sway.01, m, the ship was rocking, Move back and forth or sideways, sway%2:38:00, bn:00093072v, MOVE ONESELF,30, , , x, rock   � shake   � sway
+pb:excise.01, m, The surgeon excised the tumor, Remove by cutting, excise%2:30:02, bn:00087805v, REMOVE TAKE AWAY KIDNAPP,239, , , x, excise
+pb:join.01, c, The two roads join here, Make contact or come together, join%2:35:00, bn:00085613v, JOIN CONNECT,580, , , x,  join   � conjoin
+pb:evaluate.01, m, I cannot judge some works of modern art, """Form a critical opinion of """"We shouldn\t pass judgment on other people""""""", evaluate%2:31:01, bn:00087763v, SUBJECTIVE JUDGING,21, , ,2, judge  � evaluate  � pass judgment
+pb:ostracize.01, m, Ever since I spoke up my colleagues ostracize me, Avoid speaking to or dealing with, ostracize%2:41:00, bn:00091213v, ABSTAIN AVOID REFRAIN,260, , ,1, ostracise  � ostracize
+pb:write.01, m, He wrote that he would be coming soon, Communicate by letter, write%2:32:01, bn:00095848v, SEND,83, , iPatient (letter bn:00050802n), x, write
+pb:serve.02, c, May I serve you?, Work for or be a servant to, serve%2:41:01, bn:00082867v, HELP HEAL CARE CURE,198, , , , serve  � attend  � wait on  � assist   � attend to
+pb:wound.01, , She hurt me when she did not include me among her guests, Hurt the feelings of, wound%2:37:00, bn:00084149v, HURT HARM ACHE,431, , , , wound   � bruise   � hurt   � injure  � offend
+pb:extinguish.01, m, stub out your cigar, Extinguish by crushing, extinguish%2:30:05, bn:00086120v, FINISH CONCLUDE END,429, , , , press out  � stub out  � crush out  � extinguish
+pb:shrink.01, , Hot water will shrink the sweater, Reduce in size; reduce physically, shrink%2:30:01, bn:00092592v, REDUCE DIMINISH,241, , iAttribute (size bn:00071887n), , shrink   � reduce
+pb:annotate.01, , He annotated on what his teacher had written, Provide interlinear explanations for words or phrases, annotate%2:32:00, bn:00082636v, EXPLAIN,314, , , x, annotate  � comment   � gloss
+pb:suck.01, m, The sponge absorbs water well, Take in also metaphorically, suck%2:35:00, bn:00082172v, ABSORB,4, , , x, absorb   � draw   � imbibe   � soak up  � sop up
+pb:nobble.01, m, "The industrialists son was kidnapped", Take away to an undisclosed location against their will and usually in order to extract a ransom, nobble%2:35:00, bn:00082131v, REMOVE TAKE AWAY KIDNAPP,239, , , x, abduct   � kidnap  � snatch   � nobble
+pb:tip.02, , Remember to tip the waiter, Give a tip or gratuity to in return for a service beyond the compensation agreed on, tip%2:40:00, bn:00084246v, GIVE GIFT,189, , ipatient (tip bn:00007817n),1, bung   � fee   � tip
+pb:strike.01, m, The car hit a tree, Hit against; come into sudden contact with, strike%2:35:01, bn:00085293v, HIT,92, -instrument, , x, strike   � hit   � collide with  � impinge on  � run into
+pb:mill.01, , mill grain, Grind with a mill, mill%2:30:00, bn:00090784v, BREAK DETERIORATE,58, , iInstrument (mill bn:00041812n) iResult (powder bn:00063926n), x, mill
+pb:arise.02, zc, The building rose before them, Rise up, rise%2:42:00, bn:00090339v, APPEAR,288, , ,1, lift   � rear   � rise
+pb:question.01, , NO EXAMPLE, Pose a question, question%2:32:00, bn:00092261v, ASK REQUEST,330, , ,2, query   � question
+pb:ask.02, m, It takes nerve to do what she did, Require as useful just or proper, ask%2:42:00, bn:00082822v, REQUIRE NEED WANT HOPE,32, , , , necessitate  � ask   � call for  � demand   � involve
+pb:ogle.01, , NO EXAMPLE, Look at with amorous intentions, ogle%2:39:00, bn:00091153v, LOOK,132, , ,1, ogle
+pb:withdraw.01, m, She drew $2000 from the account, Remove (a commodity) from (a supply source), withdraw%2:40:00, bn:00087243v, REMOVE TAKE AWAY KIDNAPP,239, , IPatient (commodity bn:00021045n) iSource (supply bn:00075323n), x, withdraw   � draw   � draw off  � take out  � pop
+pb:charm.01, , "She captured all the mens hearts", Attract; cause to be enamored, charm%2:37:00, bn:00083288v, LIKE,344, , , , captivate  � becharm  � beguile  � catch  � fascinate
+pb:record.01, m, NO EXAMPLE, Make a record of; set down in permanent form, record%2:32:00, bn:00087679v, RECORD,216, , , , enter   � record   � put down
+pb:elaborate.01, zc, She elaborated on the main ideas in her dissertation, Add details as to an account or idea; clarify the meaning of and discourse in a learned way usually in writing, enlarge%2:32:04, bn:00086833v, EXPLAIN,314, , , x, elaborate   � expatiate   � dilate   � enlarge   � expand
+pb:land.01, m, The bird landed on the highest branch, Reach or come to rest, land%2:38:00, bn:00090179v, ARRIVE,504, , , x, land  � set down
+pb:give.01, zc, hand me the spoon please, Place into the hands or custody of, reach%2:40:00, bn:00088825v, GIVE GIFT,189, , ,1, hand  � give  � reach  � pass   � pass on
+pb:accept.01, m, I cannot accept the dogma of this church, Consider or hold as true, accept%2:31:00, bn:00082197v, BELIEVE,45, , ,2, accept  � consent
+pb:shudder.01, , NO EXAMPLE, Tremble convulsively as from fear or excitement, shudder%2:38:00, bn:00093639v, MOVE ONESELF,30, , , , shiver    � shudder  � thrill   � throb   � tremble
+pb:tutor.01, , She tutored me in Spanish, Be a tutor to someone; give individual instruction, tutor%2:32:00, bn:00095270v, TEACH,345, , , x, tutor
+pb:clear.01, , Clear a path through the dense forest, Make a way or path by removing objects, clear%2:30:09, bn:00085078v, CREATE MATERIALIZE ,382, , , , clear
+pb:confirm.01, m, his story confirmed my doubts, Establish or strengthen as with new evidence or facts, confirm%2:31:00, bn:00082434v, PROVE,24, , , , support   � affirm  � corroborate   � substantiate   � confirm
+pb:relay.01, , Please relay the news to the villagers, Pass along, relay%2:32:00, bn:00092738v, SEND,83, , , x, relay   � beam
+pb:gyrate.01, , the muscles and nerves of his fine drawn body were coiling for action, To wind or move in a spiral course, gyrate%2:38:00, bn:00085266v, MOVE ONESELF,30, , , x, coil   � gyrate   � spiral
+pb:brand.01, , NO EXAMPLE, Burn with a branding iron to indicate ownership; of animals, brand%2:41:01, bn:00083881v, SIGNAL INDICATE,346, , iInstrument (branding iron bn:00012767n) iTopic (ownership bn:00059957n); patient (animal bn:00004222n), x, brand
+pb:truck.01, , truck fresh vegetables across the mountains, Convey (goods etc.) by truck, truck%2:38:00, bn:00095191v, CARRY TRANSPORT,3, , iInstrument (truck bn:00056059n), x, truck
+pb:suspect.01, m, I suspect he is a fugitive, Imagine to be the case or true or probable, suspect%2:32:00, bn:00094625v, BELIEVE,45, , , , suspect  � surmise
+pb:mount.03, m, mount slides for macroscopic analysis, Fix onto a backing setting or support, mount%2:30:01, bn:00090935v, MOUNT ASSEMBLE PRODUCE,483, , , , mount
+pb:watch.01, m, view a show on television, See or watch, watch%2:39:05, bn:00084662v, LOOK,132, , ,2, watch   � catch   � view   � see   � take in
+pb:jerk.01, , He turned the handle and jerked the door open, Pull or move with a sudden movement, jerk%2:35:01, bn:00089958v, PULL,391, , , x,  jerk   � yank   � twitch
+pb:sidle.01, , The young man began to sidle near the pretty girl sitting on the log, Move unobtrusively or furtively, sidle%2:38:01, bn:00093719v, TRAVEL,175, , , , sidle
+pb:plod.01, , Mules plodded in a circle around a grindstone, Walk heavily and firmly as when weary or through mud, plod%2:38:00, bn:00088447v, MOVE ONESELF,30, , , x, plod   � footslog  � pad   � slog  � tramp
+pb:asphyxiate.01, , Othello smothered Desdemona with a pillow, Deprive of oxygen and prevent from breathing, asphyxiate%2:35:00, bn:00082831v, KILL,62, , , x, asphyxiate  � smother  � suffocate
+pb:coat.01, , Dirt had coated her face, Form a coat over, coat%2:35:01, bn:00084365v, COVER SPREAD SURMOUNT,249, , , x, cake   � coat
+pb:submit.01, , NO EXAMPLE, Hand over formally, submit%2:40:00, bn:00091980v, GIVE GIFT,189, , ,1, present   � submit
+pb:flood.01, , the basement was inundated after the storm, Fill quickly beyond capacity; as with a liquid, flood%2:35:00, bn:00086542v, FILL,421, , iTheme (liqiud bn:00051471n), x, deluge   � flood   � inundate   � swamp
+pb:tolerate.01, m, I cannot bear his constant criticism, Put up with something or somebody unpleasant, tolerate%2:31:00, bn:00082138v, TOLERATE,1, , , x, abide  � endure  � stand  � tolerate  � bear
+pb:sponsor.01, , The senator announced that he would sponsor the health care plan, Assume responsibility for or leadership of, sponsor%2:40:01, bn:00094165v, FOLLOW SUPPORT SPONSOR FUND,22, , , x, sponsor
+pb:test.01, m, screen the blood for the HIV virus, Test or examine for the presence of disease or infection, test%2:41:01, bn:00093374v, SEARCH,197, , ,1, screen   � test
+pb:center.01, , Her entire attention centered on her children, Center upon, center%2:42:00, bn:00084725v, FOCUS,343, , ,1, center   � center on  � concentrate on  � focus on  � revolve about
+pb:combine.01, m, compound the ingredients, Combine so as to form a whole; mix, combine%2:35:01, bn:00085315v, COMBINE MIX UNITE,434, , ,1, compound   � combine
+pb:dribble.01, , dribble oil into the mixture, Let or cause to fall in drops, dribble%2:35:10, bn:00087306v, SPILL POUR,152, , , x, drip  � dribble  � drop
+pb:dart.01, m, The hummingbird flitted among the branches, Move along rapidly and lightly; skim or dart, dart%2:38:01, bn:00086286v, TRAVEL,175, , , x, flit  � fleet   � dart   � flutter
+pb:bear.01, , I cannot bear his constant criticism, Put up with something or somebody unpleasant, bear%2:31:00, bn:00082138v, TOLERATE,1, , , x, abide  � endure  � stand  � tolerate  � bear
+pb:shine.01, m, His eyes were glistening, Be shiny as if wet, shine%2:39:01, bn:00088881v, WET,142, -agent, , , gleam  � glint  � glisten  � glitter  � shine
+pb:slaughter.01, , The Hutus massacred the Tutsis in Rwanda, Kill a large number of people indiscriminately, slaughter%2:30:00, bn:00090692v, KILL,62, , , x, massacre   � mow down  � slaughter
+pb:decapitate.01, , the French King was beheaded during the Revolution, Cut the head of, decapitate%2:35:00, bn:00083355v, KILL,62, , , x, behead  � decapitate   � decollate
+pb:hew.01, , hew an oak, Strike with an axe; cut down strike, hew%2:35:00, bn:00089327v, HIT,92, , iInstrument (axe bn:00007517n), x, hew
+pb:read.01, m, The King will read the proclamation at noon, Look at interpret and say out loud something that is written or printed, read%2:31:01, bn:00092426v, READ,69, , , x, read
+pb:mutter.01, m, NO EXAMPLE, Talk indistinctly; usually in a low voice, mutter%2:32:01, bn:00090707v, SPEAK,9, , , x, mutter  � mumble  � maunder   � mussitate
+pb:boost.01, , I am promoting the use of computers in the classroom, Contribute to the progress or growth of, boost%2:41:00, bn:00082397v, FOLLOW SUPPORT SPONSOR FUND,22, , , , advance  � further  � boost  � promote  � encourage
+pb:shutter.01, , We shuttered the window to keep the house cool, Close with shutters, shutter%2:35:00, bn:00093706v, CLOSE,212, , iInstrument (shutter bn:00071383n), x, shutter
+pb:glare.01, , The girl glared at the man who tried to make a pass at her, Look at with a fixed gaze, glare%2:29:00, bn:00088872v, LOOK,132, , ,1, glare  � glower
+pb:crow.01, m, NO EXAMPLE, Dwell on with satisfaction, crow%2:32:00, bn:00086087v, ENJOY,150, , , , crow   � gloat  � triumph
+pb:bar.01, , He was barred from membership in the club, Prevent from entering; keep out, bar%2:32:00, bn:00083102v, PRECLUDE FORBID EXPEL,181, +patient, , , exclude  � bar  � debar
+pb:move.01, , Move those boxes into the corner please, Cause to move or shift into a new position or place both in a concrete and in an abstract sense, move%2:38:01, bn:00087012v, MOVE SOMETHING,153, , , x, displace   � move
+pb:count.01, zc, Can you count the books on your shelf?, Determine the number or amount of, number%2:32:00, bn:00085859v, COUNT,379, , ,1, count   � enumerate  � numerate   � number
+pb:present.01, m, We presented the arguments to him, Bring forward and present to the mind, present%2:32:00, bn:00090234v, SHOW,162, , ,2, present  � represent  � lay out
+pb:behave.01, , You should act like an adult, Behave in a certain manner; show a certain behavior; conduct or comport oneself, behave%2:29:00, bn:00082286v, BEHAVE,17, , , x, behave  � do  � act
+pb:churn.01, zc, the sea was churning in the storm, Be agitated, boil%2:38:00, bn:00083739v, MOVE ONESELF,30, , , x, boil   � churn   � moil  � roil
+pb:shell.02, , The enemy has been shelling us all day, Use explosives on, shell%2:33:00, bn:00083563v, ATTACK BOMB,204, , IInstrument (bomb bn:00011917n), x, blast  � shell
+pb:club.01, , NO EXAMPLE, Strike with a club or a bludgeon, club%2:35:00, bn:00083686v, HIT,92, , iInstrument (club bn:00020040n) (bludgeon bn:00011475n), x, club   � bludgeon
+pb:tie.01, m, Can you connect the two loudspeakers?, Connect fasten or put together two or more pieces, tie%2:35:01, bn:00085623v, JOIN CONNECT,580, , , x, connect   � link   � tie   � link up  � join
+pb:choke.01, m, NO EXAMPLE, "Constrict (someones) throat and keep from breathing", choke%2:29:04, bn:00084921v, HURT HARM ACHE,431, , , x, choke   � strangle
+pb:consign.01, zc, consign your baggage, Give over to another for care or safekeeping, charge%2:40:04, bn:00084808v, GIVE GIFT,189, , ,1, consign  � charge
+pb:warm.04, , The soup warmed slowly on the stove, Get warm or warmer, warm%2:30:00, bn:00095636v, HEAT,436, -agent, , , warm   � warm up
+pb:deposit.01, m, She deposits her paycheck every month, Put into a bank account, deposit%2:40:00, bn:00083093v, STORE,220, , iLocation (bank account bn:00008374n),2, deposit   � bank
+pb:close.01, m, Close the door, Move so that an opening or passage is obstructed; make shut, close%2:35:00, bn:00085162v, CLOSE,212, , , x, close  � shut
+pb:pause.01, , The speaker paused, Interrupt temporarily an activity before continuing, pause%2:42:00, bn:00089324v, STOP,29, -patient -instrument, , , pause   � hesitate
+pb:scar.01, , The skin disease scarred his face permanently, Mark with a scar, scar%2:35:00, bn:00090662v, HURT HARM ACHE,431, , iResult (scar bn:00019056n), x, scar   � mark   � pit  � pock
+pb:replay.01, , The lawyers played back the conversation to show that their client was innocent, Reproduce (a recording) on a recorder, replay%2:36:01, bn:00091734v, PERFORM,14, , patient (recording bn:00066589n), , play back  � replay
+pb:transcribe.01, m, The Sanskrit text had to be transliterated, Rewrite in a different script, transcribe%2:32:00, bn:00095079v, WRITE,327, , , x, transliterate  � transcribe
+pb:knock.01, , knock on the door, Rap with the knuckles, knock%2:35:01, bn:00090129v, HIT,92, , iInstrument (knuckle bn:00049381n), x, knock
+pb:waken.01, , She woke up to the sound of the alarm clock, Stop sleeping, waken%2:29:00, bn:00082769v, AROUSE WAKE ENLIVEN,435, , , , awake   � awaken  � wake   � wake up  � arouse
+pb:crash.01, m, NO EXAMPLE, Break violently or noisily; smash;, crash%2:35:01, bn:00083957v, BREAK DETERIORATE,58, , , x, break apart  � break up  � crash
+pb:mount.01, , Did you ever climb up the hill behind your house?, Go upward with gradual or continuous progress, mount%2:38:00, bn:00085120v, RISE GO UP,28, , , x, mount  � climb   � climb up  � go up
+pb:shoulder.01, m, shoulder the burden, Carry a burden either real or metaphoric, shoulder%2:35:01, bn:00093674v, CARRY TRANSPORT,3, , , x, shoulder
+pb:draw.01, m, She drew an elephant, Represent by making a drawing of as with a pencil chalk etc. on a surface, draw%2:36:00, bn:00087238v, PAINT,354, , , x, draw
+pb:discard.01, zc, Put away your worries, Throw or cast away, fling%2:40:02, bn:00084634v, DISCARD,255, , ,2, discard   � throw out  � cast aside  � cast away  � cast out
+pb:hack.02, , NO EXAMPLE, Significantly cut up a manuscript, hack%2:30:00, bn:00086240v, REDUCE DIMINISH,241, , patient (manuscript bn:00053288n), x, cut up  � hack
+pb:watch.01, m, I want to see whether she speaks French, Find out learn or determine with certainty usually by making an inquiry or other effort, watch%2:32:09, bn:00082813v, VERIFY,244, , ,2, determine   � ascertain   � check   � find out  � learn
+pb:acquire.01, , She got a lot of paintings from her uncle, Come into the possession of something concrete or abstract, acquire%2:40:00, bn:00082276v, OBTAIN,290, agent (animate_being | social_group) patient (physical_object), , , acquire   � get  � procure  � obtain
+pb:bombard.01, m, The Americans bombed Dresden, Throw bombs at or attack with bombs, bombard%2:33:00, bn:00083756v, ATTACK BOMB,204, , , x, bomb   � bombard
+pb:stroke.01, , He stroked his long beard, Touch lightly and repeatedly as with brushing motions, stroke%2:35:00, bn:00094484v, TOUCH,228, , , x, stroke
+pb:pluck.01, m, pull a chicken, Strip of feathers, pluck%2:35:03, bn:00086619v, REMOVE TAKE AWAY KIDNAPP,239, , IPatient (feather bn:00033865n), x, deplumate  � deplume  � displume  � pluck   � pull
+pb:knock.01, , My car bumped into the tree, Knock against with force or violence, knock%2:35:00, bn:00084230v, HIT,92, -instrument, , x, knock   � bump
+pb:discontinue.01, m, Quit teasing your little brother, Put an end to a state or an activity, discontinue%2:42:00, bn:00084710v, FINISH CONCLUDE END,429, , , , quit   � cease   � discontinue   � stop   � give up
+pb:clean.01, m, Clean the turkey, Remove unwanted substances from such as feathers or pits, clean%2:30:01, bn:00085060v, REMOVE TAKE AWAY KIDNAPP,239, , , x, clean   � pick
+pb:draw.01, m, draw a line, Make a mark or lines on a surface, draw%2:35:01, bn:00086525v, PAINT,354, , iResult (line bn:00051289n), x, draw  � delineate  � describe   � line   � trace
+pb:falter.01, , The speaker faltered when he saw his opponent enter the room, Speak haltingly, falter%2:32:00, bn:00084229v, SPEAK,9, , , , stammer   � stutter   � bumble  � falter
+pb:follow.06, c, The orchestra could barely follow the frequent pitch changes of the soprano, Perform an accompaniment to, follow%2:36:01, bn:00082223v, PERFORM,14, , , x, accompany � follow � play along
+pb:hoard.01, m, NO EXAMPLE, Save up as for future use, hoard%2:40:01, bn:00084356v, STORE,220, , ,1, stash  � cache   � hive up  � hoard   � lay away
+pb:loot.01, zc, During the earthquake people looted the stores that were deserted by their owners, Steal goods; take as spoils, ransack%2:40:00, bn:00086690v, STEAL DEPRIVE,301, , iTheme (goods bn:00054416n),1, plunder  � loot  � pillage  � ransack  � rifle
+pb:spy.01, , "he caught sight of the kings men coming over the ridge", Catch sight of; to perceive with the eyes, spy%2:39:01, bn:00093726v, SEE,521, , ,1, sight   � spy
+pb:macerate.01, m, macerate peaches, Soften usually by steeping in liquid and cause to disintegrate as a result, macerate%2:30:01, bn:00090536v, COOK,462, , iInstrument (liquid bn:00051471n), x, macerate
+pb:intone.01, , The rabbi chanted a prayer, Recite with musical intonation; recite as a chant or a psalm, intone%2:32:00, bn:00084481v, PERFORM,14, , patient (prayer bn:00059529n), x, cantillate  � chant   � intonate  � intone
+pb:highjack.01, , The Cubans commandeered the plane and flew it to Miami, Take arbitrarily or by force, highjack%2:35:00, bn:00085405v, STEAL DEPRIVE,301, , ,1, commandeer  � hijack   � highjack  � pirate
+pb:overheat.01, , The room was overheated, Make excessively or undesirably hot, overheat%2:30:01, bn:00091309v, HEAT,436, , , x, overheat
+pb:abandon.01, , You must vacate your office by tonight, Leave behind empty; move out of, abandon%2:38:00, bn:00082120v, LEAVE DEPART RUN AWAY,119, -destination, , , vacate  � abandon   � empty 
+pb:remind.01, , NO EXAMPLE, Assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned, remind%2:32:00, bn:00086137v, HELP HEAL CARE CURE,198, , patient (actor bn:00001176n), x, cue   � prompt   � remind
+pb:torment.01, m, NO EXAMPLE, Torment emotionally or mentally, torment%2:37:00, bn:00087815v, HURT HARM ACHE,431, , , , excruciate   � rack   � torment   � torture
+pb:note.01, c, Take note of this chemical reaction, Observe with care or pay close attention to, note%2:39:02, bn:00091096v, LOOK,132, , ,2, note   � take note  � observe   � mark   � notice
+pb:interest.01, zc, I worry about the second Germanic consonant shift, Be on the mind of, occupy%2:42:04, bn:00085522v, THINK,96, , , x, concern  � interest   � worry   � occupy
+pb:extradite.01, , They extradited the fugitive to his native country so he could be tried there, Hand over to the authorities of another country, extradite%2:41:00, bn:00086534v, MOVE SOMETHING,153, , source (state bn:00023235n) destination (state bn:00023235n), x, deport   � deliver   � extradite
+pb:play.02, , Gielgud played Hamlet, Play a role or part, play%2:36:02, bn:00082287v, PERFORM,14, , patient (role bn:00017749n), x, play   � act   � represent   � do
+pb:voice.01, m, He voiced his concern, Give voice to, voice%2:32:00, bn:00095561v, SPEAK,9, , , x, voice
+pb:link.01, m, The two streets connect to become a highway, Be or become joined or united or linked, link%2:42:01, bn:00085624v, JOIN CONNECT,580, , , x, connect   � join   � link up  � unite   � link
+pb:chain.01, , Chain the chairs together, Fasten or secure with chains, chain%2:35:00, bn:00084749v, SECURE FASTEN TIE,206, , iInstrument (chain bn:00017487n), x, chain
+pb:bone.01, , bone the turkey before roasting it, Remove the bones from, bone%2:30:00, bn:00083768v, REMOVE TAKE AWAY KIDNAPP,239, , ipatient (bone bn:00011999n), x, bone   � debone
+pb:compensate.01, , Does she pay you for the work you are doing?, Do or give something to somebody in return, compensate%2:40:02, bn:00085465v, PAY,306, , , x, compensate   � pay off  � make up  � pay
+pb:preach.01, , The minister is not preaching this Sunday, Deliver a sermon, preach%2:32:02, bn:00091922v, TEACH,345, -patient, ITopic (sermon bn:00027522n), , preach  � prophesy
+pb:starve.01, m, The political prisoners starved to death, Die of food deprivation, starve%2:34:02, bn:00088030v, DIE,63, , icause (starvation bn:00033596n), x, famish   � starve
+pb:head.01, , Who is heading this project?, Be in charge of, head%2:41:00, bn:00089260v, LEAD GOVERN,125, , ,2, head   � lead
+pb:group.01, m, NO EXAMPLE, Form a group or group together, group%2:33:00, bn:00082465v, GROUP,321, , , , group   � aggroup
+pb:declare.01, m, He declared that he needed more money to carry out the task he was charged with, State emphatically and authoritatively, declare%2:32:00, bn:00086380v, SPEAK,9, , , x, declare
+pb:repossess.01, , NO EXAMPLE, Regain possession of something, repossess%2:40:03, bn:00092834v, TAKE,10, , , , repossess  � take back
+pb:cram.02, m, NO EXAMPLE, Prepare (students) hastily for an impending exam, cram%2:30:00, bn:00085959v, PREPARE,337, , patient (student bn:00029806n), , cram
+pb:bow.01, , he crouched down, "Bend ones back forward from the waist on down", bow%2:38:01, bn:00083405v, LOWER,355, -agent, , , crouch  � stoop  � bend   � bow
+pb:wish.01, , NO EXAMPLE, Order politely; express a wish for, wish%2:32:01, bn:00095805v, REQUIRE NEED WANT HOPE,32, , , , wish
+pb:operate.101, c, The doctors operated on the patient but failed to save his life, Perform surgery on, operate%2:29:00, bn:00091179v, HELP HEAL CARE CURE,198, , iInstrument (surgery bn:00059129n), x, operate  � operate on
+pb:suffer.01, m, Were you hurting after the accident?, Feel physical pain, suffer%2:39:00, bn:00082262v, HURT HARM ACHE,431, , , , hurt  � ache   � suffer
+pb:bleed.01, m, These dyes and colors are guaranteed not to run, Be diffused, bleed%2:38:00, bn:00083589v, COVER SPREAD SURMOUNT,249, , , x, bleed   � run
+pb:twitch.01, m, "The patients legs were jerkings", Move with abrupt seemingly uncontrolled motions, twitch%2:38:01, bn:00089959v, MOVE ONESELF,30, , , x, jerk   � twitch
+pb:swagger.01, , He struts around like a rooster in a hen house, To walk with a lofty proud gait often in an attempt to impress others, swagger%2:38:00, bn:00085242v, MOVE ONESELF,30, , , x, cock   � sashay  � strut   � swagger   � prance
+pb:discard.01, , Put away your worries, Throw or cast away, discard%2:40:00, bn:00084634v, DISCARD,255, , ,2, discard   � throw out  � cast aside  � cast away  � cast out
+pb:wash.01, , Wash the towels please!, Cleanse with a cleaning agent such as soap and water, wash%2:35:00, bn:00090219v, WASH CLEAN,155, , , x, launder   � wash
+pb:allow.01, m, "We dont allow dogs here", Allow the presence of or allow (an activity) without opposing or prohibiting, allow%2:32:06, bn:00082544v, AUTHORIZE ADMIT,11, , , , permit   � allow   � tolerate
+pb:eviscerate.01, m, draw a chicken, Remove the entrails of, eviscerate%2:30:00, bn:00086946v, REMOVE TAKE AWAY KIDNAPP,239, , IPatient (entrail bn:00012484n), x, disembowel   � draw   � eviscerate
+pb:twitch.01, m, NO EXAMPLE, Move or pull with a sudden motion, twitch%2:35:02, bn:00095292v, MOVE SOMETHING,153, , , , twitch
+pb:kiss.01, zz, the blossoms were kissed by the soft rain, Touch lightly or gently, kiss%2:35:01, bn:00090112v, TOUCH,228, , , x, kiss
+pb:cook.01, m, The apothecary cooked the medicinal mixture in a big iron kettle, Transform by heating, cook%2:30:03, bn:00085787v, PREPARE,337, , ,1, cook
+pb:get.15, , We began working at dawn, Take the first step or steps in carrying out an action, get%2:30:12, bn:00083340v, BEGIN,46, -theme, ,1, commence   � set about  � begin   � get  �get down
+pb:execute.01, , In some states criminals are executed, Kill as a means of socially sanctioned punishment, execute%2:41:00, bn:00087820v, KILL,62, , , x, execute  � put to death
+pb:invigorate.01, zc, The cold water invigorated him, Give life or energy to, quicken%2:30:00, bn:00089887v, AROUSE WAKE ENLIVEN,435, , ,1, invigorate  � quicken
+pb:intimidate.01, m, NO EXAMPLE, To compel or deter by or as if by threats, intimidate%2:37:01, bn:00089858v, OBLIGE FORCE,50, , Instrument (threat bn:00077032n),1, intimidate   � restrain
+pb:depart.01, , Go away before I start to cry, Move away from a place into another direction, depart%2:38:04, bn:00086600v, LEAVE DEPART RUN AWAY,119, , , x, go   � depart   � go away  � leave
+pb:hunt.01, m, Goering often hunted wild boars in Poland, Pursue for food or sport (as of wild animals), hunt%2:33:00, bn:00089521v, HUNT,276, , iTheme (wild animal bn:15597631n), x, hunt   � hunt down  � run   � track down
+pb:join.01, c, The two streets connect to become a highway, Be or become joined or united or linked, join%2:42:01, bn:00085624v, JOIN CONNECT,580, , , x, connect   � join   � link up  � unite   � link
+pb:stuff.01, m, She stuffed herself at the dinner, Overeat or eat immodestly; make a pig of oneself, stuff%2:34:00, bn:00083503v, EAT BITE,51, , iPatient (food bn:00035649n),1, gorge   � engorge   � glut  � ingurgitate   �overeat
+pb:writhe.01, zc, The prisoner writhed in discomfort, To move in a twisting or contorted motion (especially when struggling), wrestle%2:38:00, bn:00094234v, MOVE ONESELF,30, , , x, wriggle  � writhe   � squirm   � twist   � worm
+pb:torture.01, , NO EXAMPLE, Torment emotionally or mentally, torture%2:37:00, bn:00087815v, HURT HARM ACHE,431, , , , excruciate   � rack   � torment   � torture
+pb:enlighten.01, , "Can you enlighten me--I dont understand this proposal", Make understand, enlighten%2:32:00, bn:00087483v, EXPLAIN,314, , , x, edify   � enlighten
+pb:revolve.01, m, The moon orbits around the Earth, Move in an orbit, revolve%2:38:01, bn:00091188v, TRAVEL,175, , , x, orb   � orbit  � revolve
+pb:decrease.01, , The amount of homework decreased towards the end of the semester, Decrease in size extent or range, decrease%2:30:00, bn:00086417v, DECREASE,428, -agent, , , decrease   � diminish   � fall   � lessen
+pb:chatter.01, , the men were sitting in the cafe and shooting the breeze, Talk socially without exchanging too much information, chatter%2:32:01, bn:00084747v, SPEAK,9, , , x, chat   � natter   � chatter   � gossip  � shoot the breeze
+pb:doctor.01, zz, NO EXAMPLE, Give medical treatment to, doctor%2:29:00, bn:00087136v, HELP HEAL CARE CURE,198, , , x, doctor
+pb:write.01, m, The artist wrote Chinese characters on a big piece of white paper, Mark or trace on a surface, write%2:36:01, bn:00095849v, WRITE,327, , , x, write
+pb:fancy.02, , "She fancied a necklace that she had seen in the jewelers window", Have a fancy or particular liking or desire for, fancy%2:37:00, bn:00088035v, REQUIRE NEED WANT HOPE,32, , ,1, fancy  � go for  � take to
+pb:scrounge.01, , NO EXAMPLE, Collect or look around for (food), scrounge%2:40:00, bn:00088448v, SEARCH,197, , itheme (food bn:00035650n),1, forage  � scrounge
+pb:give.02, , I gave her my money, Transfer possession of something concrete or abstract to somebody, give%2:40:00, bn:00088815v, GIVE GIFT,189, , ,1, give
+pb:chant.01, m, The rabbi chanted a prayer, Recite with musical intonation; recite as a chant or a psalm, chant%2:32:00, bn:00084481v, PERFORM,14, , patient (prayer bn:00059529n), x, cantillate  � chant   � intonate  � intone
+pb:ravage.01, , The enemy lay waste to the countryside after the invasion, Cause extensive destruction or ruin utterly, ravage%2:30:01, bn:00086685v, DESTROY,134, , ,1, ravage  � desolate  � devastate  � lay waste to  � scourge
+pb:stack.01, m, stack a truck with boxes, Load or cover with stacks, stack%2:35:01, bn:00094240v, FILL,421, , , x, stack
+pb:drool.01, , The baby drooled, Let saliva drivel from the mouth, drool%2:29:00, bn:00087307v, SPILL POUR,152, -source, iPatient (saliva bn:00068949n) iSource (mouth bn:00056135n), , dribble  � drivel  � slaver  � slobber  � drool 
+pb:clench.01, m, clench a steering wheel, Hold in a tight grasp, clench%2:35:01, bn:00085108v, CATCH,41, , , x, clinch  � clench
+pb:wish.01, , I wish I could go home now, Hope for; have a wish, wish%2:37:00, bn:00095802v, REQUIRE NEED WANT HOPE,32, , , , wish
+pb:elucidate.01, , Could you clarify these remarks?, Make free from confusion or ambiguity; make clear, elucidate%2:31:00, bn:00085084v, EXPLAIN,314, , , x, clear   � clear up  � crystalise  � crystalize  � crystallise
+pb:raid.01, m, Our babysitter raided our refrigerator, Search for something needed or desired, raid%2:35:02, bn:00092319v, SEARCH,197, -theme, , , raid
+pb:bask.01, , She relished her fame and basked in her glory, Derive or receive pleasure from; get enjoyment from; take pleasure in, bask%2:37:13, bn:00083145v, ENJOY,150, , , x, bask   � enjoy   � relish   � savour  � savor
+pb:formulate.01, , He formulated his concerns to the board of trustees, Put into words or an expression, formulate%2:32:00, bn:00082799v, SPEAK,9, , , x, articulate   � formulate  � give voice  � phrase   � word
+pb:guide.01, m, The teacher steered the gifted students towards the more challenging courses, Be a guiding or motivating force or drive, guide%2:41:00, bn:00089112v, PERSUADE,86, , ,1, guide   � steer
+pb:spell.02, , "Im afraid this spells trouble!", Indicate or signify, spell%2:32:01, bn:00089628v, SIGNAL INDICATE,346, , , , import   � spell
+pb:swallow.01, , "Swallow the raw fish--it wont kill you!", Pass through the esophagus as part of eating or drinking, swallow%2:34:00, bn:00088759v, EAT BITE,51, , ,1, swallow   � get down
+pb:dampen.02, , Stifle your curiosity, Smother or suppress, dampen%2:30:05, bn:00086267v, WEAKEN,445, , , , stifle   � dampen
+pb:demonstrate.01, m, His high fever attested to his illness, "Provide evidence for; stand as proof of; show by ones behavior attitude or external attributes", demonstrate%2:32:00, bn:00082913v, SHOW,162, , , , demonstrate   � attest   � certify  � evidence   � manifest
+pb:catapult.01, m, NO EXAMPLE, Hurl as if with a sling, catapult%2:35:01, bn:00084649v, THROW,234, , , x, catapult   � sling
+pb:handle.01, m, "Dont handle the merchandise", Touch lift or hold with the hands, handle%2:35:00, bn:00089172v, TOUCH,228, , iInstrument (hand bn:00042759n), x, handle   � palm
+pb:overload.01, m, The aerator overloaded, Become overloaded, overload%2:35:01, bn:00091317v, BREAK DETERIORATE,496, -agent, , , overload
+pb:give.02, , I gave him the drug, Give (as medicine), give%2:40:13, bn:00088826v, GIVE GIFT,189, , patient (medication bn:00054128n),1, give the axe  � give the bounce  � give the gate
+pb:cut.01, m, "We cut through the neighbors yard to get home sooner", Pass directly and often in haste, cut%2:38:13, bn:00086190v, TRAVEL,175, , , x, cut
+pb:coil.01, m, the muscles and nerves of his fine drawn body were coiling for action, To wind or move in a spiral course, coil%2:38:00, bn:00085266v, MOVE ONESELF,30, , , x, coil   � gyrate   � spiral
+pb:hold.01, m, Hold this bowl for a moment please, "Have or hold in ones hands or grip", hold%2:35:00, bn:00089385v, CATCH,41, -instrument, , x, hold   � take hold
+pb:cloak.01, m, the mountain was clothed in tropical trees, Cover as if with clothing, cloak%2:35:01, bn:00085145v, COVER SPREAD SURMOUNT,249, , , x, cloak   � clothe   � drape  � robe
+pb:intermingle.02, , blend the nuts and raisins together, Combine into one, intermingle%2:35:00, bn:00083595v, COMBINE MIX UNITE,434, , ,1, intermix  � intermingle  � blend   � immingle
+pb:chauffeur.01, , NO EXAMPLE, Drive someone in a vehicle, chauffeur%2:38:00, bn:00084842v, CARRY TRANSPORT,3, , iInstrument (vehicle bn:00079675n); patient (person bn:00044576n), x, chauffeur  � drive around
+pb:bank.01, , She deposits her paycheck every month, Put into a bank account, bank%2:40:00, bn:00083093v, STORE,220, , iLocation (bank account bn:00008374n),2, deposit   � bank
+pb:figure.02, m, NO EXAMPLE, Judge to be probable, figure%2:31:01, bn:00084374v, SUBJECTIVE JUDGING,21, , , , calculate   � count on  � estimate   � figure   � forecast
+pb:clutch.01, , She clutched my arm when she got scared, "Hold firmly usually with ones hands", clutch%2:35:04, bn:00085134v, CATCH,41, , , x, cling to  � clutch   � hold close  � hold tight
+pb:shrink.01, , The fabric shrank, Become smaller or draw together, shrink%2:30:00, bn:00085728v, REDUCE DIMINISH,241, , iAttribute (size bn:00071887n), , shrink  � contract
+pb:desist.01, , I abstain from alcohol, Choose not to consume, desist%2:34:00, bn:00082179v, ABSTAIN AVOID REFRAIN,260, , ,1, desist  � refrain   � abstain
+pb:hit.02, m, We hit Detroit by noon, Reach a destination either real or abstract, hit%2:38:00, bn:00082790v, ARRIVE,504, , , x, reach   � arrive at  � hit   � make   � attain
+pb:gain.02, m, I acquired a passing knowledge of Chinese, "Win something through ones efforts", gain%2:40:01, bn:00082280v, TAKE,10, , , , gain  � acquire   � win   � earn
+pb:rationalize.01, m, When one wonders why one is doing certain things one should rationalize, Think rationally; employ logic or reason, rationalize%2:31:00, bn:00092384v, THINK,96, , , x, rationalise   � rationalize
+pb:justify.01, m, vindicate a claim, Show to be right by providing justification or proof, justify%2:32:00, bn:00090025v, PROVE,24, , ,1, vindicate  � justify
+pb:launch.01, m, launch the space shuttle, Propel with force, launch%2:35:00, bn:00090214v, SHOOT LAUNCH PROPEL,202, , , x, launch
+pb:clamber.01, , NO EXAMPLE, Climb awkwardly as if by scrambling, clamber%2:38:00, bn:00085021v, RISE GO UP,28, , , , clamber   � shin   � scramble  � shinny  � skin
+pb:erect.01, , Raise a barn, Construct build or erect, erect%2:36:00, bn:00087714v, BUILD,358, , , x, raise   � erect  � put up  � rear   � set up
+pb:fashion.01, , She fashioned a tent out of a sheet and a few sticks, Make out of components (often in an improvising manner), fashion%2:36:00, bn:00088048v, MOUNT ASSEMBLE PRODUCE,483, , , x, fashion  � forge
+pb:lurch.01, m, The truck lurched down the road, Move slowly and unsteadily, lurch%2:38:01, bn:00090522v, TRAVEL,175, , , x, lurch
+pb:potter.01, , The old lady is usually mucking about in her little house, Do random unplanned work or activities or spend time idly, potter%2:35:01, bn:00090750v, WORK,597, , , x, muck about  � mess around  � monkey   � monkey around  � muck around
+pb:value.01, m, I prize these old photographs, Hold dear, value%2:40:00, bn:00082724v, LIKE,344, , ,1, value   � appreciate   � prize   � treasure
+pb:galvanize.01, , ..startled him awake, To stimulate to action, galvanize%2:37:00, bn:00088666v, INCITE INDUCE,18, , , , galvanise   � galvanize   � startle
+pb:observe.01, m, Take note of this chemical reaction, Observe with care or pay close attention to, observe%2:39:01, bn:00091096v, LOOK,132, , ,2, note   � take note  � observe   � mark   � notice
+pb:conjecture.01, , Scientists supposed that large dinosaurs lived in swamps, To believe especially on uncertain or tentative grounds, conjecture%2:31:00, bn:00085612v, BELIEVE,45, , , , conjecture   � hypothesise  � hypothecate   � hypothesize  � speculate
+pb:bow.01, , He bowed before the King, Bend the head or the upper part of the body in a gesture of respect or greeting, bow%2:38:00, bn:00083839v, LOWER,335, -agent, , , bow
+pb:verify.01, , NO EXAMPLE, Attach or append a legal verification to (a pleading or petition), verify%2:32:04, bn:00095517v, VERIFY,244, , , , verify
+pb:meditate.01, , I mulled over the events of the afternoon, Reflect deeply on a subject, meditate%2:31:00, bn:00084889v, THINK,96, , , x, ponder  � mull over  � muse  � reflect  � chew over
+pb:staple.01, , staple the papers together, Secure or fasten with a staple or staples, staple%2:35:00, bn:00094293v, ATTACH,419, , iInstrument (staple bn:00073961n), x, staple
+pb:break.12, , The engine finally went, Stop operating or functioning, break%2:30:05, bn:00083914v, BREAK DETERIORATE,58, -agent -instrument, , , break   � conk out  � break down  � die   �fail
+pb:elate.01, , Music can uplift your spirits, Fill with high spirits; fill with optimism, elate%2:37:00, bn:00087514v, AROUSE WAKE ENLIVEN,435, , ,2, elate  � intoxicate  � lift up  � pick up  � uplift
+pb:initiate.01, , "Hitlers attack on Poland led up to World War II", Set in motion start an event or prepare the way for, initiate%2:30:00, bn:00089745v, BEGIN,46, , ,1, initiate  � lead up
+pb:bewitch.01, , "She captured all the mens hearts", Attract; cause to be enamored, bewitch%2:37:00, bn:00083288v, LIKE,344, , , , captivate  � becharm  � beguile  � catch  � fascinate
+pb:hang.01, m, The murderer was hanged on Friday, Kill by hanging, hang%2:41:00, bn:00089180v, KILL,62, , iinstrument (gibbet bn:00037129n), x, hang  � string up
+pb:start.06, c, The family took off for Florida, Leave, start%2:38:02, bn:00086602v, LEAVE DEPART RUN AWAY,119, -source, , , part   � set out  � depart   � set forth  � set off
+pb:salt.01, m, She salts her lectures with jokes, Add zest or liveliness to, salt%2:30:01, bn:00093240v, AROUSE WAKE ENLIVEN,435, , , , salt
+pb:sympathize.01, m, "You dont need to explain--I understand!", Be understanding of, sympathize%2:31:00, bn:00087571v, UNDERSTAND,93, , , , empathize   � empathise  � sympathise  � sympathize  � understand
+pb:go.02, , Go away before I start to cry, Move away from a place into another direction, go%2:38:01, bn:00086600v, LEAVE DEPART RUN AWAY,119, , , x, go   � depart   � go away  � leave
+pb:ride.01, m, I ride to work in a bus, Be carried or travel on or in a vehicle, ride%2:38:00, bn:00093014v, MOVE BY MEANS OF,242, , , x, ride
+pb:vacate.01, m, You must vacate your office by tonight, Leave behind empty; move out of, vacate%2:38:00, bn:00082120v, LEAVE DEPART RUN AWAY,119, -destination, , , vacate  � abandon   � empty 
+pb:gloat.01, m, NO EXAMPLE, Dwell on with satisfaction, gloat%2:32:00, bn:00086087v, ENJOY,150, , , , crow   � gloat  � triumph
+pb:airmail.01, , Letters to Europe from the U.S. are best airmailed, Send or transport by airmail, airmail%2:32:00, bn:00082504v, CARRY TRANSPORT,3, , iInstrument (aircraft bn:00002275n), x, airmail
+pb:illuminate.01, , This lamp lightens the room a bit, Make lighter or brighter, illuminate%2:30:03, bn:00089584v, LIGHTEN,449, , ,1, illuminate  � light up  � illume  � illumine  � light
+pb:martyr.01, m, NO EXAMPLE, Torture and torment like a martyr, martyr%2:29:00, bn:00090681v, HURT HARM ACHE,431, , , x, martyr  � martyrize  � martyrise
+pb:burn.01, m, They burned the house and his diaries, Destroy by fire, burn%2:30:02, bn:00084270v, DESTROY,134, , iInstrument (fire bn:00034628n),1, burn   � burn down  � fire
+pb:tug.03, c, The horse finally tugged the cart out of the mud, Move by pulling hard, tug%2:35:02, bn:00095216v, PULL,391, , , x, tug
+pb:find.01, , She detected high levels of lead in her drinking water, Discover or determine the existence presence or fact of, find%2:39:02, bn:00086708v, FIND,33, , ,2, detect   � discover   � notice   � find   � observe
+pb:apportion.01, m, NO EXAMPLE, "Give out as ones portion or share", apportion%2:40:00, bn:00082718v, SHARE,304, , , , deal   � apportion   � divvy up  � portion out  � share
+pb:give.02, , Can I give you my keys while I go in the pool?, Leave with; give temporarily, give%2:40:02, bn:00088822v, GIVE GIFT,189, , ,1, give
+pb:work.01, , I will work hard to improve my grades, Exert oneself by doing mental or physical work for a purpose or out of necessity, work%2:41:02, bn:00095812v, WORK,597, , , x, work
+pb:spray.01, m, spray the wall with paint, Cover by spraying with a liquid, spray%2:35:03, bn:00094186v, COVER SPREAD SURMOUNT,249, , Ico-theme (liquid bn:00051472n), x, spray
+pb:wish.01, , NO EXAMPLE, Feel or express a desire or hope concerning the future or fortune of, wish%2:37:01, bn:00095804v, REQUIRE NEED WANT HOPE,32, , , , wish   � wish well
+pb:sound.02, , sound the bell, Cause to sound, sound%2:39:01, bn:00094057v, PERFORM,14, , , , sound
+pb:collapse.01, m, The wall collapsed, Break down literally or metaphorically, collapse%2:38:00, bn:00083932v, BREAK DETERIORATE,58, -agent -instrument, , , break   � cave in  � collapse  � fall in  � founder
+pb:freshen.01, m, She freshened up after the tennis game, Become or make oneself fresh again, freshen%2:29:02, bn:00088571v, WASH CLEAN,155, , iPatient (oneself bn:00066821n), , freshen   � freshen up  � refresh   � refreshen
+pb:vote.01, , They voted aid for the underdeveloped countries in Asia, Bring into existence or make available by vote, vote%2:41:12, bn:00095576v, CHOOSE,99, , ,2, vote
+pb:scrutinize.01, m, he scrutinized his likeness in the mirror, To look at critically or searchingly or in minute detail, scrutinize%2:39:00, bn:00093394v, ANALYZE,176, , ,2, scrutinise  � scrutinize   � size up  � take stock
+pb:encourage.01, m, NO EXAMPLE, Inspire with confidence; give hope or courage to, encourage%2:37:00, bn:00087600v, FOLLOW SUPPORT SPONSOR FUND,22, , , , encourage
+pb:monkey_around.01, zc, The old lady is usually mucking about in her little house, Do random unplanned work or activities or spend time idly, putter%2:35:01, bn:00090750v, WORK,597, , , x, muck about  � mess around  � monkey   � monkey around  � muck around
+pb:carry.04, , dribble the ball, """Propel """"Carry the ball""""""", carry%2:35:08, bn:00084566v, SHOOT LAUNCH PROPEL,202, , , x, carry   � dribble
+pb:conclude.02, m, The concert closed with a nocturne by Chopin, Come to a close, conclude%2:42:02, bn:00085166v, FINISH CONCLUDE END,429, , , , close   � conclude
+pb:fabricate.01, , the company fabricates plastic chairs, """Put together out of artificial or natural components or parts; He manufactured a popular cereal""""""", fabricate%2:36:01, bn:00085678v, MOUNT ASSEMBLE PRODUCE,483, , , x, manufacture   � fabricate   � construct
+pb:wreck.01, , The kid busted up the car, Smash or break forcefully, wreck%2:35:00, bn:00084315v, DESTROY,134, , ,1, bust up  � wrack   � wreck
+pb:debug.01, , debug this program, Locate and correct errors in a computer program code, debug%2:30:00, bn:00086348v, ADJUST CORRECT ,91, , patient (program bn:00021492n), , debug
+pb:fall.01, m, The temperature is going down, Move downward and lower but not necessarily all the way, fall%2:38:00, bn:00085356v, LOWER,355, -agent, , , descend   � come down  � fall   � go down
+pb:worry.02, cm, I worry about the second Germanic consonant shift, Be on the mind of, worry%2:42:00, bn:00085522v, THINK,96, , , x, concern  � interest   � worry   � occupy
+pb:grab.01, m, Catch the ball!, Take hold of so as to seize or restrain or stop the motion of, grab%2:35:00, bn:00084654v, CATCH,79, , , x, catch  � grab  � take hold of
+pb:prove.01, m, The experiment demonstrated the instability of the compound, Establish the validity of something as by an example explanation or experiment, prove%2:31:00, bn:00086567v, PROVE,24, , , , prove   � establish   � show   � demonstrate   � shew
+pb:drain.01, m, Life in the camp drained him, Make weak, drain%2:30:04, bn:00086343v, WEAKEN,445, , ,1, debilitate   � drain   � enfeeble
+pb:inspect.01, m, The governor visited the prison, Come to see in an official or professional capacity, inspect%2:38:00, bn:00089777v, ANALYZE,176, , ,1,  inspect  � visit
+pb:despoil.01, m, The soldiers raped the beautiful country, Destroy and strip of its possession, despoil%2:35:00, bn:00086691v, DESTROY,134, , ,1, despoil   � plunder   � rape   � spoil   � violate
+pb:dissolve.01, m, The recipe says that we should dissolve a cup of sugar in two cups of water, Cause to go into a solution, dissolve%2:30:01, bn:00083996v, COMBINE MIX UNITE,434, , ,1, break up  � dissolve   � resolve
+pb:murder.01, , The mafia boss ordered his enemies murdered, Kill intentionally and with premeditation, murder%2:41:00, bn:00084236v, KILL,62, , , x, slay   � dispatch   � murder   � off   �bump off
+pb:entreat.01, , The prophet bid all people to become good persons, Ask for or request earnestly, entreat%2:32:00, bn:00082355v, ASK REQUEST,330, , ,2, entreat  � beseech   � adjure  � bid   � conjure
+pb:vacuum.01, , vacuum the carpets, Clean with a vacuum cleaner, vacuum%2:35:00, bn:00089464v, WASH CLEAN,155, , iInstrument (vacuum bn:00079454n), x, hoover  � vacuum   � vacuum-clean
+pb:dig.03, zc, I dug up an old box in the garden, Find by digging in the ground, excavate%2:35:00, bn:00086818v, FIND,33, , ,1, dig up  � excavate  � turn up
+pb:brighten.01, , The paint will brighten the room, Make lighter or brighter, brighten%2:30:01, bn:00084052v, LIGHTEN,449, , ,1, brighten   � lighten   � lighten up
+pb:die.01, zc, She died from cancer, Pass from physical life and lose all bodily attributes and functions necessary to sustain life, go%2:30:00, bn:00084343v, DIE,63, , , x, perish   � croak   � decease   � die   � kick the bucket
+pb:gloat.01, m, NO EXAMPLE, Gaze at or think about something with great self-satisfaction gratification or joy, gloat%2:39:00, bn:00088891v, LOOK,132, , , , gloat
+pb:flap.01, m, The curtains undulated, Move in a wavy pattern or with a rising and falling motion, flap%2:38:01, bn:00088271v, MOVE ONESELF,30, , , x, wave   � undulate  � flap   � roll
+pb:appreciate.02, , NO EXAMPLE, Recognize with gratitude; be grateful for, appreciate%2:37:00, bn:00082722v, LIKE,344, , , , appreciate
+pb:arm.01, m, The U.S. is girding for a conflict in the Middle East, Prepare oneself for a military confrontation, arm%2:33:00, bn:00082764v, PREPARE,337, , ,1, gird  � arm  � build up  � fortify
+pb:daub.01, zc, daub the wall, Coat with plaster, plaster%2:35:00, bn:00086302v, COVER SPREAD SURMOUNT,249, , iCo-theme (plaster bn:00062850n), x, daub   � plaster
+pb:mash.01, m, grind the spices in a mortar, Reduce to small pieces or particles by pounding or abrading, mash%2:30:00, bn:00083893v, BREAK DETERIORATE,58, , iResult (piece bn:00062297n), x, grind  � mash  � bray   � comminute  � crunch
+pb:prod.01, , The other children egged the boy on but he did not want to throw the stone through the window, Urge on; cause to act, prod%2:35:00, bn:00087502v, INCITE INDUCE,18, , , x, incite  � egg on  � prod
+pb:ring.02, , The forest surrounds my property, Extend on all sides of simultaneously; encircle, ring%2:35:03, bn:00083797v, ENCLOSE WRAP,420, -agent, , , surround  � skirt   � border   � environ  � ring
+pb:moderate.01, m, Tone down that aggressive letter, Make less strong or intense; soften, moderate%2:32:01, bn:00090882v, REDUCE DIMINISH,241, , iAttribute (tone bn:00077556n), , moderate   � tame   � tone down
+pb:gaze.01, , The students stared at the teacher with amazement, Look at with fixed eyes, gaze%2:39:00, bn:00088705v, LOOK,132, , ,1, gaze   � stare
+pb:articulate.01, m, NO EXAMPLE, Express or state clearly, articulate%2:32:01, bn:00082802v, EXPLAIN,314, , , , articulate   � enunciate   � vocalise  � vocalize
+pb:traipse.01, , NO EXAMPLE, Walk or tramp about, traipse%2:38:00, bn:00093641v, TRAVEL,175, , , , traipse  � shlep
+pb:shatter.01, m, The wine glass shattered, Break into many pieces, shatter%2:30:00, bn:00093584v, BREAK DETERIORATE,58, -agent -instrument, iResult (piece bn:00062297n), , shatter
+pb:break.13, m, The first winter storm broke over New York, Come forth or begin from a state of latency, break%2:42:14, bn:00083924v, BEGIN,46, , , , break
+pb:welcome.01, m, I welcome your proposals, Accept gladly, welcome%2:40:00, bn:00095705v, ACCEPT,309, , , x, welcome
+pb:strangle.01, m, he swallowed a fishbone and gagged, Struggle for breath; have insufficient oxygen intake, strangle%2:29:03, bn:00084922v, HURT HARM ACHE,431, , , , choke   � gag  � strangle   � suffocate
+pb:read.01, m, read the advertisement, Interpret something that is written or printed, read%2:31:00, bn:00092424v, READ,69, , , x, read
+pb:rebuild.01, , The house was rebuild after it was hit by a bomb, Build again, rebuild%2:36:00, bn:00092471v, BUILD,358, , , x, rebuild   � reconstruct
+pb:question.01, , The suspect was questioned by the police, Pose a series of questions to, question%2:32:03, bn:00089845v, ASK REQUEST,330, , ,2, question  � interrogate
+pb:nuzzle.01, zz, NO EXAMPLE, Rub noses, nuzzle%2:35:00, bn:00091087v, TOUCH,228, , iInstrument (nose bn:00058117n), x, nose   � nuzzle
+pb:fizzle.01, , The music just petered out--there was no proper ending, End weakly, fizzle%2:42:00, bn:00088255v, FINISH CONCLUDE END,429, -patient, , , fizzle   � fizzle out  � peter out  � taper off
+pb:survey.01, , He surveyed his new classmates, Look over carefully or inspect, survey%2:39:00, bn:00094630v, ANALYZE,176, , ,1, survey
+pb:dilute.01, , cut bourbon, Lessen the strength or flavor of a solution or mixture, dilute%2:30:00, bn:00086211v, WEAKEN,445, , , , cut   � dilute   � reduce   � thin   � thin out
+pb:photograph.01, , I photographed the scene of the accident, Record on photographic film, photograph%2:32:00, bn:00091585v, RECORD,216, , iDestination (photographic film bn:00034472n) ,2, photograph   � shoot   � snap   � take a picture
+pb:kill.01, , This man killed several people when he tried to rob a bank, Cause to die; put to death usually intentionally or knowingly, kill%2:35:00, bn:00090098v, KILL,62, , , x, kill   � do
+pb:complete.01, , A child would complete the family, Bring to a whole with all the necessary parts or elements, complete%2:30:00, bn:00085476v, FILL,421, , , x, complete
+pb:inundate.01, , NO EXAMPLE, Fill or cover completely usually with water, inundate%2:30:00, bn:00086544v, FILL,421, , theme (water bn:00042379n), x, inundate   � deluge   � submerge   � flood
+pb:tattoo.01, , NO EXAMPLE, Stain (skin) with indelible color, tattoo%2:36:00, bn:00094835v, PAINT,354, , ipatient (skin bn:00024643n) iResult (tattoo bn:00076204n), x, tattoo
+pb:confront.01, m, The child screamed when he confronted the man in the Halloween costume, Be face to face with, confront%2:42:00, bn:00085598v, SEE,521, , ,1, confront
+pb:avoid.01, , "Lets avoid a confrontation", Prevent the occurrence of; prevent from happening, avoid%2:41:01, bn:00082954v, ABSTAIN AVOID REFRAIN,260, , ,2, avert  � stave off  � fend off  � ward off  � avoid
+pb:rate.01, zc, how would you rank these students?, Assign a rank or rating to, order%2:31:00, bn:00089002v, SUBJECTIVE JUDGING,21, , ,1, rate   � grade   � order   � place   � range
+pb:ram.01, , ram the gate with a sledgehammer, Strike or drive against with a heavy impact, ram%2:35:02, bn:00091893v, HIT,92, , , x, ram   � pound   � ram down
+pb:wheel.01, m, NO EXAMPLE, Ride a bicycle, wheel%2:38:06, bn:00083471v, MOVE BY MEANS OF,242, , iInstrument (bicycle bn:00010248n), x, bike  � cycle   � bicycle   � pedal   � wheel
+pb:snoop.01, , NO EXAMPLE, Watch observe or inquire secretly, snoop%2:32:00, bn:00093867v, SEE,521, , , , sleuth   � snoop  � spy   � stag
+pb:itch.01, , "Im itching--the air is so dry!", Have or perceive an itch, itch%2:39:00, bn:00089925v, HURT HARM ACHE,431, , iStimulus (itch bn:00047727n), x, itch
+pb:drape.01, m, drape the statue with a sheet, Cover or dress loosely with cloth, drape%2:35:10, bn:00087233v, COVER SPREAD SURMOUNT,249, , iCo-theme (cloth bn:00019980n), x, drape
+pb:end.01, , She ended their friendship when she found out that he had once been convicted of a crime, Bring to an end or halt, end%2:30:01, bn:00087608v, FINISH CONCLUDE END,429, , ,1, terminate  � end   � close
+pb:sell.01, m, He sold his house in January, Exchange or deliver for money or its equivalent, sell%2:40:00, bn:00093472v, SELL,229, , ,1, sell
+pb:deem.01, , take for granted, Keep in mind or convey as a conviction or view, deem%2:31:00, bn:00086435v, SUBJECTIVE JUDGING,21, , , , deem   � hold   � take for  � view as
+pb:inspire.01, m, She prompted me to call my relatives, Serve as the inciting cause of, inspire%2:32:00, bn:00089779v, PERSUADE,86, , ,1, inspire  � instigate  � prompt
+pb:peck.02, , NO EXAMPLE, Hit lightly with a picking motion, peck%2:35:01, bn:00083214v, HIT,92, , , x, beak   � peck   � pick
+pb:center.01, , Please focus on your studies and not on your hobbies, "Direct ones attention on something", center%2:31:00, bn:00084726v, FOCUS,343, , ,2, focus   � center   � concentrate   � rivet   � centre
+pb:kidnap.01, , "The industrialists son was kidnapped", Take away to an undisclosed location against their will and usually in order to extract a ransom, kidnap%2:35:00, bn:00082131v, REMOVE TAKE AWAY KIDNAPP,239, , , x, abduct   � kidnap  � snatch   � nobble
+pb:post.01, , send me your latest results, Cause to be directed or transmitted to another place, post%2:32:02, bn:00090548v, SEND,83, , , x, mail   � post   � send
+pb:reap.01, m, He drew great benefits from his membership in the association, Get or derive, reap%2:40:00, bn:00087235v, OBTAIN,290, , ,2, draw   � reap
+pb:rot.01, , The bodies decomposed in the heat, Break down, rot%2:30:00, bn:00086400v, DESTROY,134, -agent, , , moulder   � rot   � decompose   � molder
+pb:stone.02, , People wanted to stone the woman who had a child out of wedlock, Kill by throwing stones at, stone%2:35:00, bn:00090191v, KILL,62, , iInstrument (stone bn:00068046n), x, stone   � lapidate
+pb:jollify.01, , The members of the wedding party made merry all night, Celebrate noisily often indulging in drinking; engage in uproarious festivities, jollify%2:41:00, bn:00089988v, CELEBRATE PARTY,159, -theme, , , jollify  � make happy  � make merry  � make whoopie  � racket
+pb:cling.01, m, "hang on to your fathers hands", Hold on tightly or tenaciously, cling%2:35:02, bn:00085133v, CATCH,41, , , x, cling  � hang
+pb:finish.01, m, He finished the dishes, Come or bring to a finish or an end, finish%2:30:02, bn:00085475v, FINISH CONCLUDE END,429, , , , complete   � finish   � conclude
+pb:represent.01, m, The painter represented his wife as a young girl, Create an image or likeness of, represent%2:36:01, bn:00089839v, REPRESENT,341, , , x, interpret   � represent
+pb:stroll.01, , NO EXAMPLE, Walk leisurely and with no apparent aim, stroll%2:38:00, bn:00093276v, MOVE ONESELF,30, , , , saunter  � stroll
+pb:boat.01, , NO EXAMPLE, Ride in a boat on water, boat%2:38:00, bn:00083714v, MOVE BY MEANS OF,242, , iInstrument (boat bn:00011674n), x, boat
+pb:pocket.01, m, NO EXAMPLE, Take unlawfully, pocket%2:40:01, bn:00083029v, STEAL DEPRIVE,301, , , , bag   � pocket
+pb:cheat.01, , The con-man beat me out of $50, Deprive somebody of something by deceit, cheat%2:41:00, bn:00084845v, STEAL DEPRIVE,301, , ,2, cheat  � chisel  � rip off
+pb:wink.01, , She winked at him, Signal by winking, wink%2:29:02, bn:00095789v, SIGNAL INDICATE,346, , iInstrument (winking bn:00081358n), , wink
+pb:exterminate.01, m, """the vestiges of political democracy were soon uprooted"""" """"root out corruption""", """Destroy completely as if down to the roots """"root out corruption""""""", exterminate%2:36:00, bn:00087712v, CANCEL ELIMINATE,491, , ,2, eradicate  � extirpate  � exterminate  � root out  � uproot
+pb:need.01, , This piano wants the attention of a competent tuner, Have need of, need%2:34:00, bn:00091028v, REQUIRE NEED WANT HOPE,32, , , , want   � need   � require
+pb:exasperate.01, m, This drug aggravates the pain, Make worse, exasperate%2:30:00, bn:00082458v, WORSEN,432, , , , aggravate   � exacerbate   � worsen  � exasperate
+pb:start.01, , The U.S. started a war in the Middle East, Set in motion cause to start, start%2:30:01, bn:00083342v, BEGIN,46, , ,1, begin   � commence   � start  � lead off
+pb:surmise.01, , I suspect he is a fugitive, Imagine to be the case or true or probable, surmise%2:32:00, bn:00094625v, BELIEVE,45, , , , suspect  � surmise
+pb:jam.01, m, the theater was jampacked, Crowd or pack to capacity, jam%2:35:00, bn:00084916v, FILL,421, -agent, iTheme (people bn:00061450n), x, jam   � chock up  � cram  � jampack  � ram
+pb:oil.02, m, oil the wooden surface, Cover with oil as if by rubbing, oil%2:35:00, bn:00091154v, COVER SPREAD SURMOUNT,249, , iCo-theme (oil bn:00058733n), x, oil
+pb:foresee.01, m, NO EXAMPLE, Realize beforehand, foresee%2:31:00, bn:00082667v, UNDERSTAND,93, , ,2, anticipate   � foreknow   � foresee   � previse
+pb:assign.01, , We were assigned new uniforms, Give out, assign%2:40:01, bn:00082535v, GIVE GIFT,189, , ,1, allot   � assign  � portion
+pb:focalize.01, zc, Please focus the image, Put (an image) into focus, focus%2:30:01, bn:00088403v, ADJUST CORRECT ,91, , patient (image bn:00045772n), , focalize  � focus  � focalise  � sharpen
+pb:gossip.01, m, the men were sitting in the cafe and shooting the breeze, Talk socially without exchanging too much information, gossip%2:32:01, bn:00084747v, SPEAK,9, , , x, chat   � natter   � chatter   � gossip  � shoot the breeze
+pb:dash.01, m, He dashed the plate against the wall, Hurl or thrust violently, dash%2:35:02, bn:00085982v, THROW,234, , , x, crash  � dash
+pb:induce.02, c, The ads induced me to buy a VCR, Cause to do; cause to act in a specified manner, induce%2:32:00, bn:00084700v, INCITE INDUCE,18, , ,2, stimulate  � induce   � make   � cause   � get
+pb:decimate.01, , the plague wiped out an entire population, Kill in large numbers, decimate%2:30:00, bn:00082634v, KILL,62, -instrument, , x, annihilate   � decimate  � eliminate  � carry off  � eradicate
+pb:preach.01, , The doctor advocated a smoking ban in the entire house, Speak plead or argue in favor of, preach%2:32:00, bn:00082419v, FOLLOW SUPPORT SPONSOR FUND,22, , , , preach  � advocate
+pb:set.08, m, Get the children ready for school!, Make ready or suitable or equip in advance for a particular purpose or for some use event etc, set%2:30:09, bn:00088250v, PREPARE,337, , ,1, prepare   � set   � gear up  � ready   � set up
+pb:hurl.01, , NO EXAMPLE, Throw forcefully, hurl%2:35:00, bn:00084627v, THROW,234, , , x, cast   � hurl  � hurtle
+pb:boast.01, , NO EXAMPLE, Show off, boast%2:32:00, bn:00083668v, BEHAVE,17, , , , blow   � bluster   � boast  � brag  � gas
+pb:stamp.04, , The men stomped through the snow in their heavy boots, Walk heavily, stamp%2:38:00, bn:00094264v, TRAVEL,175, , , x, stomp  � stamp  � stump
+pb:clear.01, zz, The sky cleared after the storm, Become clear, clear%2:43:00, bn:00084053v, LIGHTEN,449, -agent, , , clear   � brighten   � clear up  � light up
+pb:connect.01, m, Can you connect the two loudspeakers?, Connect fasten or put together two or more pieces, connect%2:35:00, bn:00085623v, JOIN CONNECT,580, , , x, connect   � link   � tie   � link up  � join
+pb:treat.01, , The doctor treated my broken leg, Provide treatment for, treat%2:29:00, bn:00084532v, HELP HEAL CARE CURE,198, , , x, treat  � care for  � attend  � look after
+pb:gall.01, m, NO EXAMPLE, Become or make sore by or as if by rubbing, gall%2:39:00, bn:00084741v, HURT HARM ACHE,431, , , x, chafe  � fret   � gall
+pb:establish.01, m, The experiment demonstrated the instability of the compound, Establish the validity of something as by an example explanation or experiment, establish%2:31:00, bn:00086567v, PROVE,24, , , , prove   � establish   � show   � demonstrate   � shew
+pb:invigorate.01, m, Exercise is invigorating, Impart vigor strength or vitality to, invigorate%2:29:00, bn:00089888v, AROUSE WAKE ENLIVEN,435, , , , invigorate  � reinvigorate
+pb:exhibit.01, , She shows her dogs frequently, Give an exhibition of to an interested audience, exhibit%2:39:00, bn:00086557v, SHOW,162, , ,1, show  � present   � demo   � demonstrate   � exhibit
+pb:slice.01, zz, NO EXAMPLE, Hit a ball so that it causes a backspin, slice%2:33:00, bn:00093871v, HIT,92, , patient (ball bn:00008120n), x, slice
+pb:clean.01, m, Clean the stove!, Make clean by removing dirt filth or unwanted substances from, clean%2:35:00, bn:00085059v, WASH CLEAN,155, , , x, clean   � make clean  � cleanse   � purify
+pb:fracture.01, , The pothole fractured a bolt on the axle, Break into pieces, fracture%2:30:10, bn:00088528v, BREAK DETERIORATE,58, , iResult (piece bn:00062297n), x, fracture
+pb:mate.01, , This fact is coupled to the other one, Bring two objects ideas or people together, mate%2:35:02, bn:00085890v, JOIN CONNECT,580, , , , pair  � couple  � match   � mate   � twin
+pb:clobber.01, , She clobbered the man who tried to attack her, Strike violently and repeatedly, clobber%2:35:01, bn:00083151v, HIT,92, , , x, batter  � clobber  � baste   � cream
+pb:tramp.01, m, The gypsies roamed the woods, Move about aimlessly or without any destination often in search of food or employment, tramp%2:38:02, bn:00084629v, TRAVEL,175, , , x, wander   � drift   � ramble  � roam   � rove
+pb:reduce.01, m, reduce your daily fat intake, Cut down on; make a reduction in, reduce%2:30:00, bn:00084079v, REDUCE DIMINISH,241, , , , bring down  � cut   � cut down  � reduce   � trim
+pb:encircle.01, m, NO EXAMPLE, Bind with something round or circular, encircle%2:35:00, bn:00087592v, SECURE FASTEN TIE,206, , , x, encircle   � gird
+pb:inhibit.01, , inhibit the action of the enzyme, Limit block or decrease the action or function of, inhibit%2:41:04, bn:00089740v, WEAKEN,445, , , , inhibit
+pb:further.01, m, I am promoting the use of computers in the classroom, Contribute to the progress or growth of, further%2:41:00, bn:00082397v, FOLLOW SUPPORT SPONSOR FUND,22, , , , advance  � further  � boost  � promote  � encourage
+pb:deal.02, m, He dealt me the Queen of Spades, Give (a specific card) to a player, deal%2:40:06, bn:00086336v, GIVE GIFT,189, , patient (card bn:00015914n),1, deal
+pb:enchant.01, , "She captured all the mens hearts", Attract; cause to be enamored, enchant%2:37:01, bn:00083288v, LIKE,344, , , , captivate  � becharm  � beguile  � catch  � fascinate
+pb:crab.01, , NO EXAMPLE, Fish for crab, crab%2:33:00, bn:00085936v, HUNT,276, , iTheme (crab bn:00023438n), x, crab
+pb:bag.01, m, NO EXAMPLE, Take unlawfully, bag%2:40:01, bn:00083029v, STEAL DEPRIVE,301, , , , bag   � pocket
+pb:understand.01, m, "You dont need to explain--I understand!", Be understanding of, understand%2:31:04, bn:00087571v, UNDERSTAND,93, , , , empathize   � empathise  � sympathise  � sympathize  � understand
+pb:annul.01, zc, The contract was annulled, Declare invalid, avoid%2:41:00, bn:00082642v, ANNULL,476, , , x, annul  � invalidate  � nullify  � void  � avoid
+pb:command.02, m, NO EXAMPLE, Make someone do something, command%2:32:00, bn:00085401v, ORDER,72, , , x, command   � require
+pb:divest.01, m, The nurse quickly undressed the accident victim, "Remove (someones or ones own) clothes", divest%2:30:13, bn:00086979v, REMOVE TAKE AWAY KIDNAPP,239, , iPatient (dress bn:00005007n), , undress   � disinvest  � divest   � strip
+pb:depict.01, , This scene depicts country life, Show in or as in a picture, depict%2:36:00, bn:00086611v, SHOW,162, , , , picture   � depict   � render   � show
+pb:prefer.01, m, I always choose the fish over the meat courses in this restaurant, Select as an alternative over another, prefer%2:31:00, bn:00084932v, CHOOSE,99, , , , opt   � choose   � prefer
+pb:mold.01, m, model a head with clay, Form in clay wax etc, mold%2:36:02, bn:00090877v, MOUNT ASSEMBLE PRODUCE,483, , material (clay bn:00019624n) (wax bn:00080707n), x, model   � mold  � mould
+pb:shell.01, , husk corn, Remove the husks from, shell%2:30:06, bn:00089542v, REMOVE TAKE AWAY KIDNAPP,239, , IPatient (husk bn:00017474n), x, husk   � shell
+pb:depart.01, , She wants to leave, Remove oneself from an association with or participation in, depart%2:41:00, bn:00086604v, LEAVE DEPART RUN AWAY,119, , , , depart   � leave   � pull up stakes
+pb:procure.01, , He procured extra cigarettes even though they were rationed, Get by special effort, procure%2:40:00, bn:00092039v, OBTAIN,290, , ,1, secure   � procure
+pb:prompt.02, m, This moved me to sacrifice my career, Give an incentive for action, prompt%2:36:00, bn:00082313v, INCITE INDUCE,18, , , , actuate   � motivate   � incite   � prompt   � move
+pb:sew.01, c, NO EXAMPLE, Fasten by sewing; do needlework, sew%2:35:00, bn:00093200v, SECURE FASTEN TIE,206, , , x, sew   � stitch   � run up  � sew together
+pb:thump.01, , the salesman pounded the door knocker, Hit hard with the hand fist or some heavy instrument, thump%2:35:00, bn:00091810v, HIT,92, , iInstrument (hand bn:00042759n), x, pound   � poke   � thump
+pb:normalize.01, zz, temper glass, Bring to a desired consistency texture or hardness by a process of gradually heating and cooling, normalize%2:30:03, bn:00082631v, PREPARE,337, , ,1, anneal  � normalize   � temper
+pb:snatch.02, , "The industrialists son was kidnapped", Take away to an undisclosed location against their will and usually in order to extract a ransom, snatch%2:35:01, bn:00082131v, REMOVE TAKE AWAY KIDNAPP,239, , , x, abduct   � kidnap  � snatch   � nobble
+pb:accept.01, m, I cannot accept your invitation, Give an affirmative reply to; respond favorably to, accept%2:32:00, bn:00082199v, ACCEPT,309, , , x, consent   � accept   � go for
+pb:fax.01, , Can you fax me the report right away?, Send something via a facsimile machine, fax%2:32:00, bn:00087952v, SEND,83, , iInstrument (fax bn:00032653n), x, fax   � facsimile   � telefax
+pb:assist.01, , Everyone helped out during the earthquake, Give help or assistance; be of service, assist%2:41:02, bn:00082481v, HELP HEAL CARE CURE,198, -patient, , , aid  � help  � assist
+pb:flash.01, m, he flashed a $100 bill, Expose or show briefly, flash%2:39:02, bn:00088280v, SHOW,162, , ,1, flash
+pb:butcher.01, , They slaughtered their only goat to survive the winter, Kill (animals) usually for food consumption, butcher%2:35:00, bn:00084318v, KILL,62, , patient (animal bn:00004222n), x, butcher   � slaughter
+pb:gallop.01, m, Did you gallop the horse just now?, Cause to move at full gallop, gallop%2:38:03, bn:00087911v, MOVE BY MEANS OF,242, , iInstrument (horses bn:00031345n), x, extend   � gallop
+pb:glitter.01, , His eyes were glistening, Be shiny as if wet, glitter%2:39:00, bn:00088881v, WET,142, -agent, , , gleam  � glint  � glisten  � glitter  � shine
+pb:yearn.01, , NO EXAMPLE, Desire strongly or persistently, yearn%2:37:00, bn:00089198v, REQUIRE NEED WANT HOPE,32, , , , hanker  � yearn  � long
+pb:comment.01, , NO EXAMPLE, Explain or interpret something, comment%2:32:10, bn:00085416v, EXPLAIN,314, , , , comment
+pb:steer.01, , The teacher steered the gifted students towards the more challenging courses, Be a guiding or motivating force or drive, steer%2:41:00, bn:00089112v, PERSUADE,86, , ,1, guide   � steer
+pb:erode.01, m, Her confidence eroded, Become ground down or deteriorate, erode%2:30:01, bn:00087464v, REDUCE DIMINISH,241, -agent, , , eat at  � erode  � gnaw  � gnaw at  � wear away
+pb:allocate.01, , I am allocating a loaf of bread to everyone on a daily basis, Distribute according to a plan or set apart for a special purpose, allocate%2:40:00, bn:00082534v, GIVE GIFT,189, , ,1, allocate   � apportion
+pb:misappropriate.01, , The accountant embezzled thousands of dollars while working for the wealthy family, "Appropriate (as property entrusted to ones care) fraudulently to ones own use", misappropriate%2:40:00, bn:00086444v, STEAL DEPRIVE,301, , ,2, embezzle   � misappropriate   � defalcate   � malversate  � peculate
+pb:abet.01, , NO EXAMPLE, Assist or encourage usually in some wrongdoing, abet%2:41:00, bn:00082135v, INCITE INDUCE,18, , , , abet
+pb:call.07, m, He called my name, Utter in a loud voice or announce, call%2:31:13, bn:00084406v, SPEAK,9, , , x, call
+pb:dip.01, zz, dip water out of a container, "Scoop up by plunging ones hand or a ladle below the surface", dip%2:35:12, bn:00086861v, REMOVE TAKE AWAY KIDNAPP,239, , , x, dip
+pb:pedal.01, , NO EXAMPLE, Ride a bicycle, pedal%2:38:00, bn:00083471v, MOVE BY MEANS OF,242, , iInstrument (bicycle bn:00010248n), x, bike  � cycle   � bicycle   � pedal   � wheel
+pb:void.01, , The contract was annulled, Declare invalid, void%2:41:00, bn:00082642v, ANNULL,476, , , x, annul  � invalidate  � nullify  � void  � avoid
+pb:distort.01, m, NO EXAMPLE, Make false by mutilation or addition; as of a message or story, distort%2:32:00, bn:00087056v, REPRESENT,341, , , , garble  � distort   � falsify   � warp
+pb:eradicate.01, m, the plague wiped out an entire population, Kill in large numbers, eradicate%2:30:00, bn:00082634v, KILL,62, -instrument, , x, annihilate   � decimate  � eliminate  � carry off  � eradicate
+pb:mark.02, m, The skin disease scarred his face permanently, Mark with a scar, mark%2:35:02, bn:00090662v, HURT HARM ACHE,431, , iResult (scar bn:00019056n), x, scar   � mark   � pit  � pock
+pb:test.01, m, The teacher tests us every week, "Examine someones knowledge of something", test%2:32:00, bn:00092274v, VERIFY,244, , ,1, quiz   � test
+pb:roam.01, zc, The gypsies roamed the woods, Move about aimlessly or without any destination often in search of food or employment, roll%2:38:09, bn:00084629v, TRAVEL,175, , , x, wander   � drift   � ramble  � roam   � rove
+pb:dampen.02, zc, NO EXAMPLE, Deaden (a sound or noise) especially by wrapping, dull%2:39:00, bn:00086264v, STOP,29, , , , muffle  � mute   � damp   � dampen  � dull
+pb:unhinge.02, , unhinge the door, Remove the hinges from, unhinge%2:30:00, bn:00095393v, REMOVE TAKE AWAY KIDNAPP,239, , ipatient (hinge bn:00035192n), x, unhinge
+pb:grill.01, , grill the sausages, Cook over a grill, grill%2:30:00, bn:00089045v, COOK,462, , iInstrument (grill bn:00041795n), x, grill
+pb:rave.01, m, NO EXAMPLE, Talk in a noisy excited or declamatory manner, rave%2:32:01, bn:00089933v, SPEAK,9, , , x, jabber  � rant  � rave  � mouth off  � rabbit on
+pb:plaster.01, , She plastered warnings all over the wall, Affix conspicuously, plaster%2:35:10, bn:00091698v, ATTACH,419, , , x, plaster
+pb:attain.01, , We hit Detroit by noon, Reach a destination either real or abstract, attain%2:38:01, bn:00082790v, ARRIVE,504, , , x, reach   � arrive at  � hit   � make   � attain
+pb:whip.01, zz, The curtain whipped her face, Strike as if by whipping, whip%2:35:02, bn:00090200v, HIT,92, -instrument, , x, lash   � whip
+pb:think.01, m, "Ive been thinking all day and getting nowhere", "Use or exercise the mind or ones power of reason in order to make inferences decisions or arrive at a solution or judgments", think%2:31:00, bn:00084733v, THINK,96, , , x, think   � cerebrate  � cogitate   � contemplate   � ponder
+pb:understand.01, m, Now I see!, Perceive (an idea or situation) mentally, understand%2:31:01, bn:00092443v, UNDERSTAND,93, , ,1, see   � realise  � realize  � understand
+pb:defend.01, m, He maintained his innocence, State or assert, defend%2:32:01, bn:00086457v, SPEAK,9, , , x, defend   � maintain
+pb:annul.01, , The contract was annulled, Declare invalid, annul%2:41:00, bn:00082642v, ANNULL,476, , , x, annul  � invalidate  � nullify  � void  � avoid
+pb:select.01, , Take any one of these cards, Pick out select or choose from a number of alternatives, select%2:31:00, bn:00084931v, CHOOSE,99, , ,1, choose   � select  � take   � pick out
+pb:litter.01, m, Cigar butts littered the ground, Strew, litter%2:42:00, bn:00090405v, COVER SPREAD SURMOUNT,249, , , x, litter
+pb:plunder.01, , The soldiers raped the beautiful country, Destroy and strip of its possession, plunder%2:35:01, bn:00086691v, DESTROY,134, , ,1, despoil   � plunder   � rape   � spoil   � violate
+pb:flap.01, m, flags flapped in the strong wind, Move noisily, flap%2:38:00, bn:00088272v, TRAVEL,175, , , x, flap
+pb:nibble.01, , He pieced at the sandwich all morning, Eat intermittently; take small bites of, nibble%2:34:01, bn:00091057v, EAT BITE,51, , ,1, nibble  � pick   � piece
+pb:rove.01, , The gypsies roamed the woods, Move about aimlessly or without any destination often in search of food or employment, rove%2:38:00, bn:00084629v, TRAVEL,175, , , x, wander   � drift   � ramble  � roam   � rove
+pb:bag.01, m, The supermarket clerk bagged the groceries, Put into a bag, bag%2:35:00, bn:00083030v, INSERT,422, , iDestination (bag bn:00007922n), x, bag
+pb:understand.01, m, She understands French, Make sense of a language, understand%2:31:03, bn:00089841v, UNDERSTAND,93, , ,1, interpret   � read   � translate   � understand
+pb:stimulate.01, , Coffee and tea stimulate me, Cause to be alert and energetic, stimulate%2:29:00, bn:00082771v, AROUSE WAKE ENLIVEN,435, , ,1, arouse  � brace   � energise  � energize  � perk up
+pb:surround.01, zc, smother the meat in gravy, Envelop completely, smother%2:35:02, bn:00093947v, COVER SPREAD SURMOUNT,249, , , x, smother  � surround
+pb:tumble.01, zz, NO EXAMPLE, Roll over and over back and forth, tumble%2:38:04, bn:00095219v, MOVE ONESELF,30, , , , tumble
+pb:brush.01, m, Johnson brushed the hairs from his jacket, Rub with a brush or as if with a brush, brush%2:35:01, bn:00084154v, REMOVE TAKE AWAY KIDNAPP,239, , , x, brush
+pb:allow.01, m, She permitted her son to visit her estranged husband, Consent to give permission, allow%2:32:00, bn:00082537v, AUTHORIZE ADMIT,11, , ,1, allow   � permit   � countenance   � let
+pb:flinch.01, zc, she flinched when they showed the slaughtering of the calf, Draw back as with fear or pain, wince%2:38:00, bn:00086039v, MOVE BACK,605, , , x, shrink   � cringe   � flinch  � funk  � quail
+pb:flip.01, m, NO EXAMPLE, Move with a flick or light motion, flip%2:35:05, bn:00088318v, MOVE ONESELF,30, , , , flip
+pb:corroborate.01, , NO EXAMPLE, Give evidence for, corroborate%2:32:00, bn:00085840v, PROVE,24, , , , corroborate   � validate
+pb:replay.01, , NO EXAMPLE, Play (a melody) again, replay%2:36:00, bn:00092819v, PERFORM,14, , , , replay
+pb:regard.01, , She views this quite differently from me, Deem to be, regard%2:31:00, bn:00085647v, SUBJECTIVE JUDGING,21, , , , consider   � reckon   � regard   � see   � view
+pb:chew.01, , He jawed his bubble gum, Chew (food); to bite and grind with the teeth, chew%2:34:00, bn:00084888v, EAT BITE,51, , ,1, chew  � masticate   � jaw   � manducate
+pb:search.01, , The police are searching for clues, Try to locate or discover or try to establish the existence of, search%2:35:00, bn:00090460v, SEARCH,197, , ,2, search   � seek    � look for  � locate
+pb:plant.01, m, "Plant a thought in the students minds", Put firmly in the mind, plant%2:31:00, bn:00089620v, TEACH,345, , , x, implant  � plant
+pb:devour.01, , Some people can down a pound of meat in the course of one meal, Eat immoderately, devour%2:34:01, bn:00085688v, EAT BITE,51, , ,1, consume   � devour   � down   � go through
+pb:scald.01, m, scald the milk, Heat to the boiling point, scald%2:30:01, bn:00093298v, HEAT,436, , , x, scald
+pb:adopt.01, m, She followed the feminist movement, Choose and follow; as of theories ideas policies strategies or plans, adopt%2:40:02, bn:00082379v, FOLLOW SUPPORT SPONSOR FUND,22, , , x, adopt  � espouse  � follow
+pb:bluster.01, , NO EXAMPLE, Act in an arrogant overly self-assured or conceited manner, bluster%2:29:00, bn:00083707v, BEHAVE,17, -attribute, , x, bluster  � swagger   � swash
+pb:incline.01, m, She tends to be nervous before her lectures, Have a tendency or disposition to do or be something; be inclined, incline%2:42:01, bn:00083202v, BEHAVE,17, -attribute, , x, tend  � be given  � incline   � lean   � run
+pb:smother.01, zz, the butter cream smothered the cake, Form an impenetrable cover over, smother%2:42:00, bn:00093948v, COVER SPREAD SURMOUNT,249, , , x, smother
+pb:convince.01, , He had finally convinced several customers of the advantages of his product, Make (someone) agree understand or realize the truth or validity of something, convince%2:32:00, bn:00085767v, PERSUADE,86, , ,1, convince   � convert   � win over
+pb:herd.01, m, Who will be herding the cattle when the cowboy dies?, Keep move or drive animals, herd%2:42:00, bn:00089321v, MOVE SOMETHING,153, , patient (animal bn:00004222n), x, herd
+pb:act.01, , You should act like an adult, Behave in a certain manner; show a certain behavior; conduct or comport oneself, act%2:29:00, bn:00082286v, BEHAVE,17, , , x, behave  � do  � act
+pb:gift.01, , What will you give her for her birthday?, Give as a present; make a gift of, gift%2:40:00, bn:00088803v, GIVE GIFT,189, , ,1, gift   � give   � present
+pb:abate.01, , The storm abated, Become less in amount or intensity, abate%2:30:00, bn:00082126v, DECREASE,428, -agent, , , abate   � die away  � let up  � slack   � slack off
+pb:shade.01, zz, NO EXAMPLE, Represent the effect of shade or shadow on, shade%2:36:00, bn:00088186v, PAINT,354, , , x, shade   � fill in
+pb:recall.02, c, "I cant remember saying any such thing", Recall knowledge from memory; have a recollection, recall%2:31:00, bn:00084413v, REMEMBER,76, , ,2, recall  � recollect  � remember  � call up  � retrieve
+pb:get.01, , She got a lot of paintings from her uncle, Come into the possession of something concrete or abstract, get%2:40:00, bn:00082276v, OBTAIN,290, agent (animate_being | social_group) patient (physical_object), , , acquire   � get  � procure  � obtain
+pb:ask.02, m, She asked him for a loan, Make a request or demand for something to somebody, ask%2:32:01, bn:00082818v, ASK REQUEST,330, , ,2, ask
+pb:observe.01, m, She detected high levels of lead in her drinking water, Discover or determine the existence presence or fact of, observe%2:39:02, bn:00086708v, FIND,33, , ,2, detect   � discover   � notice   � find   � observe
+pb:bump.01, , My car bumped into the tree, Knock against with force or violence, bump%2:35:00, bn:00084230v, HIT,92, -instrument, , x, knock   � bump
+pb:avoid.01, , I keep off drugs, Refrain from certain foods or beverages, avoid%2:34:00, bn:00082960v, ABSTAIN AVOID REFRAIN,260, , ,1, avoid   � keep off
+pb:totter.01, m, NO EXAMPLE, Move unsteadily with a rocking motion, totter%2:38:00, bn:00093461v, TRAVEL,175, , , , seesaw  � teeter  � totter
+pb:continue.02, c, """I know it\s hard"""" he continued """"but there is no choice""", """Continue talking he continued """"but there is no choice""""""", continue%2:32:00, bn:00084594v, SPEAK,9, , , , go on  � carry on   � continue   � proceed
+pb:lash.01, , lash the horse, Bind with a rope chain or cord, lash%2:35:02, bn:00090201v, SECURE FASTEN TIE,206, , iInstrument (rope bn:00068266n) (chain bn:00017489n) (cord bn:00022589n), x, lash
+pb:tack.01, m, append a charm to the necklace, Fix to; attach, tack%2:35:06, bn:00082700v, ATTACH,419, , , x, tack  � tack on  � append   � hang on  � tag on
+pb:splash.01, m, NO EXAMPLE, Soil or stain with a splashed liquid, splash%2:35:04, bn:00094143v, DIRTY,437, , patient (liquid bn:00051471n), x, splash
+pb:enforce.01, , Social relations impose courtesy, Compel to behave in a certain way, enforce%2:41:01, bn:00087626v, OBLIGE FORCE,50, , , , enforce   � impose
+pb:waver.01, , the candle flickered, Move back and forth very rapidly, waver%2:38:02, bn:00088307v, MOVE ONESELF,30, , , x, flitter  � quiver   � flicker   � flutter   � waver
+pb:snap.04, m, The lock snapped shut, Close with a snapping motion, snap%2:30:01, bn:00093964v, CLOSE,212, , iInstrument (, x, snap
+pb:receive.01, m, receive payment, Get something; come into possession of, receive%2:40:00, bn:00089246v, RECEIVE,186, , ,2, receive   � have
+pb:pulverize.01, , pulverize the grains, Make into a powder by breaking up or cause to become dust, pulverize%2:30:00, bn:00091905v, BREAK DETERIORATE,58, ,  iResult (powder bn:00063926n), x, pulverize  � powder   � powderise  � powderize  � pulverise
+pb:boil.01, , boil potatoes, Immerse or be immersed in a boiling liquid often for cooking purposes, boil%2:30:00, bn:00083737v, HEAT,436, , , x, boil
+pb:inherit.01, , I inherited my good eyesight from my mother, Receive by genetic transmission, inherit%2:40:01, bn:00089738v, OBTAIN,290, , , , inherit
+pb:show.03, m, The blood test showed that he was the father, Provide evidence for, show%2:32:00, bn:00083245v, PROVE,24, , ,2, testify  � evidence   � bear witness  � prove   � show
+pb:heave.01, m, NO EXAMPLE, Throw with great effort, heave%2:35:01, bn:00089287v, THROW,234, , , x, heave
+pb:bathe.01, m, bathe daily, Cleanse the entire body, bathe%2:29:00, bn:00083166v, WASH CLEAN,155, , iPatient (body bn:00011744n), x, bathe
+pb:evolve.02, m, I acquired a strong aversion to television, Gain through experience, evolve%2:30:03, bn:00082282v, TAKE,10, , , , evolve  � acquire   � develop
+pb:wind.01, m, the river winds through the hills, To move or cause to move in a sinuous spiral or circular course, wind%2:38:00, bn:00090713v, TRAVEL,175, , , x, meander   � weave   � thread   � wander   � wind
+pb:search.01, , We looked all day and finally found the child in the forest, Search or seek, search%2:39:00, bn:00090450v, SEARCH,197, , ,1, search   � look
+pb:take.01, m, We lead him to our chief, Take somebody somewhere, take%2:38:09, bn:00085567v, MOVE SOMETHING,153, , , x, conduct   � direct  � guide   � lead   � take
+pb:delight.03, , he delights in his granddaughter, Take delight in, delight%2:34:00, bn:00086520v, LIKE,344, , ,1, delight   � enjoy   � revel
+pb:want.01, m, I want you here at noon!, Wish or demand the presence of, want%2:31:01, bn:00095628v, REQUIRE NEED WANT HOPE,32, , ,1, want
+pb:nurse.01, , NO EXAMPLE, Serve as a nurse; care for sick or handicapped people, nurse%2:41:00, bn:00091106v, HELP HEAL CARE CURE,198, , patient (sick bn:00071414n) (handicapped bn:00027412n), x, nurse
+pb:retaliate.01, m, The Empire strikes back, Make a counterattack and return like for like especially evil for evil, retaliate%2:33:00, bn:00092931v, ATTACK BOMB,204, , , x, retaliate  � strike back
+pb:scramble.03, m, NO EXAMPLE, Climb awkwardly as if by scrambling, scramble%2:38:01, bn:00085021v, RISE GO UP,28, , , , clamber   � shin   � scramble  � shinny  � skin
+pb:display.01, , "The Metropolitan Museum is exhibiting Goyas works this month", To show make visible or apparent, display%2:39:00, bn:00087013v, SHOW,162, , ,1, display  � exhibit   � expose
+pb:cart.02, , haul stones, Draw slowly or heavily, cart%2:35:00, bn:00084601v, PULL,391, , , x, drag   � haul   � cart   � hale
+pb:die.01, , She died from cancer, Pass from physical life and lose all bodily attributes and functions necessary to sustain life, die%2:30:00, bn:00084343v, DIE,63, , , x, perish   � croak   � decease   � die   � kick the bucket
+pb:recoup.01, , NO EXAMPLE, Reimburse or compensate (someone) as for a loss, recoup%2:40:02, bn:00092543v, PAY,306, , , x, recoup   � reimburse
+pb:compose.02, zc, She composed a poem, Produce a literary work, write%2:36:00, bn:00085489v, CREATE MATERIALIZE ,382, , ,2, compose   � indite   � pen   � write
+pb:pound.02, c, pound the roots with a heavy flat stone, Break down and crush by beating as with a pestle, pound%2:30:03, bn:00091896v, BREAK DETERIORATE,58, , Iinstrument (pestle bn:00061785n), x, pound
+pb:sacrifice.01, m, NO EXAMPLE, Sell at a loss, sacrifice%2:40:02, bn:00093220v, SELL,229, , ,1, sacrifice
+pb:crack.02, m, The glass cracked when it was heated, Become fractured; break or crack on the surface only, crack%2:30:01, bn:00083950v, BREAK DETERIORATE,58, -agent -instrument, iResult (crack bn:00019685n), , break   � check   � crack
+pb:warehouse.01, , NO EXAMPLE, Store in a warehouse, warehouse%2:40:00, bn:00095635v, STORE,220, , iLocation (wharehouse bn:00074453n),1, warehouse
+pb:implore.01, , I beg you to stop!, Call upon in supplication; entreat, implore%2:32:00, bn:00083331v, ASK REQUEST,330, , ,2, implore  � pray  � beg  � supplicate
+pb:commission.01, m, NO EXAMPLE, Place an order for, commission%2:41:02, bn:00085424v, ASK REQUEST,330, , ,1, commission
+pb:make.02, m, The ads induced me to buy a VCR, Cause to do; cause to act in a specified manner, make%2:32:00, bn:00084700v, INCITE INDUCE,18, , ,2, stimulate  � induce   � make   � cause   � get
+pb:paint.01, c, he painted all day in the garden, Make a painting, paint%2:36:01, bn:00091389v, PAINT,354, , , x, paint
+pb:bread.01, , bread the pork chops before frying them, Cover with bread crumbs, bread%2:35:00, bn:00083899v, COVER SPREAD SURMOUNT,249, , iCo-theme (bread bn:00012888n), x, bread
+pb:flip.01, m, flip me the beachball, Throw or toss with a light motion, flip%2:35:00, bn:00088317v, THROW,234, , , x, pitch   � flip  � sky   � toss
+pb:croak.01, , She died from cancer, Pass from physical life and lose all bodily attributes and functions necessary to sustain life, croak%2:30:00, bn:00084343v, DIE,63, , , x, perish   � croak   � decease   � die   � kick the bucket
+pb:depressurize.01, , depressurize the cabin in the air plane, Decrease the pressure of, depressurize%2:30:00, bn:00086402v, DECREASE,428, , iAttribute (pressure bn:00002251n),1, decompress  � depressurize   � depressurise
+pb:waver.01, , NO EXAMPLE, Sway to and fro, waver%2:38:00, bn:00095680v, TRAVEL,175, , , , waver   � weave
+pb:glower.01, m, The girl glared at the man who tried to make a pass at her, Look at with a fixed gaze, glower%2:29:01, bn:00088872v, LOOK,132, , ,1, glare  � glower
+pb:entertain.01, , NO EXAMPLE, Provide entertainment for, entertain%2:41:00, bn:00087682v, ENJOY,150, , , , entertain
+pb:sprain.01, , "wrench ones ankle", Twist suddenly so as to sprain, sprain%2:29:00, bn:00093007v, HURT HARM ACHE,431, , , x, sprain  � rick   � turn   � twist   � wrench
+pb:terrorize.01, zz, NO EXAMPLE, Coerce by violence or with threats, terrorize%2:41:00, bn:00094885v, OBLIGE FORCE,50, , instrument (violence bn:00035772n) (threat bn:00077032n),1, terrorise  � terrorize
+pb:strip.01, , strip a wall of its wallpaper, Take off or remove, strip%2:30:02, bn:00086989v, REMOVE TAKE AWAY KIDNAPP,239, , , x, strip   � dismantle
+pb:naturalize.01, , NO EXAMPLE, Explain with reference to nature, naturalize%2:32:00, bn:00091021v, EXPLAIN,314, , , , naturalize
+pb:toast.01, , toast bread, Make brown and crisp by heating, toast%2:30:00, bn:00086042v, COOK,462, , , x, crispen  � crisp  � toast
+pb:consume.01, m, Have another bowl of chicken soup!, Serve oneself to or consume regularly, consume%2:34:00, bn:00085689v, EAT BITE,51, , , , ingest   � take   � consume   � have   � take in
+pb:heal.01, , "The treatment cured the boys acne", Provide a cure for make healthy again, heal%2:29:01, bn:00084071v, HELP HEAL CARE CURE,198, , , x, heal  � bring around  � cure
+pb:communicate.01, m, He communicated his anxieties to the psychiatrist, Transmit thoughts or feelings, communicate%2:32:00, bn:00085436v, SPEAK,9, , , x, communicate   � intercommunicate
+pb:wander.01, , the river winds through the hills, To move or cause to move in a sinuous spiral or circular course, wander%2:38:01, bn:00090713v, TRAVEL,175, , , x, meander   � weave   � thread   � wander   � wind
+pb:wish.01, , I wish that Christmas were over, Make or express a wish, wish%2:32:02, bn:00095803v, REQUIRE NEED WANT HOPE,32, , , , wish
+pb:grudge.01, , NO EXAMPLE, Accept or admit unwillingly, grudge%2:37:00, bn:00089095v, ACCEPT,309, , , , grudge
+pb:defraud.01, , He swindled me out of my inheritance, Deprive of by deceit, defraud%2:41:00, bn:00084240v, STEAL DEPRIVE,301, , ,2, con   � defraud   � hornswoggle   � swindle   � bunco
+pb:grasp.01, m, Do you comprehend the meaning of this letter?, Get the meaning of something, grasp%2:31:00, bn:00082727v, UNDERSTAND,93, , ,1, comprehend   � apprehend   � compass   � dig   � get the picture
+pb:suppose.01, , Scientists supposed that large dinosaurs lived in swamps, To believe especially on uncertain or tentative grounds, suppose%2:31:01, bn:00085612v, BELIEVE,45, , , , conjecture   � hypothesise  � hypothecate   � hypothesize  � speculate
+pb:schedule.01, , "Ive scheduled a concert next week", Plan for an activity or event, schedule%2:31:00, bn:00093336v, PLAN SCHEDULE,545, , theme (event bn:00032021n),2, schedule
+pb:winkle.01, , NO EXAMPLE, Remove or displace from a position, winkle%2:35:00, bn:00095790v, MOVE SOMETHING,153, , , , winkle out  � winkle
+pb:visit.02, c, the men were sitting in the cafe and shooting the breeze, Talk socially without exchanging too much information, visit%2:32:00, bn:00084747v, SPEAK,9, , , x, chat   � natter   � chatter   � gossip  � shoot the breeze
+pb:tramp.01, m, We had to tramp the creeks, Cross on foot, tramp%2:38:03, bn:00095071v, TRAVEL,175, , , x, tramp
+pb:revel.01, , he delights in his granddaughter, Take delight in, revel%2:34:00, bn:00086520v, LIKE,344, , ,1, delight   � enjoy   � revel
+pb:finish.02, , the bronchioles terminate in a capillary bed, Have an end in a temporal spatial or quantitative sense; either spatial or metaphorical, finish%2:42:00, bn:00084711v, FINISH CONCLUDE END,429, , , , cease   � end   � finish   � stop   � terminate
+pb:climb.01, m, Did you ever climb up the hill behind your house?, Go upward with gradual or continuous progress, climb%2:38:00, bn:00085120v, RISE GO UP,28, , , x, mount  � climb   � climb up  � go up
+pb:mount.03, m, mount a theater production, Prepare and supply with the necessary equipment for execution or performance, mount%2:36:01, bn:00090937v, ORGANIZE,188, , , x, mount  � put on
+pb:sanction.01, zz, NO EXAMPLE, Give authority or permission to, sanction%2:41:01, bn:00093252v, AUTHORIZE ADMIT,11, , ,1, sanction
+pb:barge.01, , NO EXAMPLE, Transport by barge on a body of water, barge%2:38:01, bn:00083120v, CARRY TRANSPORT,3, , iInstrument (barge bn:00008576n), x, barge
+pb:join.01, , join these two parts so that they fit together, Cause to become joined or linked, join%2:35:01, bn:00084107v, JOIN CONNECT,580, , , x, bring together  � join  � unite
+pb:wheel.01, m, NO EXAMPLE, Wheel somebody or something, wheel%2:38:04, bn:00095725v, CARRY TRANSPORT,3, , , , wheel  � wheel around
+pb:clutch.01, , The sales clerk quickly seized the money on the counter, Take hold of; grab, clutch%2:35:00, bn:00085207v, CATCH,79, , , x, clutch   � prehend  � seize
+pb:throttle.01, m, he tried to strangle his opponent, Kill by squeezing the throat of so as to cut off the air, throttle%2:35:00, bn:00094418v, KILL,62, , , x, strangle  � throttle  � strangulate
+pb:immerse.01, m, The huge waves swallowed the small boat and it sank shortly thereafter, Enclose or envelop completely as if by swallowing, immerse%2:35:01, bn:00084300v, ENCLOSE WRAP,420, -agent, , , swallow up  � bury   � eat up  � immerse  � swallow
+pb:coalesce.01, m, NO EXAMPLE, Fuse or cause to grow together, coalesce%2:35:00, bn:00085228v, COMBINE MIX UNITE,434, , , , coalesce
+pb:clean.01, m, Clean the spots off the rug, Remove while making clean, clean%2:35:02, bn:00085066v, WASH CLEAN,155, , , x, clean
+pb:adjust.01, , Adjust the clock please, Alter or regulate so as to achieve accuracy or conform to a standard, adjust%2:30:00, bn:00082357v, ADJUST CORRECT ,91, , ,1, adjust   � correct   � set
+pb:thump.02, cm, Her heart was beating fast, Move rhythmically, thump%2:38:00, bn:00083250v, MOVE ONESELF,30, , , x, pound   � beat   � thump
+pb:roar.01, m, "`Get out of here he roared", Utter words loudly and forcefully, roar%2:32:03, bn:00093066v, SPEAK,9, , , x, thunder  � roar
+pb:abridge.01, , The manuscript must be shortened, Reduce in scope while retaining essential elements, abridge%2:30:00, bn:00082127v, DECREASE,428, , ,1, foreshorten  � abridge   � abbreviate   � contract   � cut
+pb:bite.01, m, A bee stung my arm yesterday, Deliver a sting to, bite%2:35:02, bn:00083518v, HURT HARM ACHE,431, , , , bite   � prick   � sting
+pb:walk.01, m, He walks the horse up the mountain, Make walk, walk%2:38:05, bn:00095605v, MOVE SOMETHING,153, , , x, walk
+pb:pour.01, m, the sommelier decanted the wines, Pour out, pour%2:38:04, bn:00086357v, SPILL POUR,152, , iDestination (decanter bn:00015815n), x, decant   � pour   � pour out
+pb:paint.01, , NO EXAMPLE, Apply a liquid to; e.g. paint the gutters with linseed oil, paint%2:35:01, bn:00091392v, PAINT,354, , , x, paint
+pb:sight.01, , "he caught sight of the kings men coming over the ridge", Catch sight of; to perceive with the eyes, sight%2:39:00, bn:00093726v, SEE,521, , ,1, sight   � spy
+pb:thunder.01, m, "`Get out of here he roared", Utter words loudly and forcefully, thunder%2:32:00, bn:00093066v, SPEAK,9, , , x, thunder  � roar
+pb:skulk.01, m, The lonely man skulks down the main street all day, Move stealthily, skulk%2:38:00, bn:00093830v, TRAVEL,175, , , x, skulk
+pb:sculpt.01, , sculpt a swan out of a block of ice, Create by shaping stone or wood or any other hard material, sculpt%2:36:00, bn:00093402v, CREATE MATERIALIZE ,382, , material (stone bn:00068045n) (wood bn:00081492n),1, sculpt  � sculpture  � esculpir
+pb:produce.01, m, We produce more cars than we can sell, Create or manufacture a man-made product, produce%2:36:00, bn:00086013v, MOUNT ASSEMBLE PRODUCE,483, , , x, make   � produce   � create   � build   � construct
+pb:rule.03, c, Who is governing the country now?, Exercise authority over; as of nations, rule%2:41:00, bn:00088992v, LEAD GOVERN,125, , theme (nation bn:00023236n),1, govern  � rule
+pb:memorize.01, , Have you memorized your lines for the play yet?, Commit to memory; learn by heart, memorize%2:31:00, bn:00085506v, STUDY,225, , , x, memorise  � memorize   � con   � learn
+pb:indicate.01, m, These symptoms indicate a serious illness, Be a signal for or a symptom of, indicate%2:32:01, bn:00083436v, SIGNAL INDICATE,346, , , x, point   � bespeak   � betoken  � indicate  � signal
+pb:distribute.01, m, The teacher handed out the exams, Give to several people, distribute%2:40:01, bn:00087065v, GIVE GIFT,189, , ,2, give out  � hand out  � pass out  � distribute
+pb:agonize.01, , NO EXAMPLE, Suffer agony or anguish, agonize%2:37:00, bn:00082474v, HURT HARM ACHE,431, , , , agonize  � agonise
+pb:lump.01, m, lump together all the applicants, Put together indiscriminately, lump%2:35:00, bn:00084962v, GROUP,321, , , x, chunk   � lump
+pb:ruin.01, , This behavior will ruin your chances of winning the election, Destroy or cause to fail, ruin%2:41:00, bn:00093161v, DESTROY,134, , ,2, ruin
+pb:critique.01, zc, She reviews books for the New York Times, Appraise critically, review%2:32:00, bn:00086048v, SUBJECTIVE JUDGING,21, , , , critique  � review
+pb:blend.01, m, blend the nuts and raisins together, Combine into one, blend%2:35:00, bn:00083595v, COMBINE MIX UNITE,434, , ,1, intermix  � intermingle  � blend   � immingle
+pb:suffocate.01, zc, The child suffocated under the pillow, Be asphyxiated; die from lack of oxygen, asphyxiate%2:30:00, bn:00082833v, DIE,63, , ICause (suffocation bn:00006416n), x, suffocate  � asphyxiate  � stifle
+pb:connect.01, m, The two streets connect to become a highway, Be or become joined or united or linked, connect%2:42:02, bn:00085624v, JOIN CONNECT,580, , , x, connect   � join   � link up  � unite   � link
+pb:pool.01, m, We pooled resources, Combine into a common fund, pool%2:40:00, bn:00091838v, COMBINE MIX UNITE,434, -co-patient, , , pool
+pb:ban.01, , NO EXAMPLE, Forbid the public distribution of ( a movie or a newspaper), ban%2:41:00, bn:00083063v, PRECLUDE FORBID EXPEL,181, , theme (movie bn:00034471n) (newspaper bn:00057563n),1, ban   � censor
+pb:swarm.01, zc, people were pouring out of the theater, Move in large numbers, teem%2:38:00, bn:00091898v, LEAVE DEPART RUN AWAY,119, , , x, teem   � stream   � pour   � pullulate   � swarm
+pb:order.02, , Order me some flowers, Make a request for something, order%2:32:00, bn:00091192v, ASK REQUEST,330, , ,1, order
+pb:batter.01, m, Winds buffeted the tent, Strike against forcefully, batter%2:35:01, bn:00083171v, HIT,92, -instrument, , x, batter   � buffet   � knock about
+pb:understand.01, m, She did not understand her husband, Know and comprehend the nature or meaning of, understand%2:31:00, bn:00095375v, UNDERSTAND,93, , ,1, understand
+pb:prove.01, m, The blood test showed that he was the father, Provide evidence for, prove%2:32:00, bn:00083245v, PROVE,24, , ,2, testify  � evidence   � bear witness  � prove   � show
+pb:know.01, , we all knew her as a big show-off, Know the nature or character of, know%2:31:11, bn:00090145v, KNOW,317, , ,2, know
+pb:shiver.01, , NO EXAMPLE, Tremble convulsively as from fear or excitement, shiver%2:38:00, bn:00093639v, MOVE ONESELF,30, , , , shiver    � shudder  � thrill   � throb   � tremble
+pb:recite.01, m, retell a story, """Render verbally """"recite a poem""""""", recite%2:36:00, bn:00092503v, SPEAK,9, , , x, recite   � retell
+pb:compose.01, m, frame a policy, Make up plans or basic details for, compose%2:31:00, bn:00085491v, PLAN SCHEDULE,545, , ,2, compose   � draw up  � frame
+pb:grade.01, , how would you rank these students?, Assign a rank or rating to, grade%2:31:03, bn:00089002v, SUBJECTIVE JUDGING,21, , ,1, rate   � grade   � order   � place   � range
+pb:moisturize.01, , We have a machine that humidifies the air in the house, Make (more) humid, moisturize%2:30:00, bn:00089514v, WET,142, , , , moisturize  � humidify  � moisturise
+pb:steal.01, , Someone stole my wallet on the train, "Take without the owners consent", steal%2:40:00, bn:00094314v, STEAL DEPRIVE,301, , ,1, steal  � bag   � pocket
+pb:misguide.01, , The pedestrian misdirected the out-of-town driver, Lead someone in the wrong direction or give someone wrong directions, misguide%2:38:00, bn:00090250v, MOVE SOMETHING,153, , , x, mislead  � lead astray  � misdirect  � misguide
+pb:eschew.01, , NO EXAMPLE, Avoid and stay away from deliberately; stay clear of, eschew%2:32:00, bn:00087728v, ABSTAIN AVOID REFRAIN,260, , , , eschew  � shun
+pb:analyze.01, , analyze a sonnet by Shakespeare, Consider in detail and subject to an analysis in order to discover essential features or meaning, analyze%2:31:00, bn:00082596v, ANALYZE,176, , ,2, analyze  � analyse  � canvass  � study   � canvas
+pb:totter.02, , small children toddle, Walk unsteadily, totter%2:38:01, bn:00085258v, MOVE ONESELF,30, , , x, toddle  � totter   � coggle  � waddle   � dodder
+pb:bounce.01, m, NO EXAMPLE, Move up and down repeatedly, bounce%2:38:02, bn:00083826v, MOVE ONESELF,30, , , , bounce   � jounce
+pb:require.01, , NO EXAMPLE, Make someone do something, require%2:32:00, bn:00085401v, ORDER,72, , , x, command   � require
+pb:glisten.01, , His eyes were glistening, Be shiny as if wet, glisten%2:39:00, bn:00088881v, WET,142, -agent, , , gleam  � glint  � glisten  � glitter  � shine
+pb:plaster.01, zz, NO EXAMPLE, Dress by covering with a therapeutic substance, plaster%2:29:00, bn:00091700v, COVER SPREAD SURMOUNT,249, , , x, plaster  � poultice
+pb:pack.02, c, This singer always packs the concert halls, Fill to capacity, pack%2:38:02, bn:00091375v, FILL,421, , , x, pack
+pb:poach.02, , people are poaching elephants for their ivory, Hunt illegally, poach%2:33:00, bn:00091784v, HUNT,276, , , x, poach
+pb:fish.01, , I like to go fishing on weekends, Catch or try to catch fish or shellfish, fish%2:33:00, bn:00088236v, HUNT,276, , itheme (fish bn:00034816n ) (shellfish bn:00055576n), x, fish
+pb:grope.01, zz, He made some sexual advances at the woman in his office and groped her repeatedly, Fondle for sexual pleasure, grope%2:35:02, bn:00089064v, TOUCH,228, , , x, grope
+pb:delete.01, , Who erased the files form my hard disk?, Wipe out digitally or magnetically recorded information, delete%2:32:00, bn:00086518v, CANCEL ELIMINATE,491, , ,2, erase   � delete   � efface
+pb:close.01, m, The windows closed with a loud bang, Become closed, close%2:35:06, bn:00085163v, CLOSE,212, -agent, , , close   � shut
+pb:constitute.01, , This money is my only income, Form or compose, constitute%2:42:00, bn:00083187v, REPRESENT,341, , , x, comprise   � be   � constitute  � make up  � represent
+pb:fix.01, m, Get the children ready for school!, Make ready or suitable or equip in advance for a particular purpose or for some use event etc, fix%2:30:03, bn:00088250v, PREPARE,337, , ,1, prepare   � set   � gear up  � ready   � set up
+pb:cast.03, , cast a bronze sculpture, Form by pouring (e.g. wax or hot metal) into a cast or mold, cast%2:36:00, bn:00084630v, CREATE MATERIALIZE ,382, , material (wax bn:00080707n) (metal bn:00054550n),1, cast   � mold  � mould
+pb:gush.02, m, Water jetted forth, Issue in a jet; come out in a jet; stream or spring forth, gush%2:35:00, bn:00089128v, SHOOT LAUNCH PROPEL,202, -agent, , , gush   � jet
+pb:force.01, m, NO EXAMPLE, Urge or force (a person) to an action; constrain or motivate, force%2:36:00, bn:00088455v, PERSUADE,86, , , , force   � impel
+pb:wonder.01, , I wonder whether this was the right thing to do, Place in doubt or express doubtful speculation, wonder%2:32:01, bn:00092265v, THINK,96, , , x, wonder  � question
+pb:disburse.01, , NO EXAMPLE, Expend as from a fund, disburse%2:40:00, bn:00086901v, PAY,306, , , x, disburse  � pay out
+pb:hit.01, zc, He smashed a 3-run homer, Hit hard, boom%2:35:00, bn:00083562v, HIT,92, , , x, smash  � blast   � boom   � nail
+pb:down.02, c, He downed three martinis before dinner, Drink down entirely, down%2:34:00, bn:00083396v, DRINK,48, , , x, belt down  � bolt down  � down   � drink down  � kill
+pb:explore.01, m, NO EXAMPLE, Examine minutely, explore%2:31:02, bn:00087883v, ANALYZE,176, , , , explore
+pb:imitate.01, , NO EXAMPLE, Make a reproduction or copy of, imitate%2:36:03, bn:00089594v, WRITE,327, , , x, imitate
+pb:recommend.01, zc, The travel agent recommended strongly that we not travel on Thanksgiving Day, Push for something, urge%2:32:03, bn:00082418v, PROPOSE,227, , ,2, urge  � advocate  � recommend
+pb:stare.01, , The students stared at the teacher with amazement, Look at with fixed eyes, stare%2:39:00, bn:00088705v, LOOK,132, , ,1, gaze   � stare
+pb:throb.01, , NO EXAMPLE, Tremble convulsively as from fear or excitement, throb%2:38:00, bn:00093639v, MOVE ONESELF,30, , , , shiver    � shudder  � thrill   � throb   � tremble
+pb:hurl.01, zc, NO EXAMPLE, Throw forcefully, hurtle%2:35:00, bn:00084627v, THROW,234, , , x, cast   � hurl  � hurtle
+pb:doff.01, , He doffed his hat, Remove, doff%2:35:00, bn:00087141v, REMOVE TAKE AWAY KIDNAPP,239, , , x, doff
+pb:spy.01, , NO EXAMPLE, Catch sight of, spy%2:39:00, bn:00086664v, SEE,521, , , , spy  � descry  � espy  � spot
+pb:nab.01, , the police nabbed the suspected criminals, Take into custody, nab%2:35:00, bn:00082728v, REMOVE TAKE AWAY KIDNAPP,239, , , x, apprehend   � arrest   � collar   � cop   � nab
+pb:range.01, , The gypsies roamed the woods, Move about aimlessly or without any destination often in search of food or employment, range%2:38:00, bn:00084629v, TRAVEL,175, , , x, wander   � drift   � ramble  � roam   � rove
+pb:crowd.01, m, men in straw boaters and waxed mustaches crowded the verandah, To gather together in large numbers, crowd%2:38:00, bn:00086092v, GROUP,321, , , x, crowd   � crowd together
+pb:remark.01, , She observed that his presentation took up too much time, Make mention of, remark%2:32:00, bn:00090740v, SPEAK,9, , , , observe   � mention   � note   � remark
+pb:stabilize.01, , The drug stabilized her blood pressure, Make stable and keep from fluctuating or put into an equilibrium, stabilize%2:30:01, bn:00094238v, STABILIZE SUPPORT PHYSICALLY,207, , , , stabilize  � stabilise
+pb:cycle.01, , NO EXAMPLE, Ride a bicycle, cycle%2:38:01, bn:00083471v, MOVE BY MEANS OF,242, , iInstrument (bicycle bn:00010248n), x, bike  � cycle   � bicycle   � pedal   � wheel
+pb:bridge.01, , NO EXAMPLE, Connect or reduce the distance between, bridge%2:42:00, bn:00084042v, JOIN CONNECT,580, , , , bridge   � bridge over
+pb:pollute.01, , The industrial wastes polluted the lake, Make impure, pollute%2:30:00, bn:00085700v, DIRTY,437, , , x, pollute  � contaminate  � foul
+pb:star.01, m, NO EXAMPLE, Be the star in a performance, star%2:36:00, bn:00094295v, PERFORM,14, , , , star
+pb:carry.01, m, This land will carry ten cows to the acre, Be able to feed, carry%2:34:01, bn:00084584v, FEED,90, , , , carry
+pb:purge.01, , purge the water, Rid of impurities, purge%2:30:00, bn:00092185v, WASH CLEAN,155, , , x, purge
+pb:plan.01, m, He plans to be in graduate school next year, Have the will and intention to carry out some action, plan%2:31:01, bn:00083196v, REQUIRE NEED WANT HOPE,32, , , , plan   � be after
+pb:prepare.02, , Get the children ready for school!, Make ready or suitable or equip in advance for a particular purpose or for some use event etc, prepare%2:30:00, bn:00088250v, PREPARE,337, , ,1, prepare   � set   � gear up  � ready   � set up
+pb:shake.01, m, his hands shook, Move with or as if with a tremor, shake%2:29:00, bn:00086781v, MOVE ONESELF,30, , , x, shake   � didder
+pb:get.04, c, Get me those books over there please, Go or come after and bring or take back, get%2:35:03, bn:00084061v, BRING,60, , ,1, fetch   � get  � bring   � convey
+pb:spatter.01, m, The baby spattered the bib with food, Spot splash or soil, spatter%2:35:01, bn:00083435v, DIRTY,437, , , x, bespatter  � spatter
+pb:clamp.01, , clamp the chair together until the glue has hardened, Fasten or fix with a clamp, clamp%2:35:00, bn:00085025v, SECURE FASTEN TIE,206, , iInstrument (clamp bn:00019425n), x, clamp
+pb:administer.01, m, administer critical remarks to everyone present, Administer or bestow as in small portions, administer%2:40:00, bn:00082364v, GIVE GIFT,189, , ,2, distribute    � parcel out  � administer   � deal   � dispense
+pb:agree.01, m, She agreed to all my conditions, Consent or assent to a condition or agree to do something, agree%2:32:01, bn:00082476v, AGREE,25, , , x, agree
+pb:deliver.01, , our local super market delivers, Bring to a destination make a delivery, deliver%2:35:00, bn:00086531v, CARRY TRANSPORT,3, -source, iPatient (grocery bn:00035671n) , , deliver
+pb:amalgamate.01, , resourcefully he mingled music and dance, To bring or combine together or with something else, amalgamate%2:35:00, bn:00082565v, COMBINE MIX UNITE,434, , ,2,  amalgamate  � commix  � mingle   � mix   � unify
+pb:deprive.01, zc, The Nazis stripped the Jews of all their assets, Take away possessions from someone, strip%2:40:03, bn:00086636v, STEAL DEPRIVE,301, , ,2, deprive   � divest   � strip
+pb:confer.02, c, The university conferred a degree on its most famous former student who never graduated, Present, confer%2:40:00, bn:00083445v, GIVE GIFT,189, , ,1, bestow   � confer
+pb:stabilize.01, , "brace your elbows while working on the potters wheel", Support or hold steady and make steadfast with or as if with a brace, stabilize%2:35:02, bn:00083855v, STABILIZE SUPPORT PHYSICALLY,207, , iInstrument (brace bn:00012595n), x, brace   � stabilise  � stabilize  � steady
+pb:park.01, m, Park the car in front of the library, Maneuver a vehicle into a parking space, park%2:38:00, bn:00091440v, MOVE SOMETHING,153, -source, , , park
+pb:soften.01, m, soften a shock, Lessen in force or effect, soften%2:30:02, bn:00083918v, WEAKEN,445, , ,2, weaken   � break   � damp   � dampen  � soften
+pb:forward.01, , forward my mail, Send or ship onward from an intermediate post or station in transit, forward%2:38:00, bn:00088506v, SEND,83, +source, iSource (post bn:00074049n), x, forward  � send on
+pb:favor.01, m, he favors his second daughter, Promote over another, favor%2:41:00, bn:00088060v, LIKE,344, , ,1, prefer   � favor   � favour
+pb:value.01, m, I respect his judgement, Regard highly; think much of, value%2:31:01, bn:00087736v, LIKE,344, , ,2, esteem  � prize  � respect  � value  � prise
+pb:leach.01, m, leach the soil, Remove substances from by a percolating liquid, leach%2:30:00, bn:00090242v, REMOVE TAKE AWAY KIDNAPP,239, , , x, leach   � strip
+pb:thin.01, , NO EXAMPLE, Lose thickness; become thin or thinner, thin%2:30:00, bn:00094902v, REDUCE DIMINISH,241, , IAttribute (thickness bn:00076908n), , thin
+pb:disrobe.01, zc, "please dont undress in front of everybody!", Get undressed, peel%2:29:02, bn:00086903v, REMOVE TAKE AWAY KIDNAPP,239, , iPatient (dress bn:00005007n), , discase  � disrobe   � peel   � strip   � strip down
+pb:sweep.01, m, Please sweep the floor, Clean by sweeping, sweep%2:35:01, bn:00094660v, WASH CLEAN,155, , , x, sweep
+pb:siphon.01, m, siphon gas into the tank, Move a liquid from one container into another by means of a siphon or a siphoning action, siphon%2:35:00, bn:00093775v, MOVE SOMETHING,153, , patient (liquid bn:00051473n), , siphon
+pb:prepare.01, m, machinate a plot, Arrange by systematic planning and united effort, prepare%2:36:00, bn:00086753v, ORGANIZE,188, , , , organize  � devise  � get up  � machinate  � organise
+pb:launch.01, m, launch a career, Get going; give impetus to, launch%2:35:04, bn:00090217v, BEGIN,46, , ,1, launch   � set in motion
+pb:sail.01, m, We sailed the Atlantic, Traverse or travel on (a body of water), sail%2:38:03, bn:00093229v, TRAVEL,175, , , x, sail  � boat  � navigate
+pb:launch.01, m, He launched into a long diatribe, Begin with vigor, launch%2:30:10, bn:00090216v, BEGIN,46, , ,1, launch   � plunge
+pb:stuff.01, m, stuff a pillow with feathers, Fill tightly with a material, stuff%2:30:02, bn:00094504v, FILL,421, , , x, stuff
+pb:cock.01, zz, NO EXAMPLE, Set the trigger of a firearm back for firing, cock%2:35:00, bn:00085241v, ADJUST CORRECT ,91, , , , cock
+pb:pilot.01, , The pilot flew to Cuba, Operate an airplane, pilot%2:38:00, bn:00082957v, MOVE BY MEANS OF,242, , iInstrument (sledge bn:00072096n), x, aviate  � fly   � pilot
+pb:starve.01, m, They starved the prisoners, Deprive of food, starve%2:34:03, bn:00088029v, HURT HARM ACHE,431, , , , starve  � famish
+pb:extract.01, m, pull weeds, Remove usually with some force or effort; also used in an abstract sense, extract%2:35:04, bn:00087277v, REMOVE TAKE AWAY KIDNAPP,239, , , x, extract   � pull   � pull out  � take out  � draw out
+pb:dine.01, , We often dine with friends in this restaurant, Have supper; eat dinner, dine%2:34:01, bn:00086843v, EAT BITE,51, , iPatient (dinner bn:00027206n),1, dine
+pb:halt.01, m, the car stopped, Come to a halt stop moving, halt%2:38:01, bn:00089154v, STOP,29, -patient -instrument, , , stop  � halt
+pb:smother.01, , Othello smothered Desdemona with a pillow, Deprive of oxygen and prevent from breathing, smother%2:35:00, bn:00082831v, KILL,62, , , x, asphyxiate  � smother  � suffocate
+pb:stick.01, m, stick the corner of the sheet under the mattress, Fasten into place by fixing an end or point into something, stick%2:35:10, bn:00094356v, SECURE FASTEN TIE,206, , , x, stick
+pb:beat.01, m, "beat ones breast", "Strike (a part of ones own body) repeatedly as in great emotion or in accompaniment to music", beat%2:35:10, bn:00083257v, HIT,92, , patient (body part bn:00011769n), x, beat
+pb:state.01, , He said that he wanted to marry her, Express in words, state%2:32:00, bn:00093287v, SPEAK,9, , , x, say  � tell   � state
+pb:throb.01, , "The babys heart was pulsating again after the surgeon massaged it", Expand and contract rhythmically; beat rhythmically, throb%2:38:01, bn:00092159v, MOVE ONESELF,30, , , x, pulsate   � pulse   � throb
+pb:respect.01, , I respect his judgement, Regard highly; think much of, respect%2:31:00, bn:00087736v, LIKE,344, , ,2, esteem  � prize  � respect  � value  � prise
+pb:prick.01, m, A bee stung my arm yesterday, Deliver a sting to, prick%2:35:03, bn:00083518v, HURT HARM ACHE,431, , , , bite   � prick   � sting
+pb:impound.01, m, The FBI seized the drugs, Take temporary possession of as a security by legal authority, impound%2:40:00, bn:00082897v, REMOVE TAKE AWAY KIDNAPP,239, , , x, confiscate  � impound  � seize  � sequester  � attach
+pb:shorten.01, m, The manuscript must be shortened, Reduce in scope while retaining essential elements, shorten%2:30:02, bn:00082127v, DECREASE,428, , ,1, foreshorten  � abridge   � abbreviate   � contract   � cut
+pb:seesaw.01, m, NO EXAMPLE, Move up and down as if on a seesaw, seesaw%2:38:00, bn:00093460v, TRAVEL,175, , , , seesaw
+pb:excite.01, m, NO EXAMPLE, Arouse or elicit a feeling, excite%2:37:02, bn:00087806v, AROUSE WAKE ENLIVEN,435, , , , excite
+pb:dodge.01, , "The child dodged the teachers blow", Make a sudden movement in a new direction so as to avoid, dodge%2:38:00, bn:00087139v, ABSTAIN AVOID REFRAIN,260, , ,2, dodge
+pb:pressure.01, m, He squeezed her for information, """To cause to do through pressure or necessity by physical moral or intellectual means :""""She forced him to take a job in the city""""""", pressure%2:41:00, bn:00085252v, OBLIGE FORCE,50, , ,1, pressure  � coerce  � force  � hale  � squeeze
+pb:require.01, m, It takes nerve to do what she did, Require as useful just or proper, require%2:42:00, bn:00082822v, REQUIRE NEED WANT HOPE,32, , , , necessitate  � ask   � call for  � demand   � involve
+pb:pasture.01, , NO EXAMPLE, Let feed in a field or pasture or meadow, pasture%2:35:10, bn:00086061v, FEED,90, , iPatient (grass bn:00041433n); beneficiary (animal bn:00004222n), x, pasture   � graze  � crop
+pb:snivel.01, m, NO EXAMPLE, Talk in a tearful manner, snivel%2:32:00, bn:00093981v, SPEAK,9, , , x, whine  � snivel
+pb:reassemble.01, , NO EXAMPLE, Assemble once again after taking something apart, reassemble%2:36:00, bn:00092458v, MOUNT ASSEMBLE PRODUCE,483, , , x, reassemble
+pb:antique.01, , We went antiquing on Saturday, Shop for antiques, antique%2:40:00, bn:00082673v, BUY,185, , iPatient (antique bn:00004731n), x, antique
+pb:face.01, zz, The building was faced with beautiful stones, Cover the front or surface of, face%2:35:01, bn:00087947v, COVER SPREAD SURMOUNT,249, , , x, face
+pb:oil.02, m, NO EXAMPLE, Administer an oil or ointment to ; often in a religious ceremony of blessing, oil%2:29:00, bn:00082609v, GIVE GIFT,189, , iPatient (ointment bn:00023634n), , anoint   � anele  � embrocate  � inunct  � oil
+pb:seal.01, , She sealed the letter with hot wax, Close with or as if with a seal, seal%2:35:00, bn:00093406v, CLOSE,212, , iInstrument (seal bn:00070012n), x, seal
+pb:swindle.01, , He swindled me out of my inheritance, Deprive of by deceit, swindle%2:41:00, bn:00084240v, STEAL DEPRIVE,301, , ,2, con   � defraud   � hornswoggle   � swindle   � bunco
+pb:macerate.01, m, the tissue macerated in the water, Become soft or separate and disintegrate as a result of excessive soaking, macerate%2:30:02, bn:00090535v, DESTROY,134, , ,1, macerate
+pb:integrate.01, m, She incorporated his suggestions into her proposal, Make into a whole or make part of a whole, integrate%2:30:00, bn:00089663v, COMBINE MIX UNITE,434, , ,2, incorporate   � integrate
+pb:swap.01, , NO EXAMPLE, Exchange or give (something) in exchange for, swap%2:40:00, bn:00094650v, REPLACE,154, , , , swap  � switch   � trade   � swop
+pb:plunder.01, m, During the earthquake people looted the stores that were deserted by their owners, Steal goods; take as spoils, plunder%2:40:00, bn:00086690v, STEAL DEPRIVE,301, , iTheme (goods bn:00054416n),1, plunder  � loot  � pillage  � ransack  � rifle
+pb:install.01, m, install the washer and dryer, Set up for use, install%2:35:00, bn:00089785v, MOUNT ASSEMBLE PRODUCE,483, , , x, instal  � install  � put in  � set up
+pb:fry.01, , fry the pancakes, Cook on a hot surface using fat, fry%2:30:00, bn:00088607v, COOK,462, , iInstrument (fat bn:00033761n), x, fry
+pb:remember.01, , "I cant remember saying any such thing", Recall knowledge from memory; have a recollection, remember%2:31:00, bn:00084413v, REMEMBER,76, , ,2, recall  � recollect  � remember  � call up  � retrieve
+pb:bat.02, , bat the ball, Strike with or as if with a baseball bat, bat%2:35:01, bn:00083154v, HIT,92, , iInstrument (basebal bat bn:00008806n), x, bat
+pb:imbue.01, m, soak the bandage with disinfectant, Fill soak or imbue totally, imbue%2:30:01, bn:00089592v, WET,142, , , x, soak  � imbue
+pb:hurt.01, m, Our business was hurt by the new competition, Cause damage or affect negatively, hurt%2:30:04, bn:00089534v, WORSEN,432, , ,2, hurt   � injure
+pb:savor.01, m, She relished her fame and basked in her glory, Derive or receive pleasure from; get enjoyment from; take pleasure in, savor%2:37:00, bn:00083145v, ENJOY,150, , , x, bask   � enjoy   � relish   � savour  � savor
+pb:see.01, m, I want to see whether she speaks French, Find out learn or determine with certainty usually by making an inquiry or other effort, see%2:32:00, bn:00082813v, VERIFY,244, , ,2, determine   � ascertain   � check   � find out  � learn
+pb:cloister.01, m, NO EXAMPLE, Surround with a cloister as of a garden, cloister%2:42:00, bn:00085156v, ENCLOSE WRAP,420, , Ico-theme (cloister bn:00019908n); theme (garden bn:00037300n), x, cloister
+pb:wobble.01, m, His knees wobbled, Move unsteadily, wobble%2:38:00, bn:00085259v, MOVE ONESELF,30, , , x, coggle  � wobble
+pb:escape.01, , If you see this man run!, "Flee; take to ones heels; cut and run", escape%2:38:02, bn:00083961v, LEAVE DEPART RUN AWAY,119, -source -destination, , , run away  � scarper   � break away  � escape  � fly the coop
+pb:demand.01, m, It takes nerve to do what she did, Require as useful just or proper, demand%2:42:00, bn:00082822v, REQUIRE NEED WANT HOPE,32, , , , necessitate  � ask   � call for  � demand   � involve
+pb:present.01, m, What will you give her for her birthday?, Give as a present; make a gift of, present%2:40:00, bn:00088803v, GIVE GIFT,189, , ,1, gift   � give   � present
+pb:top.01, , The speech crowned the meeting, Be the culminating event, top%2:30:01, bn:00086095v, FINISH CONCLUDE END,429, , , , crown   � top
+pb:decamp.01, , The hikers decamped before dawn, Leave a camp, decamp%2:38:02, bn:00083963v, LEAVE DEPART RUN AWAY,119, , iSource (camp bn:00010805n), x, decamp   � break camp
+pb:begin.02, c, The DMZ begins right over the hill, Have a beginning in a temporal spatial or evaluative sense, begin%2:42:00, bn:00083341v, BEGIN,46, -theme, , , begin   � start
+pb:dawn.02, c, The age of computers had dawned, Appear or develop, dawn%2:42:01, bn:00086307v, BEGIN,46, , ,2, dawn
+pb:dust.02, , dust the cabinets, Remove the dust from, dust%2:35:00, bn:00087436v, WASH CLEAN,155, , iMaterial (dust bn:00029192n), x, dust
+pb:tap.01, zc, He tapped me on the shoulder, Strike lightly, tip%2:35:04, bn:00094813v, HIT,92, , , x, tap   � tip
+pb:pass.05, , hand me the spoon please, Place into the hands or custody of, pass%2:40:00, bn:00088825v, GIVE GIFT,189, , ,1, hand  � give  � reach  � pass   � pass on
+pb:sheathe.01, m, sheathe her face, Cover with a protective sheathing, sheathe%2:35:01, bn:00093594v, COVER SPREAD SURMOUNT,249, , , x, sheathe
+pb:herd.01, m, We herded the children into a spare classroom, Cause to herd drive or crowd together, herd%2:38:01, bn:00086090v, GROUP,321, , , x, crowd   � herd
+pb:underestimate.01, m, he underestimated the work that went into the renovation, Make too low an estimate of, underestimate%2:31:01, bn:00095351v, SUBJECTIVE JUDGING,21, -attribute, ,2, underrate  � underestimate
+pb:recompense.01, , My efforts were not remunerated, Make payment to; compensate, recompense%2:40:00, bn:00085466v, PAY,306, , , x, remunerate   � compensate   � recompense
+pb:dump.01, , No dumping in these woods!, Throw away as refuse, dump%2:40:00, bn:00087422v, DISCARD,255, , itheme (refuse bn:00080543n),1, dump
+pb:show.03, m, She shows her dogs frequently, Give an exhibition of to an interested audience, show%2:39:02, bn:00086557v, SHOW,162, , ,1, show  � present   � demo   � demonstrate   � exhibit
+pb:spy.01, , NO EXAMPLE, Watch observe or inquire secretly, spy%2:32:01, bn:00093867v, SEE,521, , , , sleuth   � snoop  � spy   � stag
+pb:notice.01, m, She detected high levels of lead in her drinking water, Discover or determine the existence presence or fact of, notice%2:39:04, bn:00086708v, FIND,33, , ,2, detect   � discover   � notice   � find   � observe
+pb:shroud.01, m, The origins of this civilization are shrouded in mystery, Cover as if with a shroud, shroud%2:35:01, bn:00085918v, COVER SPREAD SURMOUNT,249, , , x, enshroud  � shroud  � cover   � hide
+pb:bob.01, m, "She curtsied when she shook the Queens hand", Make a curtsy; usually done only by girls and women; as a sign of respect, bob%2:32:00, bn:00083719v, LOWER,355, -agent, , , curtsy  � bob
+pb:empathize.01, , "You dont need to explain--I understand!", Be understanding of, empathize%2:31:00, bn:00087571v, UNDERSTAND,93, , , , empathize   � empathise  � sympathise  � sympathize  � understand
+pb:chart.02, , chart the data, Represent by means of a graph, chart%2:36:04, bn:00084827v, REPRESENT,341, , iattribute (chart bn:00017904n), , chart  � graph
+pb:warn.01, m, The old man warned the children off his property, Ask to go away, warn%2:32:03, bn:00095643v, ASK REQUEST,330, , ,2, warn
+pb:forge.02, , hammer the silver into a bowl, Create by hammering, forge%2:36:00, bn:00088477v, MOUNT ASSEMBLE PRODUCE,483, , iInstrument (hammer bn:00042730n), x, forge   � hammer
+pb:locate.02, zc, Our sense of sight enables us to locate objects in space, Determine or indicate the place site or limits of as if by an instrument or by a survey, situate%2:42:00, bn:00090424v, FIND,33, , ,1, locate   � situate
+pb:understand.01, m, I understand you have no previous experience?, Believe to be the case, understand%2:31:02, bn:00089708v, BELIEVE,45, , , , infer  � understand
+pb:smear.01, m, smear the wall with paint, Cover (a surface) by smearing (a substance) over it, smear%2:35:03, bn:00086304v, COVER SPREAD SURMOUNT,249, , , x, smear   � daub
+pb:macerate.01, m, The treatment emaciated him, Cause to grow thin or weak, macerate%2:30:03, bn:00087539v, WEAKEN,445, , ,1, emaciate  � macerate   � waste
+pb:finish.01, m, That finished me with Mary, Cause to finish a relationship with somebody, finish%2:30:03, bn:00088223v, FINISH CONCLUDE END,429, , , , finish
+pb:clasp.01, , The child clasped my hands, Grasp firmly, clasp%2:35:01, bn:00085050v, CATCH,79, , , x, clasp
+pb:embezzle.01, , The accountant embezzled thousands of dollars while working for the wealthy family, "Appropriate (as property entrusted to ones care) fraudulently to ones own use", embezzle%2:40:00, bn:00086444v, STEAL DEPRIVE,301, , ,2, embezzle   � misappropriate   � defalcate   � malversate  � peculate
+pb:polish.01, , shine the silver please, Make (a surface) shine, polish%2:35:00, bn:00091821v, WASH CLEAN,155, , , x, polish  � shine  � smooth   � smoothen
+pb:recognize.01, , The Crown Prince was acknowledged as the true heir to the throne, Accept (someone) to be what is claimed or accept his power and authority, recognize%2:31:02, bn:00082272v, ACCEPT,309, -agent, , , acknowledge  � know   � recognise  � recognize
+pb:take.01, m, She always takes an umbrella, "Have with oneself; have on ones person", take%2:42:10, bn:00084555v, CARRY TRANSPORT,3, - source -destination, , , carry   � pack   � take
+pb:fasten.01, , This dress fastens in the back, Become fixed or fastened, fasten%2:35:00, bn:00088053v, SECURE FASTEN TIE,206, -agent, , , fasten
+pb:dash.01, m, Smash a plate, Break into pieces as by striking or knocking over, dash%2:30:00, bn:00086289v, DESTROY,134, , ,1, dash   � smash
+pb:brush.01, m, He brushed the wall lightly, Touch lightly and briefly, brush%2:35:00, bn:00084155v, TOUCH,228, , , x, brush
+pb:shunt.01, zz, NO EXAMPLE, Transfer to another track of trains, shunt%2:38:00, bn:00093703v, CARRY TRANSPORT,3, , iInstrument (freight train bn:00036423n); destination (track bn:00077838n) | (train bn:00066028n), , shunt
+pb:clap.01, m, clap two boards together, Strike together so as to produce a sharp percussive noise, clap%2:35:00, bn:00085036v, HIT,92, , , x, clap
+pb:draw.02, m, The participants in the experiment were drawn from a representative population, Select or take in from a given group or region, draw%2:31:13, bn:00087240v, CHOOSE,99, , ,2, draw
+pb:zigzag.01, , The river zigzags through the countryside, Travel along a zigzag path, zigzag%2:38:00, bn:00085966v, TRAVEL,175, , , x, zigzag  � crank
+pb:stuff.01, m, Have you stuffed the turkey yet?, Fill with a stuffing while cooking, stuff%2:30:00, bn:00088038v, FILL,421, , iTheme (stuffing bn:00028695n), x, farce   � stuff
+pb:hurt.02, m, NO EXAMPLE, Be the source of pain, hurt%2:39:00, bn:00082264v, HURT HARM ACHE,431, , , x, ache  � smart  � hurt
+pb:listen.01, m, Listen to the sound of this cello, Hear with intention, listen%2:39:00, bn:00090400v, HEAR LISTEN,94, , , xx, listen
+pb:enliven.01, m, "lets liven up this room a bit", Make lively, enliven%2:30:00, bn:00082629v, AROUSE WAKE ENLIVEN,435, , ,1, animate   � enliven   � invigorate  � liven  � liven up
+pb:grab.01, m, This story will grab you, Capture the attention or imagination of, grab%2:31:00, bn:00088999v, LIKE,344, , ,2, grab   � seize
+pb:tow.01, , Horses used to tow barges along the canal, Drag behind, tow%2:35:00, bn:00095052v, PULL,391, , , x, tow
+pb:carry.01, m, She always takes an umbrella, "Have with oneself; have on ones person", carry%2:42:01, bn:00084555v, CARRY TRANSPORT,3, - source -destination, , , carry   � pack   � take
+pb:compensate.01, , My efforts were not remunerated, Make payment to; compensate, compensate%2:40:00, bn:00085466v, PAY,306, , , x, remunerate   � compensate   � recompense
+pb:inspect.01, m, audit accounts and tax returns, Examine carefully for accuracy with the intent of verification, inspect%2:31:00, bn:00082924v, VERIFY,244, , ,2, scrutinize   � inspect  � audit  � scrutinise
+pb:collapse.01, zc, The wall collapsed, Break down literally or metaphorically, give%2:38:13, bn:00083932v, BREAK DETERIORATE,58, -agent -instrument, , , break   � cave in  � collapse  � fall in  � founder
+pb:carry.01, m, The jar carries wine, Contain or hold; have within, carry%2:42:03, bn:00083225v, CONTAIN,39, , , x, contain   � hold   � bear   � carry   �enclose
+pb:write.01, m, Write her soon please!, Communicate (with) in writing, write%2:32:08, bn:00087382v, COMMUNICATE CONTACT,66, , iInstrument (writing bn:00021039n), x, drop a line  � write
+pb:flick.01, zc, flick a piece of paper across the table, Throw or toss with a quick motion, jerk%2:35:00, bn:00088302v, THROW,234, , , x, jerk   � flick
+pb:appear.01, m, He suddenly appeared at the wedding, Come into sight or view, appear%2:30:00, bn:00082691v, APPEAR,288, , ,1, appear
+pb:smash.01, m, The teenager banged up the car of his mother, Damage or destroy as if by violence, smash%2:35:08, bn:00083084v, DESTROY,134, , ,1, bang up  � smash  � smash up
+pb:feather.01, , NO EXAMPLE, Cover or fit with feathers, feather%2:35:00, bn:00088072v, COVER SPREAD SURMOUNT,249, , iCo-theme (feather bn:00033865n), x, feather
+pb:stew.01, , Stew the vegetables in wine, Cook slowly and for a long time in liquid, stew%2:30:00, bn:00094350v, COOK,462, , iInstrument (liquid bn:00051471n), x, stew
+pb:thrash.01, m, NO EXAMPLE, Beat the seeds out of a grain, thrash%2:35:01, bn:00094923v, HIT,92, , , x, thrash   � thresh
+pb:interest.01, m, I worry about the second Germanic consonant shift, Be on the mind of, interest%2:42:01, bn:00085522v, THINK,96, , , x, concern  � interest   � worry   � occupy
+pb:saturate.01, , NO EXAMPLE, Cause (a chemical compound vapour solution magnetic material) to unite with the greatest possible amount of another substance, saturate%2:30:01, bn:00093272v, COMBINE MIX UNITE,434, , , , saturate
+pb:call.01, m, "He always addresses me with `Sir", Greet as with a prescribed form title or name, call%2:41:14, bn:00082337v, SPEAK,9, , , , call   � address
+pb:transcribe.01, zz, NO EXAMPLE, Rewrite or arrange a piece of music for an instrument or medium other than that originally intended, transcribe%2:36:00, bn:00095080v, ADJUST CORRECT ,91, , patient (composition bn:00021408n), , transcribe
+pb:draw.02, m, He drew great benefits from his membership in the association, Get or derive, draw%2:40:00, bn:00087235v, OBTAIN,290, , ,2, draw   � reap
+pb:discharge.101, cm, discharge liquids, Pour forth or release, discharge%2:35:00, bn:00086907v, SPILL POUR,152, , , , discharge
+pb:direct.01, m, conduct an orchestra, Lead as in the performance of a composition, direct%2:36:02, bn:00085566v, LEAD GOVERN,125, , ,1, conduct   � direct  � lead
+pb:stray.01, zc, The child strayed from the path and her parents lost sight of her, Wander from a direct course or at random, drift%2:38:04, bn:00087308v, LEAVE DEPART RUN AWAY,119, , , x, stray   � drift   � err
+pb:confiscate.01, , The FBI seized the drugs, Take temporary possession of as a security by legal authority, confiscate%2:40:01, bn:00082897v, REMOVE TAKE AWAY KIDNAPP,239, , , x, confiscate  � impound  � seize  � sequester  � attach
+pb:group.01, m, Can you group these shapes together?, Arrange into a group or groups, group%2:31:00, bn:00089079v, SORT CLASSIFY ARRANGE,380, , ,2, group
+pb:refrain.01, , I abstain from alcohol, Choose not to consume, refrain%2:34:00, bn:00082179v, ABSTAIN AVOID REFRAIN,260, , ,1, desist  � refrain   � abstain
+pb:sail.01, m, I love sailing especially on the open sea, Travel on water propelled by wind, sail%2:38:00, bn:00093231v, MOVE BY MEANS OF,242, , iInstrument (ship bn:00071103n), x, sail
+pb:mention.01, , She observed that his presentation took up too much time, Make mention of, mention%2:32:00, bn:00090740v, SPEAK,9, , , , observe   � mention   � note   � remark
+pb:intermix.01, , blend the nuts and raisins together, Combine into one, intermix%2:35:00, bn:00083595v, COMBINE MIX UNITE,434, , ,1, intermix  � intermingle  � blend   � immingle
+pb:tag.01, zc, label these bottles, Attach a tag or label to, mark%2:35:09, bn:00090151v, ATTACH,419, , iInstrument (tag bn:00075885n) (label bn:00049560n ), x, tag   � label   � mark
+pb:visit.01, m, The governor visited the prison, Come to see in an official or professional capacity, visit%2:38:01, bn:00089777v, ANALYZE,176, , ,1,  inspect  � visit
+pb:scan.01, m, The beams scanned the night sky, Make a wide sweeping search of, scan%2:35:00, bn:00093318v, SEARCH,197, , , , scan
+pb:remit.01, , remit $25, Send (money) in payment, remit%2:40:00, bn:00092772v, SEND,83, , iPatient (money bn:00055644n), , remit
+pb:pall.01, zc, NO EXAMPLE, Become less interesting or attractive, dull%2:30:02, bn:00087419v, WORSEN,432, , , , dull   � pall
+pb:plummet.01, , The stock market plummeted, Drop sharply, plummet%2:38:00, bn:00091773v, REDUCE DIMINISH,241, , , , plummet  � plump
+pb:favor.01, m, NO EXAMPLE, Bestow a privilege upon, favor%2:41:03, bn:00088063v, GIVE GIFT,189, , , , favor  � favour  � privilege
+pb:erase.01, , Please erase the formula on the blackboard--it is wrong!, Remove by or as if by rubbing or erasing, erase%2:35:00, bn:00087490v, CANCEL ELIMINATE,491, , ,1, erase   � efface  � rub out  � score out  � wipe off
+pb:smash.01, m, The window smashed, Break suddenly into pieces as from a violent blow, smash%2:30:10, bn:00093926v, BREAK DETERIORATE,58, -agent -instrument, iResult (piece bn:00062297n), , smash
+pb:glaze.01, , the potter glazed the dishes, Coat with a glaze, glaze%2:35:00, bn:00088880v, COVER SPREAD SURMOUNT,249, , iCo-theme (glaze bn:00040633n), x, glaze
+pb:make.05, c, How much do you make a month in your new job?, Earn on some commercial or business transaction; earn as salary or wages, make%2:40:01, bn:00084089v, EARN,279, , , x, bring in  � clear   � make   � pull in  � earn
+pb:ail.01, m, NO EXAMPLE, Cause bodily suffering to and make sick or indisposed, ail%2:29:01, bn:00082484v, HURT HARM ACHE,431, , , x, ail   � pain   � trouble
+pb:charge.02, m, he saw Jess charging at him with a pitchfork, To make a rush at or sudden attack upon as in battle, charge%2:33:00, bn:00083234v, ATTACK BOMB,204, , , x, bear down  � charge
+pb:crouch.01, m, he crouched down, "Bend ones back forward from the waist on down", crouch%2:38:00, bn:00083405v, LOWER,355, -agent, , , crouch  � stoop  � bend   � bow
+pb:call.02, m, I was called at 5 A.M. this morning, Rouse somebody from sleep with a call, call%2:29:05, bn:00084409v, SPEAK,9, , , x, call
+pb:sock.01, , NO EXAMPLE, Hit hard, sock%2:35:00, bn:00083144v, HIT,92, , , x, bash  � bonk   � bop   � sock   � whap
+pb:awaken.01, , He was roused by the drunken men in the street, Cause to become awake or conscious, awaken%2:29:00, bn:00082772v, AROUSE WAKE ENLIVEN,435, , ,1, wake   � awaken  � rouse   � arouse  � wake up
+pb:waste.01, m, The mafia liquidated the informer, Get rid of (someone who may be a threat) by killing, waste%2:35:00, bn:00087118v, KILL,62, , , x, do in  � knock off  � liquidate  � neutralise  � neutralize
+pb:scrutinize.01, m, audit accounts and tax returns, Examine carefully for accuracy with the intent of verification, scrutinize%2:31:00, bn:00082924v, VERIFY,244, , ,2, scrutinize   � inspect  � audit  � scrutinise
+pb:figure.04, , NO EXAMPLE, Make a mathematical calculation or computation, figure%2:31:00, bn:00084373v, CALCULATE ESTIMATE,64, , ,2, calculate   � compute   � figure   � reckon   � cipher
+pb:cycle.01, , NO EXAMPLE, Ride a motorcycle, cycle%2:38:00, bn:00086244v, MOVE BY MEANS OF,242, , iInstrument (motorcycle bn:00010360n), x, cycle   � motorbike  � motorcycle
+pb:deteriorate.01, , His mind deteriorated, Become worse or disintegrate, deteriorate%2:30:00, bn:00086712v, WORSEN,432, -agent, , , deteriorate
+pb:model.02, m, "We dont know the woman who posed for Leonardo so often", Assume a posture as for artistic purposes, model%2:39:01, bn:00090878v, WORK,597, , , , pose  � model   � posture   � sit
+pb:replace.01, m, Smith replaced Miller as CEO after Miller left, Take the place or move into the position of, replace%2:41:00, bn:00092817v, REPLACE,154, -agent, , x, replace  � supplant  � supersede  � supercede  � supervene upon
+pb:generate.01, m, The new manager generated a lot of problems, Bring into existence, generate%2:36:00, bn:00084080v, CREATE MATERIALIZE ,382, , ,2, generate   � bring forth
+pb:flicker.01, m, the candle flickered, Move back and forth very rapidly, flicker%2:38:00, bn:00088307v, MOVE ONESELF,30, , , x, flitter  � quiver   � flicker   � flutter   � waver
+pb:unite.01, m, We merged our resources, Join or combine, unite%2:30:02, bn:00090746v, COMBINE MIX UNITE,434, , ,2, merge  � unify  � unite   � combine
+pb:theorize.01, m, Galileo theorized the motion of the stars, Construct a theory about, theorize%2:31:02, bn:00094899v, THINK,96, , , x, theorize
+pb:pray.01, , pray to the Lord, Address a deity a prophet a saint or an object of worship; say a prayer, pray%2:32:00, bn:00091921v, SPEAK,9, , recipient (deity bn:00025995n) (prophet bn:00059235n) (saint bn:00068856n), x, pray
+pb:telephone.01, , I tried to call you all night, Get or try to get into communication (with someone) by telephone, telephone%2:32:00, bn:00084387v, COMMUNICATE CONTACT,66, , , x, phone   � telephone   � call up  � call   �ring
+pb:weld.01, , weld metal, Join together by heating, weld%2:35:00, bn:00095707v, JOIN CONNECT,580, , , x, weld
+pb:tingle.01, , NO EXAMPLE, Cause a stinging or tingling sensation, tingle%2:39:00, bn:00092015v, HURT HARM ACHE,431, , iStimulus (stinging bn:00074298n) (tingling bn:00064332n), x,  tingle  � prickle
+pb:decay.01, m, The body started to decay and needed to be cremated, Undergo decay or decomposition, decay%2:30:02, bn:00086363v, DESTROY,134, -agent, , , decay
+pb:vote.01, c, He voted for the motion, "Express ones preference for a candidate or for a measure or resolution; cast a vote", vote%2:41:13, bn:00095572v, CHOOSE,99, , ,2, vote
+pb:tuck.01, , insert your ticket into the slot, Fit snugly into, tuck%2:35:00, bn:00089769v, INSERT,422, , , x, tuck   � insert
+pb:insert.01, zc, Insert your ticket here, Introduce, introduce%2:30:03, bn:00087594v, INSERT,422, , , x, enclose   � insert   � inclose  � introduce  � put in
+pb:tickle.01, m, The grass tickled her calves, Touch or stroke lightly, tickle%2:35:00, bn:00094952v, TOUCH,228, , , x, tickle
+pb:ride.01, m, She never sat a horse!, Sit and travel on the back of animal usually while controlling its motions, ride%2:38:01, bn:00093013v, MOVE BY MEANS OF,242, , , x, ride   � sit
+pb:draw.01, m, "The deed was drawn in the lawyers office", Write a legal document or paper, draw%2:36:07, bn:00087247v, WRITE,327, , iResult (legal document bn:00046963n), x, draw
+pb:gather.01, m, We assembled in the church basement, Collect in one place, gather%2:41:00, bn:00082846v, GROUP,321, , , x,  forgather   � gather  � assemble  � foregather  � meet
+pb:fill.01, , The liquid fills the container, Occupy the whole of, fill%2:42:00, bn:00088177v, FILL,421, -agent, , , fill   � occupy
+pb:fleck.01, , The wine spotted the tablecloth, Make a spot or mark onto, fleck%2:35:00, bn:00083621v, DIRTY,437, , , x, fleck  � spot  � blob   � blot
+pb:snare.01, , The men trap foxes, Catch in or as if in a trap, snare%2:35:00, bn:00087670v, CATCH,79, , , x, trap   � ensnare  � entrap  � snare  � trammel
+pb:teach.01, , I taught them French, Impart skills or knowledge to, teach%2:32:00, bn:00089791v, TEACH,345, , , x, teach  � instruct   � learn
+pb:inquire.01, , I asked about their special today, Inquire about, inquire%2:32:01, bn:00082817v, ASK REQUEST,330, , ,2, inquire   � ask   � enquire  � query
+pb:contract.01, m, The manuscript must be shortened, Reduce in scope while retaining essential elements, contract%2:30:05, bn:00082127v, DECREASE,428, , ,1, foreshorten  � abridge   � abbreviate   � contract   � cut
+pb:impose.01, m, Social relations impose courtesy, Compel to behave in a certain way, impose%2:41:00, bn:00087626v, OBLIGE FORCE,50, , , , enforce   � impose
+pb:terminate.01, m, She ended their friendship when she found out that he had once been convicted of a crime, Bring to an end or halt, terminate%2:30:01, bn:00087608v, FINISH CONCLUDE END,429, , ,1, terminate  � end   � close
+pb:yield.02, m, NO EXAMPLE, Consent reluctantly, yield%2:32:00, bn:00084182v, ACCEPT,309, , , , buckle under  � give in  � knuckle under  � succumb   � yield
+pb:pluck.01, m, pluck the flowers off the bush, Pull or pull out sharply, pluck%2:35:00, bn:00091597v, PULL,391, , , , pluck   � pick off  � pull off  � tweak
+pb:cheer.01, m, NO EXAMPLE, Give encouragement to, cheer%2:37:02, bn:00084879v, INCITE INDUCE,18, , , , hearten   � recreate   � cheer   � embolden
+pb:fire.01, m, The gun fired, Go off or discharge, fire%2:33:02, bn:00086910v, SHOOT LAUNCH PROPEL,202, , , x, fire  � discharge   � go off
+pb:ping.01, m, The bugs pinged the lamp shade, Hit with a pinging noise, ping%2:35:00, bn:00091641v, HIT,92, -instrument, , x, ping
+pb:dab.01, m, pat him on the shoulder, Hit lightly, dab%2:35:00, bn:00086249v, TOUCH,228, , , x, pat   � dab
+pb:frost.02, c, frost a cake, Decorate with frosting, frost%2:35:00, bn:00088592v, COVER SPREAD SURMOUNT,249, , iCo-theme (frosting bn:00036669n), x, ice   � frost
+pb:prepare.01, m, Cook me dinner please, Prepare for eating by applying heat, prepare%2:36:01, bn:00085784v, COOK,462, , , x, cook   � prepare   � fix  � make   � ready
+pb:normalize.01, , normalize relations with China, Make normal or cause to conform to a norm or standard, normalize%2:30:01, bn:00091083v, ADJUST CORRECT ,91, , , , normalize   � normalise  � renormalise  � renormalize
+pb:beg.01, , Henry IV solicited the Pope for a divorce, Make a solicitation or entreaty for something; request urgently or persistently, beg%2:32:01, bn:00083332v, ASK REQUEST,330, , ,2, beg   � solicit   � tap   � crave   � entreat
+pb:splatter.01, , "The mother splashed the babys face with water", Dash a liquid upon or against, splatter%2:35:01, bn:00091696v, WET,142, , , x, splatter  � plash  � spatter  � splash  � splosh
+pb:throw.01, m, throw a frisbee, Propel through the air, throw%2:35:00, bn:00094934v, THROW,234, , , x, throw
+pb:shrimp.01, , NO EXAMPLE, Fish for shrimp, shrimp%2:33:00, bn:00093692v, HUNT,276, , itheme (shrimp bn:00064034n), x, shrimp
+pb:ask.01, , Ask your teacher about trigonometry, Address a question to and expect an answer from, ask%2:32:04, bn:00082821v, ASK REQUEST,330, , ,2, ask
+pb:tramp.01, m, We went tramping about the state of Colorado, Travel on foot especially on a walking expedition, tramp%2:38:00, bn:00095070v, TRAVEL,175, , , x, tramp
+pb:drag.01, , He dragged the big suitcase behind him, Pull as against a resistance, drag%2:35:00, bn:00087212v, PULL,391, , , x, drag   � haul   � cart   � hale
+pb:import.01, , NO EXAMPLE, Bring in from abroad, import%2:40:00, bn:00089626v, CARRY TRANSPORT,3, , , , import
+pb:fix.03, , fasten the lock onto the door, Cause to be firmly attached, fix%2:35:00, bn:00088052v, SECURE FASTEN TIE,206, , , x, fix  � secure   � fasten   � affix   � attach
+pb:fortify.01, , The U.S. is girding for a conflict in the Middle East, Prepare oneself for a military confrontation, fortify%2:33:00, bn:00082764v, PREPARE,337, , ,1, gird  � arm  � build up  � fortify
+pb:draw.01, zc, draw a line, Make a mark or lines on a surface, describe%2:35:00, bn:00086525v, PAINT,354, , iResult (line bn:00051289n), x, draw  � delineate  � describe   � line   � trace
+pb:treat.05, c, This book deals with incest, Act on verbally or in some form of artistic expression, treat%2:32:00, bn:00082339v, SPEAK,9, , , , address   � cover   � deal   � handle   � plow
+pb:enjoy.01, m, I love cooking, Get pleasure from, enjoy%2:37:01, bn:00087646v, LIKE,344, , ,2, enjoy   � love
+pb:bowl.01, zz, NO EXAMPLE, Hurl a cricket ball from one end of the pitch towards the batsman at the other end, bowl%2:35:04, bn:00083846v, HIT,92, , patient (cricket ball bn:00023799n), x, bowl
+pb:massage.01, m, She massaged his sore back, Give a massage to, massage%2:29:00, bn:00090693v, SEND,83, , , x, massage
+pb:leak.01, m, The news were leaked to the paper, Tell anonymously, leak%2:32:00, bn:00090255v, SPEAK,9, , , x, leak
+pb:set.08, m, set up an experiment, Get ready for a particular purpose or event, set%2:30:12, bn:00090232v, PREPARE,337, , ,2, lay out  � set   � set up
+pb:wriggle.01, , The prisoner writhed in discomfort, To move in a twisting or contorted motion (especially when struggling), wriggle%2:38:00, bn:00094234v, MOVE ONESELF,30, , , x, wriggle  � writhe   � squirm   � twist   � worm
+pb:compound.01, , compound the ingredients, Combine so as to form a whole; mix, compound%2:35:00, bn:00085315v, COMBINE MIX UNITE,434, , ,1, compound   � combine
+pb:call.03, m, He called his trump, Make a demand as for a card or a suit or a show of hands, call%2:40:05, bn:00083474v, ASK REQUEST,330, , , , bid   � call
+pb:strap.01, , NO EXAMPLE, Tie with a strap, strap%2:35:00, bn:00094422v, SECURE FASTEN TIE,206, , IInstrument (strap bn:00074544n), x, strap
+pb:broil.01, m, The sun broils the valley in the summer, Heat by a natural force, broil%2:30:01, bn:00083043v, HEAT,436, , , x, broil  � bake
+pb:excite.01, m, This movie usually arouses the male audience, Stimulate sexually, excite%2:37:01, bn:00082774v, AROUSE WAKE ENLIVEN,435, , ,1, arouse  � excite  � sex   � turn on  � wind up
+pb:pull.01, m, Pull the rope, Apply force so as to cause motion towards the source of the motion, pull%2:35:04, bn:00092138v, PULL,391, , , x, pull
+pb:perish.01, , She died from cancer, Pass from physical life and lose all bodily attributes and functions necessary to sustain life, perish%2:30:00, bn:00084343v, DIE,63, , , x, perish   � croak   � decease   � die   � kick the bucket
+pb:regain.01, , Did you find your glasses?, Come upon after searching; find the location of something that was missed or lost, regain%2:40:01, bn:00088204v, FIND,33, , ,1, find   � regain
+pb:skim.02, , skim cream from the surface of milk, Remove from the surface, skim%2:35:01, bn:00086001v, REMOVE TAKE AWAY KIDNAPP,239, , patient (surface bn:00075374n), x, skim   � cream   � cream off  � skim off
+pb:fly.01, m, He flew about the place, Move quickly or suddenly, fly%2:38:02, bn:00088379v, TRAVEL,175, , , x, fly
+pb:incorporate.02, , She incorporated his suggestions into her proposal, Make into a whole or make part of a whole, incorporate%2:30:00, bn:00089663v, COMBINE MIX UNITE,434, , ,2, incorporate   � integrate
+pb:light.02, , This lamp lightens the room a bit, Make lighter or brighter, light%2:30:00, bn:00089584v, LIGHTEN,449, , ,1, illuminate  � light up  � illume  � illumine  � light
+pb:contribute.01, , I gave at the office, Contribute to some cause, contribute%2:40:00, bn:00084904v, GIVE GIFT,189, , , , chip in  � contribute   � kick in  � give
+pb:stop.01, m, Quit teasing your little brother, Put an end to a state or an activity, stop%2:42:00, bn:00084710v, FINISH CONCLUDE END,429, , , , quit   � cease   � discontinue   � stop   � give up
+pb:lessen.01, m, The amount of homework decreased towards the end of the semester, Decrease in size extent or range, lessen%2:30:00, bn:00086417v, DECREASE,428, -agent, , , decrease   � diminish   � fall   � lessen
+pb:drone.01, m, NO EXAMPLE, Talk in a monotonous voice, drone%2:32:00, bn:00087358v, SPEAK,9, , , x, drone   � drone on
+pb:inject.01, , inject hydrogen into the balloon, Force or drive (a fluid or gas) into by piercing, inject%2:35:00, bn:00089748v, INSERT,422, , theme (liquid bn:00051473n) (gas bn:00037382n), x, inject  � shoot
+pb:evacuate.01, m, After the earthquake residents were evacuated, Move out of an unsafe location into safety, evacuate%2:38:01, bn:00087757v, REMOVE TAKE AWAY KIDNAPP,239, , patient (person bn:00046516n), x, evacuate
+pb:wire.02, , The columns were wired to the beams for support, Fasten with wire, wire%2:35:00, bn:00095797v, SECURE FASTEN TIE,206, , IInstrument (wire bn:00081386n), x, wire
+pb:flog.01, zc, The teacher often flogged the students, Beat severely with a whip or rod, whip%2:35:00, bn:00088333v, HIT,92, , iInstrument (whip bn:00081007n) (rod bn:00068105n), x, lash   � flog   � lather   � slash   � strap
+pb:decline.01, m, Interest in the project waned, Grow smaller, decline%2:30:00, bn:00086392v, DECREASE,428, -agent, , , decline  � go down  � wane
+pb:kill.01, , AIDS has killed thousands in Africa, Deprive of life, kill%2:35:02, bn:00090105v, KILL,62, , , x, kill
+pb:squeeze.02, m, He squeezed her for information, """To cause to do through pressure or necessity by physical moral or intellectual means :""""She forced him to take a job in the city""""""", squeeze%2:41:01, bn:00085252v, OBLIGE FORCE,50, , ,1, pressure  � coerce  � force  � hale  � squeeze
+pb:gyrate.01, , The dervishes whirl around and around without getting dizzy, "Revolve quickly and repeatedly around ones own axis", gyrate%2:38:01, bn:00089137v, MOVE ONESELF,30, , , x, spin   � gyrate   � reel  � spin around  � whirl
+pb:distribute.01, m, administer critical remarks to everyone present, Administer or bestow as in small portions, distribute%2:40:00, bn:00082364v, GIVE GIFT,189, , ,2, distribute    � parcel out  � administer   � deal   � dispense
+pb:send.01, , He had sent the dispatches downtown to the proper people and had slept, To cause or order to be taken directed or transmitted to another place, send%2:35:00, bn:00093485v, SEND,83, , , x, send   � send out
+pb:catch.01, zc, did you catch that allusion?, Grasp with the mind or develop an understanding of, get%2:31:09, bn:00084665v, UNDERSTAND,93, , ,1, catch   � get
+pb:fling.01, , fling the frisbee, Throw with force or recklessness, fling%2:35:00, bn:00088311v, THROW,234, , , x, fling
+pb:crush.01, m, The car crushed the toy, Break into small pieces, crush%2:30:00, bn:00086116v, BREAK DETERIORATE,58, , iResult (piece bn:00062297n), x, crush   � crumble  � grind  � pulverize
+pb:bark.01, m, She barked into the dictaphone, Speak in an unfriendly tone, bark%2:32:01, bn:00083123v, SPEAK,9, , , x, bark
+pb:film.01, , The coronation was filmed, Record in film, film%2:36:00, bn:00088193v, RECORD,216, , IDestination (film bn:00017056n),2, film
+pb:begin.01, , "This economic measure doesnt even begin to deal with the problem of inflation", Achieve or accomplish in the least degree usually used in the negative, begin%2:41:00, bn:00083348v, BEGIN,46, -theme, , , begin
+pb:couple.01, m, can we couple these proposals?, Link together, couple%2:35:01, bn:00085891v, JOIN CONNECT,580, , , , couple  � couple on  � couple up
+pb:fascinate.01, , "She captured all the mens hearts", Attract; cause to be enamored, fascinate%2:37:01, bn:00083288v, LIKE,344, , , , captivate  � becharm  � beguile  � catch  � fascinate
+pb:create.01, m, create a poem, Create by artistic means, create%2:36:13, bn:00086012v, CREATE MATERIALIZE ,382, , ,2, make   � create
+pb:peep.02, , He peeped at the woman through the window, Look furtively, peep%2:39:00, bn:00091515v, LOOK,132, , ,1, peep
+pb:trade.01, , NO EXAMPLE, Exchange or give (something) in exchange for, trade%2:40:02, bn:00094650v, REPLACE,154, , , , swap  � switch   � trade   � swop
+pb:call.02, m, I tried to call you all night, Get or try to get into communication (with someone) by telephone, call%2:32:01, bn:00084387v, COMMUNICATE CONTACT,66, , , x, phone   � telephone   � call up  � call   �ring
+pb:collate.01, , collate the papers, To assemble in proper sequence, collate%2:35:00, bn:00085286v, SORT CLASSIFY ARRANGE,380, , ,2, collate
+pb:set.01, m, The goldsmith set the diamond, Fix in a border, set%2:35:02, bn:00093519v, MOUNT ASSEMBLE PRODUCE,483, , , , set
+pb:shell.01, , shell the legumes, Remove from its shell or outer covering, shell%2:30:00, bn:00093604v, REMOVE TAKE AWAY KIDNAPP,239, , iSource (shell bn:00071005n), x, shell
+pb:slog.01, , Mules plodded in a circle around a grindstone, Walk heavily and firmly as when weary or through mud, slog%2:38:00, bn:00088447v, MOVE ONESELF,30, , , x, plod   � footslog  � pad   � slog  � tramp
+pb:beckon.01, , She waved to her friends, Signal with the hands or nod, beckon%2:32:00, bn:00083289v, SIGNAL INDICATE,346, , iInstrument (hand bn:00042759n) (nod bn:00057846n), x, wave   � beckon
+pb:graze.01, m, There was so much food at the party that we quickly got sated just by browsing, Eat lightly try different dishes, graze%2:34:02, bn:00084147v, EAT BITE,51, , ,1, browse  � graze
+pb:implant.01, m, The egg fertilized in vitro implanted in the uterus of the birth mother with no further complications, Become attached to and embedded in the uterus, implant%2:35:02, bn:00089619v, INSERT,422, , Destination (uterus bn:00079392n), x, implant
+pb:record.01, m, They recorded her singing, Register electronically, record%2:32:01, bn:00092540v, RECORD,216, , ,2, record   � tape
+pb:accept.01, m, I shall have to accept these unpleasant working conditions, Tolerate or accommodate oneself to, accept%2:31:03, bn:00082203v, TOLERATE,1, , , x, accept   � live with  � swallow
+pb:tumble.01, m, Prices tumbled after the devaluation of the currency, Fall suddenly and sharply, tumble%2:30:00, bn:00095222v, REDUCE DIMINISH,241, , , , tumble
+pb:wield.01, , The burglar wielded an axe, Handle effectively, wield%2:35:00, bn:00089173v, CATCH,41, , , x, manage   � handle   � wield
+pb:dip.01, m, Prices dipped, Go down momentarily, dip%2:30:01, bn:00086851v, REDUCE DIMINISH,241, -agent, , , dip
+pb:motivate.01, , This moved me to sacrifice my career, Give an incentive for action, motivate%2:36:00, bn:00082313v, INCITE INDUCE,18, , , , actuate   � motivate   � incite   � prompt   � move
+pb:stow.01, zz, stow the cart, Fill by packing tightly, stow%2:35:01, bn:00094404v, FILL,421, , , x, stow
+pb:weaken.01, , "The prisoners resistance weakened after seven days", Become weaker, weaken%2:30:00, bn:00095683v, WEAKEN,445, -agent, , , weaken
+pb:sidestep.01, , He dodged the issue, Avoid or try to avoid fulfilling answering or performing (duties questions or issues), sidestep%2:32:00, bn:00085002v, ABSTAIN AVOID REFRAIN,260, , ,2, circumvent  � dodge   � fudge   � sidestep  � skirt
+pb:strip.02, zz, strip wood, Remove the surface from, strip%2:35:00, bn:00094476v, REMOVE TAKE AWAY KIDNAPP,239, , IPatient (surface bn:00075374n), x, strip
+pb:frame.01, , frame a policy, Make up plans or basic details for, frame%2:31:00, bn:00085491v, PLAN SCHEDULE,545, , ,2, compose   � draw up  � frame
+pb:nibble.01, , She nibbled on her cracker, Bite off very small pieces, nibble%2:35:00, bn:00091055v, EAT BITE,51, , ,1, nibble
+pb:crush.01, m, The plastic bottle crushed against the wall, Become injured broken or distorted by pressure, crush%2:30:08, bn:00086119v, BREAK DETERIORATE,58, -agent -instrument, iInstrument (pressure bn:00035778n), , crush
+pb:bind.01, , The Chinese would bind the feet of their women, Make fast; tie or secure with or as if with a rope, bind%2:35:00, bn:00083494v, SECURE FASTEN TIE,206, , , x, bind
+pb:oxidize.01, , NO EXAMPLE, Add oxygen to or combine with oxygen, oxidize%2:30:00, bn:00091364v, COMBINE MIX UNITE,434, , , , oxidize  � oxidate  � oxidise
+pb:mint.01, , strike coins, Form by stamping punching or printing, mint%2:36:00, bn:00085270v, CREATE MATERIALIZE ,382, , ,1, coin   � strike   � mint
+pb:drift.01, , The gypsies roamed the woods, Move about aimlessly or without any destination often in search of food or employment, drift%2:38:01, bn:00084629v, TRAVEL,175, , , x, wander   � drift   � ramble  � roam   � rove
+pb:wave.01, , She waved to her friends, Signal with the hands or nod, wave%2:32:00, bn:00083289v, SIGNAL INDICATE,346, , iInstrument (hand bn:00042759n) (nod bn:00057846n), x, wave   � beckon
+pb:consider.01, zc, NO EXAMPLE, Look at attentively, regard%2:39:00, bn:00085652v, LOOK,132, , , , regard   � consider
+pb:insert.01, zc, Insert your ticket here, Introduce, enclose%2:30:00, bn:00087594v, INSERT,422, , , x, enclose   � insert   � inclose  � introduce  � put in
+pb:yearn.01, , She ached for a cigarette, Have a desire for something or someone who is not present, yearn%2:37:01, bn:00082263v, REQUIRE NEED WANT HOPE,32, , ,1, ache  � pine  � yen  � languish   � yearn
+pb:crush.01, m, jam a toe, Crush or bruise, crush%2:35:01, bn:00086118v, HURT HARM ACHE,431, , iResult (bruise bn:00013464n), x, crush   � jam
+pb:cement.01, m, NO EXAMPLE, Bind or join with or as if with cement, cement%2:35:00, bn:00084720v, ATTACH,419, , iInstrument (cement bn:00017081n), x, cement
+pb:sting.01, m, His remark stung her, Cause an emotional pain as if by stinging, sting%2:37:00, bn:00094366v, HURT HARM ACHE,431, , , , sting
+pb:accede.01, m, The Maestro assented to the request for an encore, To agree or express agreement, accede%2:32:01, bn:00082192v, AGREE,25, , , x, acquiesce   � assent  � accede
+pb:spin.01, , The dervishes whirl around and around without getting dizzy, "Revolve quickly and repeatedly around ones own axis", spin%2:38:01, bn:00089137v, MOVE ONESELF,30, , , x, spin   � gyrate   � reel  � spin around  � whirl
+pb:buckle.01, zc, NO EXAMPLE, Fasten with a buckle or buckles, clasp%2:35:02, bn:00084179v, SECURE FASTEN TIE,206, , iInstrument (buckle bn:00013600n), x, buckle  � clasp
+pb:boast.01, zc, NO EXAMPLE, Show off, blow%2:32:03, bn:00083668v, BEHAVE,17, , , , blow   � bluster   � boast  � brag  � gas
+pb:compute.01, , NO EXAMPLE, Make a mathematical calculation or computation, compute%2:31:00, bn:00084373v, CALCULATE ESTIMATE,64, , ,2, calculate   � compute   � figure   � reckon   � cipher
+pb:arise.01, , A new religious movement originated in that country, Come into existence; take on form or shape, arise%2:42:00, bn:00082757v, BEGIN,46, , ,2, arise  � spring up  � develop   � grow   � originate
+pb:agitate.01, zc, NO EXAMPLE, Change the arrangement or position of, disturb%2:35:01, bn:00082471v, SORT CLASSIFY ARRANGE,380, , , , agitate   � commove  � disturb   � raise up  � shake up
+pb:clear.04, , clear the leaves from the lawn, Remove, clear%2:30:01, bn:00085079v, REMOVE TAKE AWAY KIDNAPP,239, , , x, clear
+pb:afflict.01, , she was afflicted by the death of her parents, Cause great unhappiness for; distress, afflict%2:37:00, bn:00082439v, HURT HARM ACHE,431, , , , afflict
+pb:read.01, m, She understands French, Make sense of a language, read%2:31:04, bn:00089841v, UNDERSTAND,93, , ,1, interpret   � read   � translate   � understand
+pb:carjack.01, , My car was carjacked last night!, "Take someones car from him by force usually with the intention of stealing it", carjack%2:35:00, bn:00084537v, STEAL DEPRIVE,301, , theme (car bn:00007309n),1, carjack
+pb:admit.02, , accept students for graduate study, Admit into a group or community, admit%2:40:00, bn:00082201v, AUTHORIZE ADMIT,11, , ,1, accept   � admit   � take on  � take
+pb:bounce.01, m, The rubber ball bounced, Spring back; spring away from an impact, bounce%2:38:00, bn:00083824v, MOVE BACK,605, , , x, rebound   � bounce   � bound   � recoil  � resile
